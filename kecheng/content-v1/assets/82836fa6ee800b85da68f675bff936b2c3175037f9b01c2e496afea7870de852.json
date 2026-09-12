@@ -1,0 +1,1008 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-16T13:03:28.709Z",
+  "source": {
+    "apkg": "书籍原文/皆の日本語中級 1/__1_.apkg",
+    "sha256": "fdbe2b358c0f3b4b63bb808d892505d7808591d039bfd552eb8ca44f552d24e3",
+    "deck": "大家的日语 中级1 词汇::09",
+    "noteType": "大家的日语 词汇"
+  },
+  "lesson": {
+    "id": "lesson-09",
+    "number": 9,
+    "title": "どこが違うんですか"
+  },
+  "count": 99,
+  "items": [
+    {
+      "index": 1,
+      "noteId": "1687173067077",
+      "japanese": "決まる",
+      "reading": "きまる",
+      "meaning": "点、决定\n（注文［ちゅうもん］が〜/点好菜）",
+      "meaningSource": "点、决定<br>（注文［ちゅうもん］が〜/点好菜）",
+      "audio": "音频/001_決まる.mp3",
+      "sourceAudio": "hypertts-905f7075063ab1733b8a834f02ed352a47929ef9997d10226964cfc9.mp3"
+    },
+    {
+      "index": 2,
+      "noteId": "1687173067078",
+      "japanese": "済む",
+      "reading": "すむ",
+      "meaning": "结束、完\n（食事が〜/用完餐）",
+      "meaningSource": "结束、完<br>（食事が〜/用完餐）",
+      "audio": "音频/002_済む.mp3",
+      "sourceAudio": "hypertts-b4bb423985f600efcfee505b1c62e825ad2d26eb97b05aea722dfb95.mp3"
+    },
+    {
+      "index": 3,
+      "noteId": "1687173067079",
+      "japanese": "印鑑",
+      "reading": "いんかん",
+      "meaning": "印章",
+      "meaningSource": "印章",
+      "audio": "音频/003_印鑑.mp3",
+      "sourceAudio": "hypertts-957060a6d32f0d1150a57fd2fbb25cb95dde02ad1bc590a752653671.mp3"
+    },
+    {
+      "index": 4,
+      "noteId": "1687173067080",
+      "japanese": "サイン",
+      "reading": "",
+      "meaning": "签字",
+      "meaningSource": "签字",
+      "audio": "音频/004_サイン.mp3",
+      "sourceAudio": "hypertts-7a00696178e15e27f0e36c10fb33a5bacecc08a9bf6be1f495b4188f.mp3"
+    },
+    {
+      "index": 5,
+      "noteId": "1687173067081",
+      "japanese": "性能",
+      "reading": "せいのう",
+      "meaning": "性能",
+      "meaningSource": "性能",
+      "audio": "音频/005_性能.mp3",
+      "sourceAudio": "hypertts-862a713dba296a359606f541b1fbe615556bb08de5578bf13b4eda3a.mp3"
+    },
+    {
+      "index": 6,
+      "noteId": "1687173067082",
+      "japanese": "タイプ",
+      "reading": "",
+      "meaning": "类型",
+      "meaningSource": "类型",
+      "audio": "音频/006_タイプ.mp3",
+      "sourceAudio": "hypertts-86c86613e7fa942a088ccf25e9ceaa7359267a7d4197b876f7205f98.mp3"
+    },
+    {
+      "index": 7,
+      "noteId": "1687173067083",
+      "japanese": "機能",
+      "reading": "きのう",
+      "meaning": "功能",
+      "meaningSource": "功能",
+      "audio": "音频/007_機能.mp3",
+      "sourceAudio": "hypertts-79119d2af7b7ae5b8d3f2dc5aef4498d1ef8cac6f62c4082b011de6e.mp3"
+    },
+    {
+      "index": 8,
+      "noteId": "1687173067084",
+      "japanese": "平日",
+      "reading": "ヘいじつ",
+      "meaning": "平日、平时（周一至周五）",
+      "meaningSource": "平日、平时（周一至周五）",
+      "audio": "音频/008_平日.mp3",
+      "sourceAudio": "hypertts-b62b98702a67cc2eb16b82a83428a4b395e6235be058d32d70731993.mp3"
+    },
+    {
+      "index": 9,
+      "noteId": "1687173067085",
+      "japanese": "将棋",
+      "reading": "しょうぎ",
+      "meaning": "日本象棋",
+      "meaningSource": "日本象棋",
+      "audio": "音频/009_将棋.mp3",
+      "sourceAudio": "hypertts-859b11d18a0c78921879b1a449066c05fde53d1c05a7e1c385ee8d01.mp3"
+    },
+    {
+      "index": 10,
+      "noteId": "1687173067086",
+      "japanese": "自慢する",
+      "reading": "じまんする",
+      "meaning": "自夸、夸耀",
+      "meaningSource": "自夸、夸耀",
+      "audio": "音频/010_自慢する.mp3",
+      "sourceAudio": "hypertts-03e737ad814fcb25e9d74267a420e21a8963e8e8d2a190d5006a29e2.mp3"
+    },
+    {
+      "index": 11,
+      "noteId": "1687173067087",
+      "japanese": "豚肉",
+      "reading": "ぶたにく",
+      "meaning": "猪肉",
+      "meaningSource": "猪肉",
+      "audio": "音频/011_豚肉.mp3",
+      "sourceAudio": "hypertts-182b040d6c26817294bd565dd0bd7ae165cea304a53e8543eb2e47f1.mp3"
+    },
+    {
+      "index": 12,
+      "noteId": "1687173067088",
+      "japanese": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning": "牛肉",
+      "meaningSource": "牛肉",
+      "audio": "音频/012_牛肉.mp3",
+      "sourceAudio": "hypertts-d06544a3596f6dd4fa33739f90c6ea036c73fb3b9cb9cffe4b3a2376.mp3"
+    },
+    {
+      "index": 13,
+      "noteId": "1687173067089",
+      "japanese": "バレーボール",
+      "reading": "",
+      "meaning": "排球",
+      "meaningSource": "排球",
+      "audio": "音频/013_バレーボール.mp3",
+      "sourceAudio": "hypertts-908eb148c21d3043729eb20d852e155b3c9adb117de09a27e26996c4.mp3"
+    },
+    {
+      "index": 14,
+      "noteId": "1687173067090",
+      "japanese": "気温",
+      "reading": "きおん",
+      "meaning": "气温",
+      "meaningSource": "气温",
+      "audio": "音频/014_気温.mp3",
+      "sourceAudio": "hypertts-28c888b22b50774d57276a6a48484c918e95eebde1b6a84f6722848f.mp3"
+    },
+    {
+      "index": 15,
+      "noteId": "1687173067091",
+      "japanese": "降水量",
+      "reading": "こうすいりょう",
+      "meaning": "降雨量",
+      "meaningSource": "降雨量",
+      "audio": "音频/015_降水量.mp3",
+      "sourceAudio": "hypertts-3625b60f1892e7900f58b78967f4893de2404e192f1951be87ce520a.mp3"
+    },
+    {
+      "index": 16,
+      "noteId": "1687173067092",
+      "japanese": "月別",
+      "reading": "つきべつ",
+      "meaning": "按月",
+      "meaningSource": "按月",
+      "audio": "音频/016_月別.mp3",
+      "sourceAudio": "hypertts-bf056c89cad11c0f174dba0a583a109b72e866c588a29cc01f61178d.mp3"
+    },
+    {
+      "index": 17,
+      "noteId": "1687173067093",
+      "japanese": "平均",
+      "reading": "ヘいきん",
+      "meaning": "平均",
+      "meaningSource": "平均",
+      "audio": "音频/017_平均.mp3",
+      "sourceAudio": "hypertts-065f01d1cfcf8ac8fb54e5e63b84775e8434693aeaf1441db30eefc3.mp3"
+    },
+    {
+      "index": 18,
+      "noteId": "1687173067094",
+      "japanese": "予防注射",
+      "reading": "よぼうちゅうしゃ",
+      "meaning": "（打）预防针",
+      "meaningSource": "（打）预防针",
+      "audio": "音频/018_予防注射.mp3",
+      "sourceAudio": "hypertts-21a8eeb614e76425611b3fe0eed9a9dcb29472061036bcf2620b0382.mp3"
+    },
+    {
+      "index": 19,
+      "noteId": "1687173067095",
+      "japanese": "国々",
+      "reading": "くにぐに",
+      "meaning": "各国",
+      "meaningSource": "各国",
+      "audio": "音频/019_国々.mp3",
+      "sourceAudio": "hypertts-ce130f1f8ee3597f1ea804be7da2cfe956ae689738e7a3d3e29caff1.mp3"
+    },
+    {
+      "index": 20,
+      "noteId": "1687173067096",
+      "japanese": "都市",
+      "reading": "とし",
+      "meaning": "城市",
+      "meaningSource": "城市",
+      "audio": "音频/020_都市.mp3",
+      "sourceAudio": "hypertts-e46ea746b2ffc949faff1caf3d950c8001c7bfb4f3b85287b2b7f0b9.mp3"
+    },
+    {
+      "index": 21,
+      "noteId": "1687173067097",
+      "japanese": "入国する",
+      "reading": "にゅうこくする",
+      "meaning": "入境",
+      "meaningSource": "入境",
+      "audio": "音频/021_入国する.mp3",
+      "sourceAudio": "hypertts-33ddfafe05311bc6d58311b987d1280a3965adfd190a6841ffb0c800.mp3"
+    },
+    {
+      "index": 22,
+      "noteId": "1687173067098",
+      "japanese": "資源",
+      "reading": "しげん",
+      "meaning": "资源",
+      "meaningSource": "资源",
+      "audio": "音频/022_資源.mp3",
+      "sourceAudio": "hypertts-e5f6420943a746f2d96a15811598834a63fd171133d0fb80463a9f74.mp3"
+    },
+    {
+      "index": 23,
+      "noteId": "1687173067099",
+      "japanese": "とれる［米が〜］",
+      "reading": "［こめが〜］",
+      "meaning": "产、出产［产大米］",
+      "meaningSource": "产、出产［产大米］",
+      "audio": "音频/023_とれる［米が〜］.mp3",
+      "sourceAudio": "hypertts-abec38661137d1b8f6473e0c079e8739192e00ad8c7471fe1599d490.mp3"
+    },
+    {
+      "index": 24,
+      "noteId": "1687173067100",
+      "japanese": "大雪",
+      "reading": "おおゆき",
+      "meaning": "大雪",
+      "meaningSource": "大雪",
+      "audio": "音频/024_大雪.mp3",
+      "sourceAudio": "hypertts-ce9dc1b59c830418e4feb32e72ee8848eb2e4504d8ca94adfe06bfad.mp3"
+    },
+    {
+      "index": 25,
+      "noteId": "1687173067101",
+      "japanese": "乾燥する",
+      "reading": "かんそうする",
+      "meaning": "干燥",
+      "meaningSource": "干燥",
+      "audio": "音频/025_乾燥する.mp3",
+      "sourceAudio": "hypertts-d577c4ff52b38f43d56e513d6c406966e2f7d45ba7b98e0d5a4be917.mp3"
+    },
+    {
+      "index": 26,
+      "noteId": "1687173067102",
+      "japanese": "道路",
+      "reading": "どうろ",
+      "meaning": "道路",
+      "meaningSource": "道路",
+      "audio": "音频/026_道路.mp3",
+      "sourceAudio": "hypertts-85f98f07af8a874b52ff098a421d2ca8a6281d775630380a06f1c769.mp3"
+    },
+    {
+      "index": 27,
+      "noteId": "1687173067103",
+      "japanese": "どんどん",
+      "reading": "",
+      "meaning": "不停地、一个劲地、不断地",
+      "meaningSource": "不停地、一个劲地、不断地",
+      "audio": "音频/027_どんどん.mp3",
+      "sourceAudio": "hypertts-5165e69e1e6f693415da7e64ddb7e340b8b263ab8a5fc181e4f1080c.mp3"
+    },
+    {
+      "index": 28,
+      "noteId": "1687173067104",
+      "japanese": "最後",
+      "reading": "さいご",
+      "meaning": "最后",
+      "meaningSource": "最后",
+      "audio": "音频/028_最後.mp3",
+      "sourceAudio": "hypertts-ce8b92c9faf30edc8c5c71bbc2292b00aa7ba200b9d91e0e713feccb.mp3"
+    },
+    {
+      "index": 29,
+      "noteId": "1687173067105",
+      "japanese": "生きる",
+      "reading": "いきる",
+      "meaning": "活着、健在",
+      "meaningSource": "活着、健在",
+      "audio": "音频/029_生きる.mp3",
+      "sourceAudio": "hypertts-285b857f7cab170844e2deb1336cf2f3c3216511c1cf1fb3c0e67193.mp3"
+    },
+    {
+      "index": 30,
+      "noteId": "1687173067106",
+      "japanese": "誕生",
+      "reading": "たんじょう",
+      "meaning": "诞生",
+      "meaningSource": "诞生",
+      "audio": "音频/030_誕生.mp3",
+      "sourceAudio": "hypertts-519c9a11710a4b3ec850ed2f524e9f34fc767e10246128fb65947ab5.mp3"
+    },
+    {
+      "index": 31,
+      "noteId": "1687173067107",
+      "japanese": "実現する",
+      "reading": "じつげんする",
+      "meaning": "实现（夢が～/实现梦想）",
+      "meaningSource": "实现（夢が～/实现梦想）",
+      "audio": "音频/031_実現する.mp3",
+      "sourceAudio": "hypertts-bd80f550d8cc5de712609ce925a036db5db0e3c5478412865434a682.mp3"
+    },
+    {
+      "index": 32,
+      "noteId": "1687173067108",
+      "japanese": "金メダル",
+      "reading": "きんメダル",
+      "meaning": "金牌",
+      "meaningSource": "金牌",
+      "audio": "音频/032_金メダル.mp3",
+      "sourceAudio": "hypertts-8d8be4b5726437119f9b35b126e847b26664a9ac0c52fb6c959ba57c.mp3"
+    },
+    {
+      "index": 33,
+      "noteId": "1687173067109",
+      "japanese": "金",
+      "reading": "きん",
+      "meaning": "金",
+      "meaningSource": "金",
+      "audio": "音频/033_金.mp3",
+      "sourceAudio": "hypertts-15ef9d3ad455b613832527c587c87983d5205fec675660a00d59ce2d.mp3"
+    },
+    {
+      "index": 34,
+      "noteId": "1687173067110",
+      "japanese": "メダル",
+      "reading": "",
+      "meaning": "奖牌",
+      "meaningSource": "奖牌",
+      "audio": "音频/034_メダル.mp3",
+      "sourceAudio": "hypertts-07d9bc8aaed447aab6a410254dde9991bb1f4104381b527f38da75a4.mp3"
+    },
+    {
+      "index": 35,
+      "noteId": "1687173067111",
+      "japanese": "バスケットボール",
+      "reading": "",
+      "meaning": "篮球",
+      "meaningSource": "篮球",
+      "audio": "音频/035_バスケットボール.mp3",
+      "sourceAudio": "hypertts-0a2e00a8234aa50f0579d62189ed71e1dbc1bbe85c69ab8320319836.mp3"
+    },
+    {
+      "index": 36,
+      "noteId": "1687173067112",
+      "japanese": "選手",
+      "reading": "せんしゅ",
+      "meaning": "选手、运动员",
+      "meaningSource": "选手、运动员",
+      "audio": "音频/036_選手.mp3",
+      "sourceAudio": "hypertts-e8b405bd134afd51b5203e9b1626b628eb7f368d96eeae39a211e3b1.mp3"
+    },
+    {
+      "index": 37,
+      "noteId": "1687173067113",
+      "japanese": "シンプル［な］",
+      "reading": "",
+      "meaning": "简单［的］、简洁［的］",
+      "meaningSource": "简单［的］、简洁［的］",
+      "audio": "音频/037_シンプル［な］.mp3",
+      "sourceAudio": "hypertts-d1d006513f20c2d40308e21b80cb5c6dfa33c6dfdf67c2a8758894e1.mp3"
+    },
+    {
+      "index": 38,
+      "noteId": "1687173067114",
+      "japanese": "書き込み",
+      "reading": "かきこみ",
+      "meaning": "填写、记入",
+      "meaningSource": "填写、记入",
+      "audio": "音频/038_書き込み.mp3",
+      "sourceAudio": "hypertts-e1e9f8e7cf3a0d443f7ea6f50c69b43513adb1a81f3adf304e41aa00.mp3"
+    },
+    {
+      "index": 39,
+      "noteId": "1687173067115",
+      "japanese": "検索",
+      "reading": "けんさく",
+      "meaning": "检索",
+      "meaningSource": "检索",
+      "audio": "音频/039_検索.mp3",
+      "sourceAudio": "hypertts-48989e07751615051d2446ff9c621e6eaa9eb7b4246d5583387e9675.mp3"
+    },
+    {
+      "index": 40,
+      "noteId": "1687173067116",
+      "japanese": "例文",
+      "reading": "れいぶん",
+      "meaning": "例句",
+      "meaningSource": "例句",
+      "audio": "音频/040_例文.mp3",
+      "sourceAudio": "hypertts-97386b08447022b28ec3cce0727a56a923d7d01895b1878e3297be2a.mp3"
+    },
+    {
+      "index": 41,
+      "noteId": "1687173067117",
+      "japanese": "ジャンプ機能",
+      "reading": "ジャンプきのう",
+      "meaning": "跳跃换项功能（指电子词典所具备的功能。在查阅某个词汇时，从一部词典跳跃到另一部词典进行查阅的功能）",
+      "meaningSource": "跳跃换项功能（指电子词典所具备的功能。在查阅某个词汇时，从一部词典跳跃到另一部词典进行查阅的功能）",
+      "audio": "音频/041_ジャンプ機能.mp3",
+      "sourceAudio": "hypertts-10515ac00f00bfc7edaf1f1988f1d8ec99c57ad020a12dff98d904f0.mp3"
+    },
+    {
+      "index": 42,
+      "noteId": "1687173067118",
+      "japanese": "ジャンプ",
+      "reading": "",
+      "meaning": "跳跃",
+      "meaningSource": "跳跃",
+      "audio": "音频/042_ジャンプ.mp3",
+      "sourceAudio": "hypertts-393624d8dce0eba0a0dc64e7f8298942c73a88521ee02b87e1cb8f2b.mp3"
+    },
+    {
+      "index": 43,
+      "noteId": "1687173067119",
+      "japanese": "商品",
+      "reading": "しょうひん",
+      "meaning": "商品",
+      "meaningSource": "商品",
+      "audio": "音频/043_商品.mp3",
+      "sourceAudio": "hypertts-cdd9c7d8f67ad29eaaf13ecc636cbb33d71405fc0907218f3e0310f6.mp3"
+    },
+    {
+      "index": 44,
+      "noteId": "1687173067120",
+      "japanese": "～社",
+      "reading": "〜しゃ",
+      "meaning": "～社",
+      "meaningSource": "～社",
+      "audio": "音频/044_～社.mp3",
+      "sourceAudio": "hypertts-1c275428b7be74c0574b420a1c42da6eff5499efe707ad3cc65ee32b.mp3"
+    },
+    {
+      "index": 45,
+      "noteId": "1687173067121",
+      "japanese": "国語辞書",
+      "reading": "こくごじしょ",
+      "meaning": "国语词典（日语）",
+      "meaningSource": "国语词典（日语）",
+      "audio": "音频/045_国語辞書.mp3",
+      "sourceAudio": "hypertts-66001b1f83e9db82882a35459656dc22ef0d7fd4d2301ba5f4706deb.mp3"
+    },
+    {
+      "index": 46,
+      "noteId": "1687173067122",
+      "japanese": "和英辞書",
+      "reading": "わえいじしょ",
+      "meaning": "日英词典",
+      "meaningSource": "日英词典",
+      "audio": "音频/046_和英辞書.mp3",
+      "sourceAudio": "hypertts-4aa8bb72ea1ebfd54a6527e20bf7f79fff81c327b590d53c7bfa9c05.mp3"
+    },
+    {
+      "index": 47,
+      "noteId": "1687173067123",
+      "japanese": "載る［例文が～］",
+      "reading": "のる［れいぶんが〜］",
+      "meaning": "登载、刊载［附例句］",
+      "meaningSource": "登载、刊载［附例句］",
+      "audio": "音频/047_載る［例文が～］.mp3",
+      "sourceAudio": "hypertts-2daa25b3201abba01e865c620f19a37197dce8b470c8161e534bdabb.mp3"
+    },
+    {
+      "index": 48,
+      "noteId": "1687173067124",
+      "japanese": "シルバー",
+      "reading": "",
+      "meaning": "银、银色",
+      "meaningSource": "银、银色",
+      "audio": "音频/048_シルバー.mp3",
+      "sourceAudio": "hypertts-0c545ab9b13ca7b519ef0399379e0381442f4c8e4a01f9fae7f6cae9.mp3"
+    },
+    {
+      "index": 49,
+      "noteId": "1687173067125",
+      "japanese": "付け加える",
+      "reading": "つけくわえる",
+      "meaning": "附加",
+      "meaningSource": "附加",
+      "audio": "音频/049_付け加える.mp3",
+      "sourceAudio": "hypertts-d6ded4f442f1e1ab0ad144bed194619786d7a8b9b27c0507cfece743.mp3"
+    },
+    {
+      "index": 50,
+      "noteId": "1687173067126",
+      "japanese": "編集する",
+      "reading": "へんしゅうする",
+      "meaning": "编辑",
+      "meaningSource": "编辑",
+      "audio": "音频/050_編集する.mp3",
+      "sourceAudio": "hypertts-d3d29c0b909d81d9b909b737b3ec4d4e03d1a52dcd9b13139f3f81b7.mp3"
+    },
+    {
+      "index": 51,
+      "noteId": "1687173067127",
+      "japanese": "しっかり",
+      "reading": "",
+      "meaning": "好好地（～留守番をする/好好看家）",
+      "meaningSource": "好好地（～留守番をする/好好看家）",
+      "audio": "音频/051_しっかり.mp3",
+      "sourceAudio": "hypertts-05e8de0aa77b3bfe56029ae9ab1b0ec08ff06b732ee41694e145f7c6.mp3"
+    },
+    {
+      "index": 52,
+      "noteId": "1687173067128",
+      "japanese": "留守番をする",
+      "reading": "るすばんをする",
+      "meaning": "看家、看门",
+      "meaningSource": "看家、看门",
+      "audio": "音频/052_留守番をする.mp3",
+      "sourceAudio": "hypertts-77b134907029e7f6dd723ff71a1ff503cd326e259425be96c08d735c.mp3"
+    },
+    {
+      "index": 53,
+      "noteId": "1687173067129",
+      "japanese": "柄",
+      "reading": "がら",
+      "meaning": "图案、花样",
+      "meaningSource": "图案、花样",
+      "audio": "音频/053_柄.mp3",
+      "sourceAudio": "hypertts-df24d6aded0628ac51fbb1210ca3762550535f90a52ba2903984d3df.mp3"
+    },
+    {
+      "index": 54,
+      "noteId": "1687173067130",
+      "japanese": "共通語",
+      "reading": "きょうつうご",
+      "meaning": "通用语",
+      "meaningSource": "通用语",
+      "audio": "音频/054_共通語.mp3",
+      "sourceAudio": "hypertts-228252a5aa4d378ea5cfa2f9f9d0c09ccf9990fe714c8b9c37ef2ec3.mp3"
+    },
+    {
+      "index": 55,
+      "noteId": "1687173067131",
+      "japanese": "演奏",
+      "reading": "えんそう",
+      "meaning": "演奏",
+      "meaningSource": "演奏",
+      "audio": "音频/055_演奏.mp3",
+      "sourceAudio": "hypertts-366069a6db761d01eb5c951bed1c48cedea0ad262c18dfd547d6fe5b.mp3"
+    },
+    {
+      "index": 56,
+      "noteId": "1687173067132",
+      "japanese": "特許",
+      "reading": "とっきょ",
+      "meaning": "专利",
+      "meaningSource": "专利",
+      "audio": "音频/056_特許.mp3",
+      "sourceAudio": "hypertts-79fdbd9eea6fd29b14169be0c2db7656f200944ef01cd341449a5140.mp3"
+    },
+    {
+      "index": 57,
+      "noteId": "1687173067133",
+      "japanese": "倒産",
+      "reading": "とうさん",
+      "meaning": "倒闭、破产",
+      "meaningSource": "倒闭、破产",
+      "audio": "音频/057_倒産.mp3",
+      "sourceAudio": "hypertts-e8c3f615e5ce060ca57861400848038e4d9e2e3760176c8f9413eff3.mp3"
+    },
+    {
+      "index": 58,
+      "noteId": "1687173067134",
+      "japanese": "大金持ち",
+      "reading": "おおがねもち",
+      "meaning": "大富豪",
+      "meaningSource": "大富豪",
+      "audio": "音频/058_大金持ち.mp3",
+      "sourceAudio": "hypertts-cfe7116c43db4cc8fd3e23e1bfef29398f3bc4f10aa85453965b3339.mp3"
+    },
+    {
+      "index": 59,
+      "noteId": "1687173067135",
+      "japanese": "誇る",
+      "reading": "ほこる",
+      "meaning": "引以为豪、自豪",
+      "meaningSource": "引以为豪、自豪",
+      "audio": "音频/059_誇る.mp3",
+      "sourceAudio": "hypertts-3b6e44b1ade553da6632928add8ee8ff151b26b72f1b4ad95d636474.mp3"
+    },
+    {
+      "index": 60,
+      "noteId": "1687173067136",
+      "japanese": "表れる",
+      "reading": "あらわれる",
+      "meaning": "表现出、体现（文に考えが～/想法体现在文章中）",
+      "meaningSource": "表现出、体现（文に考えが～/想法体现在文章中）",
+      "audio": "音频/060_表れる.mp3",
+      "sourceAudio": "hypertts-1b3e2c4adb60a5c76b20ae5b6c7d8a4e9b027b26b483ab5059c486e2.mp3"
+    },
+    {
+      "index": 61,
+      "noteId": "1687173067137",
+      "japanese": "今では",
+      "reading": "いまでは",
+      "meaning": "如今",
+      "meaningSource": "如今",
+      "audio": "音频/061_今では.mp3",
+      "sourceAudio": "hypertts-61ada82fd5ce20113802cb95c80c93fd5e56ffe63fc8e395ccd2e692.mp3"
+    },
+    {
+      "index": 62,
+      "noteId": "1687173067138",
+      "japanese": "TSUNAMI",
+      "reading": "ツナミ",
+      "meaning": "海啸",
+      "meaningSource": "海啸",
+      "audio": "音频/062_TSUNAMI.mp3",
+      "sourceAudio": "hypertts-48aa5d8a28fcf299b1321d583578f6533798a39ec6a38344cc25fd76.mp3"
+    },
+    {
+      "index": 63,
+      "noteId": "1687173067139",
+      "japanese": "影響",
+      "reading": "えいきょう",
+      "meaning": "影响",
+      "meaningSource": "影响",
+      "audio": "音频/063_影響.mp3",
+      "sourceAudio": "hypertts-0abfdd16664f168b9112cf025958d2646b911412d3d22c21eb712b31.mp3"
+    },
+    {
+      "index": 64,
+      "noteId": "1687173067140",
+      "japanese": "有名人",
+      "reading": "ゆうめいじん",
+      "meaning": "名人",
+      "meaningSource": "名人",
+      "audio": "音频/064_有名人.mp3",
+      "sourceAudio": "hypertts-109ae0a1118ded51f8242df4b18d8a854158f23385ce020d878bada7.mp3"
+    },
+    {
+      "index": 65,
+      "noteId": "1687173067141",
+      "japanese": "録音する",
+      "reading": "ろくおんする",
+      "meaning": "录音",
+      "meaningSource": "录音",
+      "audio": "音频/065_録音する.mp3",
+      "sourceAudio": "hypertts-895ffe236a7e4eb23ea1e2d836e09d2cab42c3604fa2045179393110.mp3"
+    },
+    {
+      "index": 66,
+      "noteId": "1687173067142",
+      "japanese": "ヒント",
+      "reading": "",
+      "meaning": "暗示、启发",
+      "meaningSource": "暗示、启发",
+      "audio": "音频/066_ヒント.mp3",
+      "sourceAudio": "hypertts-a13b1e96cd550b8b0486a1e41f9a3b73bad02ef5a683f132ab1090d6.mp3"
+    },
+    {
+      "index": 67,
+      "noteId": "1687173067143",
+      "japanese": "貸し出す",
+      "reading": "かしだす",
+      "meaning": "出租、借出",
+      "meaningSource": "出租、借出",
+      "audio": "音频/067_貸し出す.mp3",
+      "sourceAudio": "hypertts-33eaea1678cbf6c9b74408196ba7a65f0ba5c93e2e243c002595ba73.mp3"
+    },
+    {
+      "index": 68,
+      "noteId": "1687173067144",
+      "japanese": "ところが",
+      "reading": "",
+      "meaning": "然而、不过",
+      "meaningSource": "然而、不过",
+      "audio": "音频/068_ところが.mp3",
+      "sourceAudio": "hypertts-bbbf03262cf0a43dce8f6f1f7c13cb672896f087579abb59cf3b92f4.mp3"
+    },
+    {
+      "index": 69,
+      "noteId": "1687173067145",
+      "japanese": "競争",
+      "reading": "きょうそう",
+      "meaning": "竞争",
+      "meaningSource": "竞争",
+      "audio": "音频/069_競争.mp3",
+      "sourceAudio": "hypertts-7cbe4fc23f64b4e65ee7b18d4099128d16e159a479ebac455a222dad.mp3"
+    },
+    {
+      "index": 70,
+      "noteId": "1687173067146",
+      "japanese": "性別",
+      "reading": "せいべつ",
+      "meaning": "性别",
+      "meaningSource": "性别",
+      "audio": "音频/070_性別.mp3",
+      "sourceAudio": "hypertts-b46c8bc19af95843b16fda1dbbdcc974970f993bec25ab91f30d367f.mp3"
+    },
+    {
+      "index": 71,
+      "noteId": "1687173067147",
+      "japanese": "地域",
+      "reading": "ちいき",
+      "meaning": "区域",
+      "meaningSource": "区域",
+      "audio": "音频/071_地域.mp3",
+      "sourceAudio": "hypertts-a5b657e1462bbf32c06e209b6ebad3bed8cd9721eb50d2a5df32b899.mp3"
+    },
+    {
+      "index": 72,
+      "noteId": "1687173067148",
+      "japanese": "関係なく",
+      "reading": "かんけいなく",
+      "meaning": "与～无关（性別に～/不论性别）",
+      "meaningSource": "与～无关（性別に～/不论性别）",
+      "audio": "音频/072_関係なく.mp3",
+      "sourceAudio": "hypertts-e6daa6277c037c566093b91c175c64d2a84d3999a998b9b06cac6033.mp3"
+    },
+    {
+      "index": 73,
+      "noteId": "1687173067149",
+      "japanese": "娯楽",
+      "reading": "ごらく",
+      "meaning": "娱乐",
+      "meaningSource": "娱乐",
+      "audio": "音频/073_娯楽.mp3",
+      "sourceAudio": "hypertts-3ddac63fa9ca77260cf5cd4acc5e97a56141761ddd2512975c08fa7b.mp3"
+    },
+    {
+      "index": 74,
+      "noteId": "1687173067150",
+      "japanese": "［お］年寄り",
+      "reading": "［お］としより",
+      "meaning": "老人家",
+      "meaningSource": "老人家",
+      "audio": "音频/074_［お］年寄り.mp3",
+      "sourceAudio": "hypertts-1e6686cc9bd013a79f9f02f6686dc85cd18c00841683f8980d595a84.mp3"
+    },
+    {
+      "index": 75,
+      "noteId": "1687173067151",
+      "japanese": "仲間",
+      "reading": "なかま",
+      "meaning": "伙伴、同伴",
+      "meaningSource": "伙伴、同伴",
+      "audio": "音频/075_仲間.mp3",
+      "sourceAudio": "hypertts-fef461f36aff0ebf0446d6ad2da72977498d8f6861d2cfc66c1804ed.mp3"
+    },
+    {
+      "index": 76,
+      "noteId": "1687173067152",
+      "japanese": "心",
+      "reading": "こころ",
+      "meaning": "心理、心",
+      "meaningSource": "心理、心",
+      "audio": "音频/076_心.mp3",
+      "sourceAudio": "hypertts-485199f1219ca7c4b16a27f2fbfb3fad48ef7ce9077c908fc820398a.mp3"
+    },
+    {
+      "index": 77,
+      "noteId": "1687173067153",
+      "japanese": "治す",
+      "reading": "なおす",
+      "meaning": "治疗（病気を～/治病）",
+      "meaningSource": "治疗（病気を～/治病）",
+      "audio": "音频/077_治す.mp3",
+      "sourceAudio": "hypertts-b632dec0e3bd292822af01275ce395cb188df1b4a61b209594542655.mp3"
+    },
+    {
+      "index": 78,
+      "noteId": "1687173067154",
+      "japanese": "単なる",
+      "reading": "たんなる",
+      "meaning": "仅仅、单纯",
+      "meaningSource": "仅仅、单纯",
+      "audio": "音频/078_単なる.mp3",
+      "sourceAudio": "hypertts-8391d3841abe341fd209322eafce59daa63e46eb1d14434b9b5c3b3e.mp3"
+    },
+    {
+      "index": 79,
+      "noteId": "1687173067155",
+      "japanese": "きっかけ",
+      "reading": "",
+      "meaning": "契机、开端",
+      "meaningSource": "契机、开端",
+      "audio": "音频/079_きっかけ.mp3",
+      "sourceAudio": "hypertts-94caec418a09993ee37f4dc3f1482f9b6a1b4ee06c6a88f1e37fc7d9.mp3"
+    },
+    {
+      "index": 80,
+      "noteId": "1687173067156",
+      "japanese": "交流協会",
+      "reading": "こうりゅうきょうかい",
+      "meaning": "交流协会",
+      "meaningSource": "交流协会",
+      "audio": "音频/080_交流協会.mp3",
+      "sourceAudio": "hypertts-c7ba9d380d451b106bec490f047b28ed798ccfd08708aad8377e3bdc.mp3"
+    },
+    {
+      "index": 81,
+      "noteId": "1687173067157",
+      "japanese": "広報誌",
+      "reading": "こうほうし",
+      "meaning": "宣传杂志",
+      "meaningSource": "宣传杂志",
+      "audio": "音频/081_広報誌.mp3",
+      "sourceAudio": "hypertts-a66024faa8243f0e7b092053dce508ccf5701ae43d88a1f40dc3fc89.mp3"
+    },
+    {
+      "index": 82,
+      "noteId": "1687173067158",
+      "japanese": "暮らし",
+      "reading": "くらし",
+      "meaning": "生活",
+      "meaningSource": "生活",
+      "audio": "音频/082_暮らし.mp3",
+      "sourceAudio": "hypertts-cece88bf4242fadcedf35a1e09e135c0d4d1b88212d630bf1c7cadd6.mp3"
+    },
+    {
+      "index": 83,
+      "noteId": "1687173067159",
+      "japanese": "役立つ",
+      "reading": "やくだつ",
+      "meaning": "起作用",
+      "meaningSource": "起作用",
+      "audio": "音频/083_役立つ.mp3",
+      "sourceAudio": "hypertts-740a8e997f0f4bd18500af47dcb9101facf40e66ca1476b3ab0bceb1.mp3"
+    },
+    {
+      "index": 84,
+      "noteId": "1687173067160",
+      "japanese": "参加者",
+      "reading": "さんかしゃ",
+      "meaning": "参加者",
+      "meaningSource": "参加者",
+      "audio": "音频/084_参加者.mp3",
+      "sourceAudio": "hypertts-6c92f7615ccee0296a62bbaa841dfb101b577421586518eba9a81686.mp3"
+    },
+    {
+      "index": 85,
+      "noteId": "1687173067161",
+      "japanese": "こうやって",
+      "reading": "",
+      "meaning": "像这样……",
+      "meaningSource": "像这样……",
+      "audio": "音频/085_こうやって.mp3",
+      "sourceAudio": "hypertts-6ae0589bbe73ec901993a46b613bf5ea186745ad5e0aeb85d76429f4.mp3"
+    },
+    {
+      "index": 86,
+      "noteId": "1687173067162",
+      "japanese": "～だけじゃなくて、～のがいいんですが……。",
+      "reading": "",
+      "meaning": "不光～，而且～为好\n对想买的商品，另提附加条件。",
+      "meaningSource": "不光～，而且～为好<br>对想买的商品，另提附加条件。",
+      "audio": "音频/086_～だけじゃなくて、～のがいいんですが……。.mp3",
+      "sourceAudio": "hypertts-8eea72e63d860a752ba099fa3dec13f4f97f08dd940a62d837738654.mp3"
+    },
+    {
+      "index": 87,
+      "noteId": "1687173067163",
+      "japanese": "それでしたら、～（の）がよろしいんじゃないでしょうか。",
+      "reading": "",
+      "meaning": "如果那样的话～不就好了吗？",
+      "meaningSource": "如果那样的话～不就好了吗？",
+      "audio": "音频/087_それでしたら、～（の）がよろしいんじゃないでしょうか。.mp3",
+      "sourceAudio": "hypertts-2c7c6a514cc54283190f94079b11b31c50f446f7ff393ad2e19df431.mp3"
+    },
+    {
+      "index": 88,
+      "noteId": "1687173067164",
+      "japanese": "ほとんど変わりませんね。",
+      "reading": "",
+      "meaning": "几乎一样啊。",
+      "meaningSource": "几乎一样啊。",
+      "audio": "音频/088_ほとんど変わりませんね。.mp3",
+      "sourceAudio": "hypertts-33a4fd986aa07d4bfce88c52390b7d20081c33dc5b63ad1f6307c085.mp3"
+    },
+    {
+      "index": 89,
+      "noteId": "1687173067165",
+      "japanese": "〜で、〜はありませんか。",
+      "reading": "",
+      "meaning": "同一种（商品），有没有（其他款式）？\n当店员推荐某款商品时，要求用同样的条件购买不同款式的商品。",
+      "meaningSource": "同一种（商品），有没有（其他款式）？<br>当店员推荐某款商品时，要求用同样的条件购买不同款式的商品。",
+      "audio": "音频/089_〜で、〜はありませんか。.mp3",
+      "sourceAudio": "hypertts-9caef527ebfc66fba4f221ce1b730ad8988017a7c869c34a87e821d0.mp3"
+    },
+    {
+      "index": 90,
+      "noteId": "1687173067166",
+      "japanese": "ドラえもん",
+      "reading": "",
+      "meaning": "哆啦 A 梦、叮当猫、机器猫：漫画主人公，被改编成动画片，译成多种语言，在世界上广为流传。",
+      "meaningSource": "哆啦 A 梦、叮当猫、机器猫：漫画主人公，被改编成动画片，译成多种语言，在世界上广为流传。",
+      "audio": "音频/090_ドラえもん.mp3",
+      "sourceAudio": "hypertts-34fb5004f8bb341bf78cad308132d46d7c4fc631d8a0f5e8d406b124.mp3"
+    },
+    {
+      "index": 91,
+      "noteId": "1687173067167",
+      "japanese": "アインシュタイン",
+      "reading": "",
+      "meaning": "爱因斯坦：Albert Einstein（阿尔伯特・爱因斯坦）（1879～1955）。出生于德国的理论物理学家。诺贝尔奖获得者。",
+      "meaningSource": "爱因斯坦：Albert Einstein（阿尔伯特・爱因斯坦）（1879～1955）。出生于德国的理论物理学家。诺贝尔奖获得者。",
+      "audio": "音频/091_アインシュタイン.mp3",
+      "sourceAudio": "hypertts-3805b09847e2323542115671f518d639871865e2fb0d04c0a9a9bbad.mp3"
+    },
+    {
+      "index": 92,
+      "noteId": "1687173067168",
+      "japanese": "タイム",
+      "reading": "",
+      "meaning": "时代周刊：美国新闻周刊杂志。在世界 30 个国家出版。",
+      "meaningSource": "时代周刊：美国新闻周刊杂志。在世界 30 个国家出版。",
+      "audio": "音频/092_タイム.mp3",
+      "sourceAudio": "hypertts-834175a5437e0d99b54223312715e3961333be06fc6827e073ed9aa6.mp3"
+    },
+    {
+      "index": 93,
+      "noteId": "1687173067169",
+      "japanese": "ガンジー",
+      "reading": "",
+      "meaning": "甘地：Mohandas Karamchand Gandhi（莫汉达斯・卡拉姆昌德・甘地）（1869～1948）印度政治家、思想家。",
+      "meaningSource": "甘地：Mohandas Karamchand Gandhi（莫汉达斯・卡拉姆昌德・甘地）（1869～1948）印度政治家、思想家。",
+      "audio": "音频/093_ガンジー.mp3",
+      "sourceAudio": "hypertts-e859a258bba49e11cae7fb6b498492da32d9e5de4382d790af92de86.mp3"
+    },
+    {
+      "index": 94,
+      "noteId": "1687173067170",
+      "japanese": "毛沢東",
+      "reading": "もうたくとう",
+      "meaning": "毛泽东：（1893～1976）中国政治家、思想家。建立中华人民共和国。",
+      "meaningSource": "毛泽东：（1893～1976）中国政治家、思想家。建立中华人民共和国。",
+      "audio": "音频/094_毛沢東.mp3",
+      "sourceAudio": "hypertts-20dd3742dcc6f12fc539557526c6010d9c31c8395a8bdcd7b00c5cf1.mp3"
+    },
+    {
+      "index": 95,
+      "noteId": "1687173067171",
+      "japanese": "黒澤明",
+      "reading": "くろさわあきら",
+      "meaning": "黑泽明：（1910～1998）电影导演。代表作《七武士》。",
+      "meaningSource": "黑泽明：（1910～1998）电影导演。代表作《七武士》。",
+      "audio": "音频/095_黒澤明.mp3",
+      "sourceAudio": "hypertts-afdc72d1bc3f308b47e523fd7293efe13eb225c5e1dd6e523f45f858.mp3"
+    },
+    {
+      "index": 96,
+      "noteId": "1687173067172",
+      "japanese": "井上大佑",
+      "reading": "いのうえだいすけ",
+      "meaning": "井上大佑：卡拉 OK 的发明者。1949 年出生。",
+      "meaningSource": "井上大佑：卡拉 OK 的发明者。1949 年出生。",
+      "audio": "音频/096_井上大佑.mp3",
+      "sourceAudio": "hypertts-f82189c3b0229021188af2cf0248ab3b09fdebd55c0d84230f53d127.mp3"
+    },
+    {
+      "index": 97,
+      "noteId": "1687173067173",
+      "japanese": "8 ジューク",
+      "reading": "エイトジューク",
+      "meaning": "8-juke（8 声道点唱机）：第一台卡拉 OK 机。1971 年，由井上大佑发明。",
+      "meaningSource": "8-juke（8 声道点唱机）：第一台卡拉 OK 机。1971 年，由井上大佑发明。",
+      "audio": "音频/097_8 ジューク.mp3",
+      "sourceAudio": "hypertts-b90be2277631d7f9c18d845a396d59e9bea1356c63e61c5dbc214730.mp3"
+    },
+    {
+      "index": 98,
+      "noteId": "1687173067174",
+      "japanese": "曲がるストロー",
+      "reading": "",
+      "meaning": "弯曲吸管：坂田多贺夫以波纹状的排风管为样本发明并取得了专利。这是他看到他的朋友在病床上用直吸管时得到的启发。",
+      "meaningSource": "弯曲吸管：坂田多贺夫以波纹状的排风管为样本发明并取得了专利。这是他看到他的朋友在病床上用直吸管时得到的启发。",
+      "audio": "音频/098_曲がるストロー.mp3",
+      "sourceAudio": "hypertts-7e23369b010c56af95dcfc6431e89f258bd566dfeb01f1d9374795eb.mp3"
+    },
+    {
+      "index": 99,
+      "noteId": "1687173067175",
+      "japanese": "プルトップリング",
+      "reading": "",
+      "meaning": "易拉环：开启饮料罐饮用口盖子的拉环。",
+      "meaningSource": "易拉环：开启饮料罐饮用口盖子的拉环。",
+      "audio": "音频/099_プルトップリング.mp3",
+      "sourceAudio": "hypertts-249ffbec61c61d2d30e2d88aa159e05ce3524f61b55c793a43727f0a.mp3"
+    }
+  ]
+}

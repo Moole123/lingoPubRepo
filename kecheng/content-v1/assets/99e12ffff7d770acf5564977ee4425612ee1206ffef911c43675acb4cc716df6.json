@@ -1,0 +1,1178 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-16T13:03:29.032Z",
+  "source": {
+    "apkg": "书籍原文/皆の日本語中級 1/__1_.apkg",
+    "sha256": "fdbe2b358c0f3b4b63bb808d892505d7808591d039bfd552eb8ca44f552d24e3",
+    "deck": "大家的日语 中级1 词汇::11",
+    "noteType": "大家的日语 词汇"
+  },
+  "lesson": {
+    "id": "lesson-11",
+    "number": 11,
+    "title": "お勧めのところ、ありませんか"
+  },
+  "count": 116,
+  "items": [
+    {
+      "index": 1,
+      "noteId": "1688126899880",
+      "japanese": "ますます",
+      "reading": "",
+      "meaning": "更加、越发",
+      "meaningSource": "更加、越发",
+      "audio": "音频/001_ますます.mp3",
+      "sourceAudio": "hypertts-f19a415a7991043149948390447f58cb0d3a462937f1ed43445da42f.mp3"
+    },
+    {
+      "index": 2,
+      "noteId": "1688126899881",
+      "japanese": "企業",
+      "reading": "きぎょう",
+      "meaning": "企业",
+      "meaningSource": "企业",
+      "audio": "音频/002_企業.mp3",
+      "sourceAudio": "hypertts-5726c4d769838fcf5b52648afd5a1d9367eb365e3305295bfa7ca07c.mp3"
+    },
+    {
+      "index": 3,
+      "noteId": "1688126899882",
+      "japanese": "今後",
+      "reading": "こんご",
+      "meaning": "今后",
+      "meaningSource": "今后",
+      "audio": "音频/003_今後.mp3",
+      "sourceAudio": "hypertts-462272b8dfc12d4649a8c83a4bac148e19d33ec4f243f3a7b75800c1.mp3"
+    },
+    {
+      "index": 4,
+      "noteId": "1688126899883",
+      "japanese": "方言",
+      "reading": "ほうげん",
+      "meaning": "方言",
+      "meaningSource": "方言",
+      "audio": "音频/004_方言.mp3",
+      "sourceAudio": "hypertts-398519a1a9f4190852d3530170f2a87c40b82aabf068e8311c5d7471.mp3"
+    },
+    {
+      "index": 5,
+      "noteId": "1688126899884",
+      "japanese": "普及する",
+      "reading": "ふきゅうする",
+      "meaning": "普及",
+      "meaningSource": "普及",
+      "audio": "音频/005_普及する.mp3",
+      "sourceAudio": "hypertts-45e7b929ddc276ebd553c031f422b02729c2a1d78ac707419f8c0925.mp3"
+    },
+    {
+      "index": 6,
+      "noteId": "1688126899888",
+      "japanese": "建つ",
+      "reading": "たつ",
+      "meaning": "修起、建起",
+      "meaningSource": "修起、建起",
+      "audio": "音频/006_建つ.mp3",
+      "sourceAudio": "hypertts-84e210c8c8e95177a1ca09900b7e721ed036da817fb48c4379491286.mp3"
+    },
+    {
+      "index": 7,
+      "noteId": "1688126899889",
+      "japanese": "大家族",
+      "reading": "だいかぞく",
+      "meaning": "大家庭",
+      "meaningSource": "大家庭",
+      "audio": "音频/007_大家族.mp3",
+      "sourceAudio": "hypertts-8a562beb5dc440470d5ab284977aaaa12e6338b1e032bb281495887c.mp3"
+    },
+    {
+      "index": 8,
+      "noteId": "1688126899890",
+      "japanese": "大〜",
+      "reading": "だい〜",
+      "meaning": "大〜",
+      "meaningSource": "大〜",
+      "audio": "音频/008_大〜.mp3",
+      "sourceAudio": "hypertts-c49871dbe1678bd08b49105cbeeadee79105846e788b0930cf317ba8.mp3"
+    },
+    {
+      "index": 9,
+      "noteId": "1688126899891",
+      "japanese": "パックツアー",
+      "reading": "",
+      "meaning": "只包交通、住宿的半自由式旅行团；包干旅行",
+      "meaningSource": "只包交通、住宿的半自由式旅行团；包干旅行",
+      "audio": "音频/009_パックツアー.mp3",
+      "sourceAudio": "hypertts-808b1717952e8eaa82defb34da60da9289aef6d885f9bcd59f9be2eb.mp3"
+    },
+    {
+      "index": 10,
+      "noteId": "1688126899892",
+      "japanese": "個人",
+      "reading": "こじん",
+      "meaning": "个人",
+      "meaningSource": "个人",
+      "audio": "音频/010_個人.mp3",
+      "sourceAudio": "hypertts-bc2381561e84099ded94f3fb05e5180b3014ccc8f876689ae7d9ea60.mp3"
+    },
+    {
+      "index": 11,
+      "noteId": "1688126899893",
+      "japanese": "いかにも",
+      "reading": "",
+      "meaning": "实在、真的",
+      "meaningSource": "实在、真的",
+      "audio": "音频/011_いかにも.mp3",
+      "sourceAudio": "hypertts-10cecfdd8e3d36f25896ab0e7740819406e9107767ea5dd41231c77f.mp3"
+    },
+    {
+      "index": 12,
+      "noteId": "1688126899894",
+      "japanese": "入学式",
+      "reading": "にゅうがくしき",
+      "meaning": "入学典礼",
+      "meaningSource": "入学典礼",
+      "audio": "音频/012_入学式.mp3",
+      "sourceAudio": "hypertts-ecc67d7620c34a12c0f63e4758f9f9388d07a9b9ef81d08365d5c8c7.mp3"
+    },
+    {
+      "index": 13,
+      "noteId": "1688126899895",
+      "japanese": "派手［な］",
+      "reading": "はで［な］",
+      "meaning": "华丽［的］、花哨［的］",
+      "meaningSource": "华丽［的］、花哨［的］",
+      "audio": "音频/013_派手［な］.mp3",
+      "sourceAudio": "hypertts-40f69d340b4f175c158539a964a955db1b4692f62cba956a0b2a7b90.mp3"
+    },
+    {
+      "index": 14,
+      "noteId": "1688126899896",
+      "japanese": "元気",
+      "reading": "げんき",
+      "meaning": "精神、干劲",
+      "meaningSource": "精神、干劲",
+      "audio": "音频/014_元気.mp3",
+      "sourceAudio": "hypertts-3004ac28ffeb2b6e74a8665ff8e0fc49af182d8c1030db26c136e6c2.mp3"
+    },
+    {
+      "index": 15,
+      "noteId": "1688126899897",
+      "japanese": "出す［元気を〜］",
+      "reading": "だす［げんきを〜］",
+      "meaning": "打起［打起精神］",
+      "meaningSource": "打起［打起精神］",
+      "audio": "音频/015_出す［元気を〜］.mp3",
+      "sourceAudio": "hypertts-ba2fb3cab642134cdeca034b8f66d23c90a75c804a23273ca38b28f2.mp3"
+    },
+    {
+      "index": 16,
+      "noteId": "1688126899898",
+      "japanese": "広告",
+      "reading": "こうこく",
+      "meaning": "广告",
+      "meaningSource": "广告",
+      "audio": "音频/016_広告.mp3",
+      "sourceAudio": "hypertts-1acd4b51ee025bd5104283a3fbd679d86e403e6d5a1a1db8b46a1dd8.mp3"
+    },
+    {
+      "index": 17,
+      "noteId": "1688126899899",
+      "japanese": "美容院",
+      "reading": "びよういん",
+      "meaning": "美容院",
+      "meaningSource": "美容院",
+      "audio": "音频/017_美容院.mp3",
+      "sourceAudio": "hypertts-e9e498a41bbf93d25276ffd7ffd168090d0bab86253926365cc31656.mp3"
+    },
+    {
+      "index": 18,
+      "noteId": "1688126899900",
+      "japanese": "車いす",
+      "reading": "くるまいす",
+      "meaning": "轮椅",
+      "meaningSource": "轮椅",
+      "audio": "音频/018_車いす.mp3",
+      "sourceAudio": "hypertts-5e24c965138f97fdd2335624a41c07aaa9c58322cdb6c289e10d63c7.mp3"
+    },
+    {
+      "index": 19,
+      "noteId": "1688126899901",
+      "japanese": "寄付する［病院に車いすを〜］",
+      "reading": "きふする［びょういんにくるまいすを〜］",
+      "meaning": "捐赠［向医院捐赠轮椅］",
+      "meaningSource": "捐赠［向医院捐赠轮椅］",
+      "audio": "音频/019_寄付する［病院に車いすを〜］.mp3",
+      "sourceAudio": "hypertts-226daa8b193be75332cd39e689dd248a3a36be6082dd5b02007dfa8e.mp3"
+    },
+    {
+      "index": 20,
+      "noteId": "1688126899902",
+      "japanese": "グレー",
+      "reading": "",
+      "meaning": "灰色",
+      "meaningSource": "灰色",
+      "audio": "音频/020_グレー.mp3",
+      "sourceAudio": "hypertts-d19771b2c2f98569665f539da9147d9614ea09cc1e897c6c6a8c3536.mp3"
+    },
+    {
+      "index": 21,
+      "noteId": "1688126899903",
+      "japanese": "地味［な］",
+      "reading": "じみ［な］",
+      "meaning": "朴素［的］、素雅［的］",
+      "meaningSource": "朴素［的］、素雅［的］",
+      "audio": "音频/021_地味［な］.mp3",
+      "sourceAudio": "hypertts-6e5fd0cf50e999aebe123665ceb43f922c7f2f3693347218759f6d68.mp3"
+    },
+    {
+      "index": 22,
+      "noteId": "1688126899904",
+      "japanese": "原爆",
+      "reading": "げんばく",
+      "meaning": "原子弹",
+      "meaningSource": "原子弹",
+      "audio": "音频/022_原爆.mp3",
+      "sourceAudio": "hypertts-a35996211504ebc7606417a41949cb2449c99a61775b922cffdc419a.mp3"
+    },
+    {
+      "index": 23,
+      "noteId": "1688126899905",
+      "japanese": "ただひとつ",
+      "reading": "",
+      "meaning": "唯一",
+      "meaningSource": "唯一",
+      "audio": "音频/023_ただひとつ.mp3",
+      "sourceAudio": "hypertts-7f704d7cbbdf71c6e7b7138a6358c456d8ecc91cd25a3c6010d6276d.mp3"
+    },
+    {
+      "index": 24,
+      "noteId": "1688126899906",
+      "japanese": "恐ろしさ",
+      "reading": "おそろしさ",
+      "meaning": "可怕、恐怖",
+      "meaningSource": "可怕、恐怖",
+      "audio": "音频/024_恐ろしさ.mp3",
+      "sourceAudio": "hypertts-9ca0bec6b3cc0ce3ca900f27d0ff9d6e5721c01953d790029720f508.mp3"
+    },
+    {
+      "index": 25,
+      "noteId": "1688126899907",
+      "japanese": "ダイナマイト",
+      "reading": "",
+      "meaning": "黄色炸药",
+      "meaningSource": "黄色炸药",
+      "audio": "音频/025_ダイナマイト.mp3",
+      "sourceAudio": "hypertts-010b55e973db4e6ca2619ed41fa1e14cc5a8d0d9ad0e03896ec707a7.mp3"
+    },
+    {
+      "index": 26,
+      "noteId": "1688126899908",
+      "japanese": "自宅",
+      "reading": "じたく",
+      "meaning": "自己的住宅",
+      "meaningSource": "自己的住宅",
+      "audio": "音频/026_自宅.mp3",
+      "sourceAudio": "hypertts-5fd598b23329975b81972f861de3b8f32bfdc219365c7d09d3702c6b.mp3"
+    },
+    {
+      "index": 27,
+      "noteId": "1688126899909",
+      "japanese": "あわてる",
+      "reading": "",
+      "meaning": "慌张",
+      "meaningSource": "慌张",
+      "audio": "音频/027_あわてる.mp3",
+      "sourceAudio": "hypertts-79ee1f0ed9a273d14ad6985f99bcb21a9af5768212fb702dd93cf908.mp3"
+    },
+    {
+      "index": 28,
+      "noteId": "1688126899910",
+      "japanese": "落ち着く",
+      "reading": "おちつく",
+      "meaning": "沉着、镇静",
+      "meaningSource": "沉着、镇静",
+      "audio": "音频/028_落ち着く.mp3",
+      "sourceAudio": "hypertts-4fe8e0d093562838280f6c89e25e3f68cef6901b10b7c3e50b92e68c.mp3"
+    },
+    {
+      "index": 29,
+      "noteId": "1688126899911",
+      "japanese": "行動する",
+      "reading": "こうどうする",
+      "meaning": "行动",
+      "meaningSource": "行动",
+      "audio": "音频/029_行動する.mp3",
+      "sourceAudio": "hypertts-5fd5eb63d64a100e92f780ddc5d0d726dd25f13e85145577f06a35d4.mp3"
+    },
+    {
+      "index": 30,
+      "noteId": "1688126899912",
+      "japanese": "のんびりする",
+      "reading": "",
+      "meaning": "悠闲自在",
+      "meaningSource": "悠闲自在",
+      "audio": "音频/030_のんびりする.mp3",
+      "sourceAudio": "hypertts-e6f14c0694e035a71aae44bc25aa2175ced2e7149c05da2762cdaef4.mp3"
+    },
+    {
+      "index": 31,
+      "noteId": "1688126899913",
+      "japanese": "シューズ",
+      "reading": "",
+      "meaning": "鞋",
+      "meaningSource": "鞋",
+      "audio": "音频/031_シューズ.mp3",
+      "sourceAudio": "hypertts-b1e84c8254cb208cd41a4cb75342d9a8ef71d8b3789c9ae1c99a1a96.mp3"
+    },
+    {
+      "index": 32,
+      "noteId": "1688126899914",
+      "japanese": "つながる",
+      "reading": "",
+      "meaning": "接通\n［電話が〜］\n［でんわが〜］\n［接通电话］",
+      "meaningSource": "接通<br>［電話が〜］<br>［でんわが〜］<br>［接通电话］",
+      "audio": "音频/032_つながる.mp3",
+      "sourceAudio": "hypertts-dc927f27237a61b31814dcb272898aa658f15574dc1281cbc8870d3e.mp3"
+    },
+    {
+      "index": 33,
+      "noteId": "1688126899915",
+      "japanese": "遺跡",
+      "reading": "いせき",
+      "meaning": "遗迹、古迹",
+      "meaningSource": "遗迹、古迹",
+      "audio": "音频/033_遺跡.mp3",
+      "sourceAudio": "hypertts-76fcd7513455c21eda3943f471ca6ddbc0b7054809571dc6a441f135.mp3"
+    },
+    {
+      "index": 34,
+      "noteId": "1688126899916",
+      "japanese": "発掘",
+      "reading": "はっくつ",
+      "meaning": "发掘、挖掘",
+      "meaningSource": "发掘、挖掘",
+      "audio": "音频/034_発掘.mp3",
+      "sourceAudio": "hypertts-fd16c67ba0cded3ba91401443c47aecda1087ef1c98326ed8647fda0.mp3"
+    },
+    {
+      "index": 35,
+      "noteId": "1688126899917",
+      "japanese": "これまでに",
+      "reading": "",
+      "meaning": "至今",
+      "meaningSource": "至今",
+      "audio": "音频/035_これまでに.mp3",
+      "sourceAudio": "hypertts-64be81e2bad3157d30ba0c97ffdac1ab152fa8400b12fde39f5abbf5.mp3"
+    },
+    {
+      "index": 36,
+      "noteId": "1688126899918",
+      "japanese": "南極",
+      "reading": "なんきょく",
+      "meaning": "南极",
+      "meaningSource": "南极",
+      "audio": "音频/036_南極.mp3",
+      "sourceAudio": "hypertts-e20b6f71447685ffd110e0c3f355cb729ec02c40101f234f8b0a8911.mp3"
+    },
+    {
+      "index": 37,
+      "noteId": "1688126899919",
+      "japanese": "探検",
+      "reading": "たんけん",
+      "meaning": "探险",
+      "meaningSource": "探险",
+      "audio": "音频/037_探検.mp3",
+      "sourceAudio": "hypertts-8e92b4c4cc096806a9eaed52fbe80ff607e08a691dd3c9d2455ef757.mp3"
+    },
+    {
+      "index": 38,
+      "noteId": "1688126899920",
+      "japanese": "世界遺産",
+      "reading": "せかいいさん",
+      "meaning": "世界遗产",
+      "meaningSource": "世界遗产",
+      "audio": "音频/038_世界遺産.mp3",
+      "sourceAudio": "hypertts-5d0b52dcadf00fc32f6b00e8e39344033270b5546f1e5f0134e2056a.mp3"
+    },
+    {
+      "index": 39,
+      "noteId": "1688126899921",
+      "japanese": "価値",
+      "reading": "かち",
+      "meaning": "价值",
+      "meaningSource": "价值",
+      "audio": "音频/039_価値.mp3",
+      "sourceAudio": "hypertts-80276301499dee7920ab4e7a5c414c5f7170b7c6242d6aca05ec2477.mp3"
+    },
+    {
+      "index": 40,
+      "noteId": "1688126899922",
+      "japanese": "やっぱり",
+      "reading": "",
+      "meaning": "仍然、还是（是「やはり」的口语说法）",
+      "meaningSource": "仍然、还是（是「やはり」的口语说法）",
+      "audio": "音频/040_やっぱり.mp3",
+      "sourceAudio": "hypertts-fb8d97925f81552764c14469157437b88473b3f29188abdf6c8b006a.mp3"
+    },
+    {
+      "index": 41,
+      "noteId": "1688126899923",
+      "japanese": "流氷",
+      "reading": "りゅうひょう",
+      "meaning": "浮冰（特指冬天从北方漂到北海道海面的浮冰）",
+      "meaningSource": "浮冰（特指冬天从北方漂到北海道海面的浮冰）",
+      "audio": "音频/041_流氷.mp3",
+      "sourceAudio": "hypertts-831d43eb16428f8dcfdb74dcdc0afd6ca67fd0ea535e91bcd24be5be.mp3"
+    },
+    {
+      "index": 42,
+      "noteId": "1688126899924",
+      "japanese": "自由行動",
+      "reading": "じゅうこうどう",
+      "meaning": "自由行动",
+      "meaningSource": "自由行动",
+      "audio": "音频/042_自由行動.mp3",
+      "sourceAudio": "hypertts-ac6701e3ce737e7dd4d086d6235e787311ddfb3a042690ae8a84fa9d.mp3"
+    },
+    {
+      "index": 43,
+      "noteId": "1688126899925",
+      "japanese": "提案する",
+      "reading": "ていあんする",
+      "meaning": "提议、提出",
+      "meaningSource": "提议、提出",
+      "audio": "音频/043_提案する.mp3",
+      "sourceAudio": "hypertts-269c00db55b4f038d9e49229396e66d0832176344d29ddd7df6d7845.mp3"
+    },
+    {
+      "index": 44,
+      "noteId": "1688126899926",
+      "japanese": "軽く",
+      "reading": "かるく",
+      "meaning": "稍微地\n［〜体操する］\n［〜たいそうする］\n［稍微地做一下操］",
+      "meaningSource": "稍微地<br>［〜体操する］<br>［〜たいそうする］<br>［稍微地做一下操］",
+      "audio": "音频/044_軽く.mp3",
+      "sourceAudio": "hypertts-c8987a0ff4886308871d20cbf6f13249391f0e90df3f89b463c52f9d.mp3"
+    },
+    {
+      "index": 45,
+      "noteId": "1688126899927",
+      "japanese": "乗り物",
+      "reading": "のりもの",
+      "meaning": "交通工具",
+      "meaningSource": "交通工具",
+      "audio": "音频/045_乗り物.mp3",
+      "sourceAudio": "hypertts-148571de58bbd18c6b89376dc5d1232764765b1d8d13287f3152beba.mp3"
+    },
+    {
+      "index": 46,
+      "noteId": "1688126899928",
+      "japanese": "酔う［乗り物に〜］",
+      "reading": "よう［のりものに〜］",
+      "meaning": "晕［晕车、船等］",
+      "meaningSource": "晕［晕车、船等］",
+      "audio": "音频/046_酔う［乗り物に〜］.mp3",
+      "sourceAudio": "hypertts-e41d7c99f49441fcf902b5cf019cf25079c2d06361821f76803049c0.mp3"
+    },
+    {
+      "index": 47,
+      "noteId": "1688126899929",
+      "japanese": "コメント",
+      "reading": "",
+      "meaning": "提建议、发言",
+      "meaningSource": "提建议、发言",
+      "audio": "音频/047_コメント.mp3",
+      "sourceAudio": "hypertts-2303c22d13eb55f66b2f34d9ee9669571c4f2ff3566c1c8c3aa8f21c.mp3"
+    },
+    {
+      "index": 48,
+      "noteId": "1688126899930",
+      "japanese": "さらに",
+      "reading": "",
+      "meaning": "更加、进一步",
+      "meaningSource": "更加、进一步",
+      "audio": "音频/048_さらに.mp3",
+      "sourceAudio": "hypertts-7577ea6a49b9322fe6951f62ca657c331b5c217c0bfe1a33eac38240.mp3"
+    },
+    {
+      "index": 49,
+      "noteId": "1688126899931",
+      "japanese": "仮装",
+      "reading": "かそう",
+      "meaning": "化装（舞会）",
+      "meaningSource": "化装（舞会）",
+      "audio": "音频/049_仮装.mp3",
+      "sourceAudio": "hypertts-2b44cb4610aa66f8e48e1de1c88bc160b34f225712e0d98f065a1ff7.mp3"
+    },
+    {
+      "index": 50,
+      "noteId": "1688126899932",
+      "japanese": "染める",
+      "reading": "そめる",
+      "meaning": "染色",
+      "meaningSource": "染色",
+      "audio": "音频/050_染める.mp3",
+      "sourceAudio": "hypertts-a72a0f900f7aa949368791f0a0bcae46ef7d1e5aeb3d8d5d696082cb.mp3"
+    },
+    {
+      "index": 51,
+      "noteId": "1688126899933",
+      "japanese": "黄金",
+      "reading": "おうごん",
+      "meaning": "黄金",
+      "meaningSource": "黄金",
+      "audio": "音频/051_黄金.mp3",
+      "sourceAudio": "hypertts-75e37015155dbc5d9afa771de6cf7a26f0aa6f765bc17f34830ce06a.mp3"
+    },
+    {
+      "index": 52,
+      "noteId": "1688126899934",
+      "japanese": "伝説",
+      "reading": "でんせつ",
+      "meaning": "传说",
+      "meaningSource": "传说",
+      "audio": "音频/052_伝説.mp3",
+      "sourceAudio": "hypertts-71f372cf9680ddf23242f855e8ee75084d44af921d79cd33015cae1a.mp3"
+    },
+    {
+      "index": 53,
+      "noteId": "1688126899935",
+      "japanese": "いくつか",
+      "reading": "",
+      "meaning": "好几个、多个",
+      "meaningSource": "好几个、多个",
+      "audio": "音频/053_いくつか.mp3",
+      "sourceAudio": "hypertts-ad0e94ff33c2d8687e806f7f9859508879df0b3efbcf2dbb07490006.mp3"
+    },
+    {
+      "index": 54,
+      "noteId": "1688126899936",
+      "japanese": "屋根",
+      "reading": "やね",
+      "meaning": "屋顶",
+      "meaningSource": "屋顶",
+      "audio": "音频/054_屋根.mp3",
+      "sourceAudio": "hypertts-805a70d4f3c0faad18b0edc0bc4c2ea8ce024ddc45a4f092ee655f1c.mp3"
+    },
+    {
+      "index": 55,
+      "noteId": "1688126899937",
+      "japanese": "農作物",
+      "reading": "のうさくぶつ",
+      "meaning": "农产品",
+      "meaningSource": "农产品",
+      "audio": "音频/055_農作物.mp3",
+      "sourceAudio": "hypertts-c57223523cbdab046f6ad0784e59c6f242ad8930ef631b429dbfbd3b.mp3"
+    },
+    {
+      "index": 56,
+      "noteId": "1688126899938",
+      "japanese": "金銀",
+      "reading": "きんぎん",
+      "meaning": "金银",
+      "meaningSource": "金银",
+      "audio": "音频/056_金銀.mp3",
+      "sourceAudio": "hypertts-b4914c2d8e6c6f9ed8d8462d5c5009603acf9e9255ab44f482b76921.mp3"
+    },
+    {
+      "index": 57,
+      "noteId": "1688126899939",
+      "japanese": "治める",
+      "reading": "おさめる",
+      "meaning": "治理",
+      "meaningSource": "治理",
+      "audio": "音频/057_治める.mp3",
+      "sourceAudio": "hypertts-05b9f9eb51d3fe7fb78f731bf0bb271cad32c3478edce4372c3e0ba7.mp3"
+    },
+    {
+      "index": 58,
+      "noteId": "1688126899940",
+      "japanese": "掌",
+      "reading": "てのひら",
+      "meaning": "手掌",
+      "meaningSource": "手掌",
+      "audio": "音频/058_掌.mp3",
+      "sourceAudio": "hypertts-5df98864e74df8e368eb6f150b6bf80f33a0f6cfcb3351d8f25ff37e.mp3"
+    },
+    {
+      "index": 59,
+      "noteId": "1688126899941",
+      "japanese": "後半",
+      "reading": "こうはん",
+      "meaning": "后半期",
+      "meaningSource": "后半期",
+      "audio": "音频/059_後半.mp3",
+      "sourceAudio": "hypertts-59ca914ea585ee803733c0c1e8aab12119507a02bab5d76ff8243a9c.mp3"
+    },
+    {
+      "index": 60,
+      "noteId": "1688126899942",
+      "japanese": "くぎ",
+      "reading": "",
+      "meaning": "钉子",
+      "meaningSource": "钉子",
+      "audio": "音频/060_くぎ.mp3",
+      "sourceAudio": "hypertts-b743073fa43aca89f19c60e5b81cbce76da928066b3621c33ebeb7cc.mp3"
+    },
+    {
+      "index": 61,
+      "noteId": "1688126899943",
+      "japanese": "村人",
+      "reading": "むらびと",
+      "meaning": "村民",
+      "meaningSource": "村民",
+      "audio": "音频/061_村人.mp3",
+      "sourceAudio": "hypertts-5bd13ad21241321cae271bda39b08c91e25766abb748274488bd59c3.mp3"
+    },
+    {
+      "index": 62,
+      "noteId": "1688126899944",
+      "japanese": "かける［費用を〜］",
+      "reading": "［ひようを〜］",
+      "meaning": "花费［花钱］",
+      "meaningSource": "花费［花钱］",
+      "audio": "音频/062_かける［費用を〜］.mp3",
+      "sourceAudio": "hypertts-a2e2a38920904c345eb9e731b97624fcb17b6aa1da277ef0fa268c20.mp3"
+    },
+    {
+      "index": 63,
+      "noteId": "1688126899945",
+      "japanese": "向き",
+      "reading": "むき",
+      "meaning": "朝向、（风）向",
+      "meaningSource": "朝向、（风）向",
+      "audio": "音频/063_向き.mp3",
+      "sourceAudio": "hypertts-1efda12f69c84ca17be0d94190b81766f8f90092ae26bdca09dc04b6.mp3"
+    },
+    {
+      "index": 64,
+      "noteId": "1688126899946",
+      "japanese": "抵抗",
+      "reading": "ていこう",
+      "meaning": "阻力",
+      "meaningSource": "阻力",
+      "audio": "音频/064_抵抗.mp3",
+      "sourceAudio": "hypertts-dd8d6bce9e69ed73dea7d796dcf743b90bd204686d5592f5f4171c14.mp3"
+    },
+    {
+      "index": 65,
+      "noteId": "1688126899947",
+      "japanese": "〜層",
+      "reading": "〜そう",
+      "meaning": "〜层",
+      "meaningSource": "〜层",
+      "audio": "音频/065_〜層.mp3",
+      "sourceAudio": "hypertts-1141ee775747cee448609ad26180e731bd857e01bc934a80e7ec70f7.mp3"
+    },
+    {
+      "index": 66,
+      "noteId": "1688126899948",
+      "japanese": "蚕",
+      "reading": "かいこ",
+      "meaning": "蚕",
+      "meaningSource": "蚕",
+      "audio": "音频/066_蚕.mp3",
+      "sourceAudio": "hypertts-439a6ee973dc080083c369b223cc2263bcd588d81800e77f96c0d539.mp3"
+    },
+    {
+      "index": 67,
+      "noteId": "1688126899949",
+      "japanese": "火薬",
+      "reading": "かやく",
+      "meaning": "火药",
+      "meaningSource": "火药",
+      "audio": "音频/067_火薬.mp3",
+      "sourceAudio": "hypertts-9b690f7e570b3bfba4352487eea39eaa5014aa05d6a77164606d26ed.mp3"
+    },
+    {
+      "index": 68,
+      "noteId": "1688126899950",
+      "japanese": "製造する",
+      "reading": "せいぞうする",
+      "meaning": "制造、生产",
+      "meaningSource": "制造、生产",
+      "audio": "音频/068_製造する.mp3",
+      "sourceAudio": "hypertts-87a592d23ad55cc7313ca4cb91eee740cea54b146b74a5b404b12213.mp3"
+    },
+    {
+      "index": 69,
+      "noteId": "1688126899951",
+      "japanese": "送る［生活を〜］",
+      "reading": "おくる［せいかつを〜］",
+      "meaning": "过、度过［过日子］",
+      "meaningSource": "过、度过［过日子］",
+      "audio": "音频/069_送る［生活を〜］.mp3",
+      "sourceAudio": "hypertts-691ec5fb66426d8d75ddf4d320f659f36e4a7d2d15c9644e4fc5b085.mp3"
+    },
+    {
+      "index": 70,
+      "noteId": "1688126899952",
+      "japanese": "家内産業",
+      "reading": "かないさんぎょう",
+      "meaning": "家庭作坊、个体经营",
+      "meaningSource": "家庭作坊、个体经营",
+      "audio": "音频/070_家内産業.mp3",
+      "sourceAudio": "hypertts-802a8b6067ccf7b32701fc406100067fd2f647877e4ef201f5d6ef59.mp3"
+    },
+    {
+      "index": 71,
+      "noteId": "1688126899953",
+      "japanese": "年貢",
+      "reading": "ねんぐ",
+      "meaning": "地租、租子",
+      "meaningSource": "地租、租子",
+      "audio": "音频/071_年貢.mp3",
+      "sourceAudio": "hypertts-171583c688e5cf84cb9be34cdcc616b1ec6fbae5901dc65bd73218d6.mp3"
+    },
+    {
+      "index": 72,
+      "noteId": "1688126899954",
+      "japanese": "期待する",
+      "reading": "きたいする",
+      "meaning": "指望、期待",
+      "meaningSource": "指望、期待",
+      "audio": "音频/072_期待する.mp3",
+      "sourceAudio": "hypertts-6541c57329cfb9a5d144a04554e63b4f8ed8fb012d11f9d1038fbd59.mp3"
+    },
+    {
+      "index": 73,
+      "noteId": "1688126899955",
+      "japanese": "地",
+      "reading": "ち",
+      "meaning": "地方、（当）地",
+      "meaningSource": "地方、（当）地",
+      "audio": "音频/073_地.mp3",
+      "sourceAudio": "hypertts-f12df50b91e21ee4c07067ba0bc5a4fd57da524f771effc07153a9f7.mp3"
+    },
+    {
+      "index": 74,
+      "noteId": "1688126899956",
+      "japanese": "前半",
+      "reading": "ぜんはん",
+      "meaning": "前半期",
+      "meaningSource": "前半期",
+      "audio": "音频/074_前半.mp3",
+      "sourceAudio": "hypertts-09acb5820d0eb0cdad1dc627536a7f947a85af5c86f8a500efc20c71.mp3"
+    },
+    {
+      "index": 75,
+      "noteId": "1688126899957",
+      "japanese": "やってくる",
+      "reading": "",
+      "meaning": "来到、赶来",
+      "meaningSource": "来到、赶来",
+      "audio": "音频/075_やってくる.mp3",
+      "sourceAudio": "hypertts-55397ab6e90238db8f1f64e8a3c37404a048044ce733d77f72140222.mp3"
+    },
+    {
+      "index": 76,
+      "noteId": "1688126899958",
+      "japanese": "住み着く",
+      "reading": "すみつく",
+      "meaning": "定居",
+      "meaningSource": "定居",
+      "audio": "音频/076_住み着く.mp3",
+      "sourceAudio": "hypertts-a3ec59c6740f09120c10ff06128ed10b1ae0df1d61f146cf5a207742.mp3"
+    },
+    {
+      "index": 77,
+      "noteId": "1688126899959",
+      "japanese": "一族",
+      "reading": "いちぞく",
+      "meaning": "同族、家族",
+      "meaningSource": "同族、家族",
+      "audio": "音频/077_一族.mp3",
+      "sourceAudio": "hypertts-ad1cd15291eb5ce046b9c9bf023252632d8c50392668bfb328f98e69.mp3"
+    },
+    {
+      "index": 78,
+      "noteId": "1688126899960",
+      "japanese": "〜城",
+      "reading": "〜じょう",
+      "meaning": "〜城\n［帰雲〜］\n［かえりくも〜］\n［归云城］",
+      "meaningSource": "〜城<br>［帰雲〜］<br>［かえりくも〜］<br>［归云城］",
+      "audio": "音频/078_〜城.mp3",
+      "sourceAudio": "hypertts-1dad5ea7a03fc0439dc8036adc4b00847ab236bdb9dd880468a7abc0.mp3"
+    },
+    {
+      "index": 79,
+      "noteId": "1688126899961",
+      "japanese": "城",
+      "reading": "しろ",
+      "meaning": "城堡",
+      "meaningSource": "城堡",
+      "audio": "音频/079_城.mp3",
+      "sourceAudio": "hypertts-060cc72313a96947f434af6cb1745b41174edd60babd1d246d31ada0.mp3"
+    },
+    {
+      "index": 80,
+      "noteId": "1688126899962",
+      "japanese": "掘り当てる",
+      "reading": "ほりあてる",
+      "meaning": "挖到",
+      "meaningSource": "挖到",
+      "audio": "音频/080_掘り当てる.mp3",
+      "sourceAudio": "hypertts-88e4fe9784cc4ec75d8822f1903aeee04d1b5ddaff0dc78dfe9789f7.mp3"
+    },
+    {
+      "index": 81,
+      "noteId": "1688126899963",
+      "japanese": "権力者",
+      "reading": "けんりょくしゃ",
+      "meaning": "当权者",
+      "meaningSource": "当权者",
+      "audio": "音频/081_権力者.mp3",
+      "sourceAudio": "hypertts-1e8eef1f6dd2a1460f7ed51b9dc42eef4d377329ffce67e92b70c2be.mp3"
+    },
+    {
+      "index": 82,
+      "noteId": "1688126899964",
+      "japanese": "飢きん",
+      "reading": "ききん",
+      "meaning": "饥荒、灾荒",
+      "meaningSource": "饥荒、灾荒",
+      "audio": "音频/082_飢きん.mp3",
+      "sourceAudio": "hypertts-fd67d3d45dd945db7a5f0015aa43f1fa8b4cfbce06c5673a9ef3d4fd.mp3"
+    },
+    {
+      "index": 83,
+      "noteId": "1688126899965",
+      "japanese": "〜軒",
+      "reading": "〜けん",
+      "meaning": "〜栋（房屋）、〜家（商店等）",
+      "meaningSource": "〜栋（房屋）、〜家（商店等）",
+      "audio": "音频/083_〜軒.mp3",
+      "sourceAudio": "hypertts-c4e0c3b0df58228335213c284e55a88a63ea758f4e9fbb04d7590df2.mp3"
+    },
+    {
+      "index": 84,
+      "noteId": "1688126899966",
+      "japanese": "数百人",
+      "reading": "すうひゃくにん",
+      "meaning": "好几百人",
+      "meaningSource": "好几百人",
+      "audio": "音频/084_数百人.mp3",
+      "sourceAudio": "hypertts-433c7a9aa3c4f1cc711c28ef0cec0d25c638d7678f5e985e9a7d82b7.mp3"
+    },
+    {
+      "index": 85,
+      "noteId": "1688126899967",
+      "japanese": "数十人",
+      "reading": "すうじゅうにん",
+      "meaning": "几十人",
+      "meaningSource": "几十人",
+      "audio": "音频/085_数十人.mp3",
+      "sourceAudio": "hypertts-dc872cf15f708e17ee92e90b7bb77c9b1b25402fbb9fc1d2586bcfeb.mp3"
+    },
+    {
+      "index": 86,
+      "noteId": "1688126899968",
+      "japanese": "数千人",
+      "reading": "すうせんにん",
+      "meaning": "几千人",
+      "meaningSource": "几千人",
+      "audio": "音频/086_数千人.mp3",
+      "sourceAudio": "hypertts-c13bb0b61e47862843710fa3392fb2bb49034629e85ba87fa6ae665e.mp3"
+    },
+    {
+      "index": 87,
+      "noteId": "1688126899969",
+      "japanese": "一人残らず",
+      "reading": "ひとりのこらず",
+      "meaning": "一个人都不剩",
+      "meaningSource": "一个人都不剩",
+      "audio": "音频/087_一人残らず.mp3",
+      "sourceAudio": "hypertts-6c83a846148a0cee7e23de0aa35dc9f1d12d35b1506113116a50937a.mp3"
+    },
+    {
+      "index": 88,
+      "noteId": "1688126899970",
+      "japanese": "消える",
+      "reading": "きえる",
+      "meaning": "消失",
+      "meaningSource": "消失",
+      "audio": "音频/088_消える.mp3",
+      "sourceAudio": "hypertts-6c70b9d3fb5b17d56944dd3427ae32012c5d3745746477ee59475573.mp3"
+    },
+    {
+      "index": 89,
+      "noteId": "1688126899971",
+      "japanese": "保管する",
+      "reading": "ほかんする",
+      "meaning": "存放",
+      "meaningSource": "存放",
+      "audio": "音频/089_保管する.mp3",
+      "sourceAudio": "hypertts-77edb2c270bbf38d44cb301b8e7236287b2e344d45dfb65fae26c2a0.mp3"
+    },
+    {
+      "index": 90,
+      "noteId": "1688126899972",
+      "japanese": "兆",
+      "reading": "ちょう",
+      "meaning": "兆",
+      "meaningSource": "兆",
+      "audio": "音频/090_兆.mp3",
+      "sourceAudio": "hypertts-e6a599e5444ae21c497e568f31c545285ca1feb4c00d3ff2a9963cd7.mp3"
+    },
+    {
+      "index": 91,
+      "noteId": "1688126899973",
+      "japanese": "分ける",
+      "reading": "わける",
+      "meaning": "分隔、分开\n［いくつかに〜］\n［分隔成几间、分成几个］",
+      "meaningSource": "分隔、分开<br>［いくつかに〜］<br>［分隔成几间、分成几个］",
+      "audio": "音频/091_分ける.mp3",
+      "sourceAudio": "hypertts-9f9ae43a159d05a38a3a736a57e0acbe302769fa28fd62f5ebbcd15e.mp3"
+    },
+    {
+      "index": 92,
+      "noteId": "1688126899974",
+      "japanese": "積もる［雪が〜］",
+      "reading": "つもる［ゆきが〜］",
+      "meaning": "堆积［积雪］",
+      "meaningSource": "堆积［积雪］",
+      "audio": "音频/092_積もる［雪が〜］.mp3",
+      "sourceAudio": "hypertts-d7acf11c84d3a8ed3a238516bf82dba34d7232510cda4ea0df6d18a0.mp3"
+    },
+    {
+      "index": 93,
+      "noteId": "1688126899975",
+      "japanese": "気候",
+      "reading": "きこう",
+      "meaning": "天气、气候",
+      "meaningSource": "天气、气候",
+      "audio": "音频/093_気候.mp3",
+      "sourceAudio": "hypertts-880561513720591b03eb1d94478d44027a8d6d1c664529bc27ca6988.mp3"
+    },
+    {
+      "index": 94,
+      "noteId": "1688126899976",
+      "japanese": "観光案内",
+      "reading": "かんこうあんない",
+      "meaning": "导游",
+      "meaningSource": "导游",
+      "audio": "音频/094_観光案内.mp3",
+      "sourceAudio": "hypertts-9ecbae419b73d4392647edb3c986e45b180d7ddf93deb6c6a0834462.mp3"
+    },
+    {
+      "index": 95,
+      "noteId": "1688126899977",
+      "japanese": "観光地",
+      "reading": "かんこうち",
+      "meaning": "旅游点、景点",
+      "meaningSource": "旅游点、景点",
+      "audio": "音频/095_観光地.mp3",
+      "sourceAudio": "hypertts-270bb7699077730af51bde1fb4bb161d19f8b1232d2c3a3dfa21df76.mp3"
+    },
+    {
+      "index": 96,
+      "noteId": "1688126899978",
+      "japanese": "〜っていうのはどうですか。",
+      "reading": "",
+      "meaning": "你看〜怎么样？\n当问到自己的意见时，以一种无论对方采纳与否都行的轻松语气提出建议。",
+      "meaningSource": "你看〜怎么样？<br>当问到自己的意见时，以一种无论对方采纳与否都行的轻松语气提出建议。",
+      "audio": "音频/096_〜っていうのはどうですか。.mp3",
+      "sourceAudio": "hypertts-1fe4fa8291ae75be972dd7099ea351dc1dfdb06b5cdb7ef22a922988.mp3"
+    },
+    {
+      "index": 97,
+      "noteId": "1688126899979",
+      "japanese": "それも悪くないですね。",
+      "reading": "",
+      "meaning": "倒也不错，那也行。",
+      "meaningSource": "倒也不错，那也行。",
+      "audio": "音频/097_それも悪くないですね。.mp3",
+      "sourceAudio": "hypertts-2b48aac8a988360eae40a10a6490471a7d2669328a0b1f88f587ef72.mp3"
+    },
+    {
+      "index": 98,
+      "noteId": "1688126899980",
+      "japanese": "それもそうですね。",
+      "reading": "",
+      "meaning": "那倒也是。",
+      "meaningSource": "那倒也是。",
+      "audio": "音频/098_それもそうですね。.mp3",
+      "sourceAudio": "hypertts-12b2057d3d227f028f738faca6c9596a918c74ec53c3287afc0d22e4.mp3"
+    },
+    {
+      "index": 99,
+      "noteId": "1688126899981",
+      "japanese": "けど、……。",
+      "reading": "",
+      "meaning": "不过，可是。",
+      "meaningSource": "不过，可是。",
+      "audio": "音频/099_けど、……。.mp3",
+      "sourceAudio": "hypertts-cd3fed325acf8a2d2c817e48b766f2959804ca6edf117319362d1119.mp3"
+    },
+    {
+      "index": 100,
+      "noteId": "1688126899982",
+      "japanese": "それも悪くないですけど……",
+      "reading": "",
+      "meaning": "那也行，不过……\n先认可对方的意见，然后说出自己的想法。",
+      "meaningSource": "那也行，不过……<br>先认可对方的意见，然后说出自己的想法。",
+      "audio": "音频/100_それも悪くないですけど…….mp3",
+      "sourceAudio": "hypertts-3c22b7a8dc33ea5eab683cdee8306e6e30fda6e8996eb2e9340495d9.mp3"
+    },
+    {
+      "index": 101,
+      "noteId": "1688126899983",
+      "japanese": "ノーベル",
+      "reading": "",
+      "meaning": "诺贝尔：Alfred Bernhard Nobel（阿尔弗雷德・贝恩哈德・诺贝尔）（1833〜1896）瑞典的科学家，炸药的发明者。",
+      "meaningSource": "诺贝尔：Alfred Bernhard Nobel（阿尔弗雷德・贝恩哈德・诺贝尔）（1833〜1896）瑞典的科学家，炸药的发明者。",
+      "audio": "音频/101_ノーベル.mp3",
+      "sourceAudio": "hypertts-16cdcf147e72cc3edd5e206f57635de0e8b8f1467b484fa8742da7ad.mp3"
+    },
+    {
+      "index": 102,
+      "noteId": "1688126899984",
+      "japanese": "モーツァルト",
+      "reading": "",
+      "meaning": "莫扎特：Wolfgang Amadeus Mozart（1756〜1791）奥地利作曲家，一生创作了歌剧《费加罗的婚礼》等 600 多部音乐作品。",
+      "meaningSource": "莫扎特：Wolfgang Amadeus Mozart（1756〜1791）奥地利作曲家，一生创作了歌剧《费加罗的婚礼》等 600 多部音乐作品。",
+      "audio": "音频/102_モーツァルト.mp3",
+      "sourceAudio": "hypertts-918a302d745e66f02403c1637309c9695b9a52b8ee0be22816ba0783.mp3"
+    },
+    {
+      "index": 103,
+      "noteId": "1688126899985",
+      "japanese": "首里城",
+      "reading": "しゅりじょう",
+      "meaning": "首里古城：位于冲绳县首里市的古琉球王朝的城堡。",
+      "meaningSource": "首里古城：位于冲绳县首里市的古琉球王朝的城堡。",
+      "audio": "音频/103_首里城.mp3",
+      "sourceAudio": "hypertts-2b7d5917d30fffa7cd1eb6952488d1d447dd569eb900e5ddc999139c.mp3"
+    },
+    {
+      "index": 104,
+      "noteId": "1688126899986",
+      "japanese": "雪祭り",
+      "reading": "ゆきまつり",
+      "meaning": "雪节：在北海道札幌市举行的旅游观光活动，以巨大的雪的塑像和灯饰树而著名。",
+      "meaningSource": "雪节：在北海道札幌市举行的旅游观光活动，以巨大的雪的塑像和灯饰树而著名。",
+      "audio": "音频/104_雪祭り.mp3",
+      "sourceAudio": "hypertts-c5b96225fd1b6a6ac67dc209b9dc680448239efd904e94a93d93c873.mp3"
+    },
+    {
+      "index": 105,
+      "noteId": "1688126899987",
+      "japanese": "白川郷",
+      "reading": "しらかわごう",
+      "meaning": "白川乡：位于岐阜县庄川河上游的山村，古时候一个大家庭的很多成员都共同生活在合掌式屋顶的大屋里。",
+      "meaningSource": "白川乡：位于岐阜县庄川河上游的山村，古时候一个大家庭的很多成员都共同生活在合掌式屋顶的大屋里。",
+      "audio": "音频/105_白川郷.mp3",
+      "sourceAudio": "hypertts-962bc9cfc0630e17cc5cca1a6dff34f72a95cb99da0d95e7b6f51fc3.mp3"
+    },
+    {
+      "index": 106,
+      "noteId": "1688126899988",
+      "japanese": "白神山地",
+      "reading": "しらかみさんち",
+      "meaning": "白神山区：位于青森县与秋田县之间、以白神峰为中心的山区，有世界最大规模的山毛榉的原始森林。",
+      "meaningSource": "白神山区：位于青森县与秋田县之间、以白神峰为中心的山区，有世界最大规模的山毛榉的原始森林。",
+      "audio": "音频/106_白神山地.mp3",
+      "sourceAudio": "hypertts-a56e2a6287f08887a594917d0c8edd50c60dbb27b6f9d4462963d4b7.mp3"
+    },
+    {
+      "index": 107,
+      "noteId": "1688126899989",
+      "japanese": "厳島神社",
+      "reading": "いつくしまじんじゃ",
+      "meaning": "严岛神社：位于广岛县宫岛町，神殿建于海中，很美，神社内有很多古迹和国宝级文物。",
+      "meaningSource": "严岛神社：位于广岛县宫岛町，神殿建于海中，很美，神社内有很多古迹和国宝级文物。",
+      "audio": "音频/107_厳島神社.mp3",
+      "sourceAudio": "hypertts-91b3421c00049695c42b5040c8a340cf95574332aedcf59a76177f80.mp3"
+    },
+    {
+      "index": 108,
+      "noteId": "1688126899990",
+      "japanese": "屋久島",
+      "reading": "やくしま",
+      "meaning": "屋久岛：该岛属于鹿儿岛县的大限群岛，拥有树龄千年以上的、号称“屋久杉”的自然林。",
+      "meaningSource": "屋久岛：该岛属于鹿儿岛县的大限群岛，拥有树龄千年以上的、号称“屋久杉”的自然林。",
+      "audio": "音频/108_屋久島.mp3",
+      "sourceAudio": "hypertts-dfdc0ea23b8999fa9f6aaadacf4bacd3283b504e9e5c1c9f411e3c49.mp3"
+    },
+    {
+      "index": 109,
+      "noteId": "1688126899991",
+      "japanese": "知床",
+      "reading": "しれとこ",
+      "meaning": "知床半岛：位于北海道东北端，是伸向鄂霍次克海的狭长形半岛，海岸线多为断崖绝壁。",
+      "meaningSource": "知床半岛：位于北海道东北端，是伸向鄂霍次克海的狭长形半岛，海岸线多为断崖绝壁。",
+      "audio": "音频/109_知床.mp3",
+      "sourceAudio": "hypertts-b3e2bb07cd76f8d4306d67ea03d719cb095101b9074cd32585d6b6f5.mp3"
+    },
+    {
+      "index": 110,
+      "noteId": "1688126899992",
+      "japanese": "原爆ドーム",
+      "reading": "げんばくドーム",
+      "meaning": "原爆圆顶馆：该馆是被 1945 年 8 月 6 日在广岛投下的原子弹所破坏的，它的残迹已经成为人类惨祸的象征。",
+      "meaningSource": "原爆圆顶馆：该馆是被 1945 年 8 月 6 日在广岛投下的原子弹所破坏的，它的残迹已经成为人类惨祸的象征。",
+      "audio": "音频/110_原爆ドーム.mp3",
+      "sourceAudio": "hypertts-1245ba8277f90a73e6aea4bc1e56cf8929e4e7bff11e4d78b64bd12f.mp3"
+    },
+    {
+      "index": 111,
+      "noteId": "1688126899993",
+      "japanese": "合掌造り",
+      "reading": "がっしょうづくり",
+      "meaning": "合掌式屋顶的建筑：为一个大家庭的居住和养蚕而修建的飞弹地区的普通民家，为了对付大雪，屋顶的坡度很陡。",
+      "meaningSource": "合掌式屋顶的建筑：为一个大家庭的居住和养蚕而修建的飞弹地区的普通民家，为了对付大雪，屋顶的坡度很陡。",
+      "audio": "音频/111_合掌造り.mp3",
+      "sourceAudio": "hypertts-54f9c2b59f3168505d05e5441d0e9feb1aa5c5b893d184c5f6723a8f.mp3"
+    },
+    {
+      "index": 112,
+      "noteId": "1688126899994",
+      "japanese": "江戸時代",
+      "reading": "えどじだい",
+      "meaning": "江户时代：（1603〜1867）也称作德川时代，因当时的幕府设在江户（现在的东京）而得名。",
+      "meaningSource": "江户时代：（1603〜1867）也称作德川时代，因当时的幕府设在江户（现在的东京）而得名。",
+      "audio": "音频/112_江戸時代.mp3",
+      "sourceAudio": "hypertts-ed23898aed7134ef4d147952cef37fb89237b1530a2f41e49a59737a.mp3"
+    },
+    {
+      "index": 113,
+      "noteId": "1688126899995",
+      "japanese": "内ヶ嶋為氏",
+      "reading": "うちがしまためうじ",
+      "meaning": "内鸿为氏：此人生卒年未详，为室町时代的武将，在白川乡修建了归云城。",
+      "meaningSource": "内鸿为氏：此人生卒年未详，为室町时代的武将，在白川乡修建了归云城。",
+      "audio": "音频/113_内ヶ嶋為氏.mp3",
+      "sourceAudio": "hypertts-03026b1ebb21c27abf777083c6a1ccf08c0fbc6aef1c3805db047eb8.mp3"
+    },
+    {
+      "index": 114,
+      "noteId": "1688126899996",
+      "japanese": "帰雲城",
+      "reading": "かえりくもじょう",
+      "meaning": "归云城：内鸿为氏于 1464 年前后在岐阜县白川乡修建此城，后毁于 1586 年的天正大地震。",
+      "meaningSource": "归云城：内鸿为氏于 1464 年前后在岐阜县白川乡修建此城，后毁于 1586 年的天正大地震。",
+      "audio": "音频/114_帰雲城.mp3",
+      "sourceAudio": "hypertts-70ffab2b1592f75d72dde73a307ef55bb6940fe7bf44653f3527f1a4.mp3"
+    },
+    {
+      "index": 115,
+      "noteId": "1688126899997",
+      "japanese": "織田信長",
+      "reading": "おだのぶなが",
+      "meaning": "织田信长：（1534〜1582）日本战国安土桃山时代的武将。",
+      "meaningSource": "织田信长：（1534〜1582）日本战国安土桃山时代的武将。",
+      "audio": "音频/115_織田信長.mp3",
+      "sourceAudio": "hypertts-7497d5250b47f8cd4aae67f64b5ea67de1eedae38a7f464404e8ded1.mp3"
+    },
+    {
+      "index": 116,
+      "noteId": "1688717404639",
+      "japanese": "原子爆弾",
+      "reading": "げんしばくだん",
+      "meaning": "原子弹（正式说法）",
+      "meaningSource": "原子弹（正式说法）",
+      "audio": "音频/116_原子爆弾.mp3",
+      "sourceAudio": "hypertts-4d1ca2e9aae85ba14075f5b7c8f7c07618529dbf6bfc9bb67cc5d97b.mp3"
+    }
+  ]
+}

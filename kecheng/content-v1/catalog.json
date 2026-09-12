@@ -1,0 +1,1352 @@
+{
+  "schemaVersion": 1,
+  "sourceSchemaVersion": 2,
+  "books": [
+    {
+      "id": "standard-shokyu-1",
+      "title": "新标准日本语 初级上",
+      "lessonRange": [
+        1,
+        24
+      ],
+      "lessons": [
+        {
+          "id": "standard-shokyu-1:lesson-01",
+          "sourceId": "lesson-01",
+          "number": 1,
+          "title": "出迎え",
+          "path": "lessons/f7fb13ae7d2b3ad45376e9a27091d6e3b3af9ba9dbc7302fe93532efe06bbc9f.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-02",
+          "sourceId": "lesson-02",
+          "number": 2,
+          "title": "家族の写真",
+          "path": "lessons/3f753eebff893e33ff12b98355e1bd093da8e41d4ce48d7d1bc372a9d3a1f9ec.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-03",
+          "sourceId": "lesson-03",
+          "number": 3,
+          "title": "ホテルの周辺",
+          "path": "lessons/0a581097e94620af177b9c76dd23fd96c38b0e4b69273db6a4c62277f9b82ce8.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-04",
+          "sourceId": "lesson-04",
+          "number": 4,
+          "title": "会社の場所",
+          "path": "lessons/c5e4569bd3378ad0fd85e80a944be6f8a5a51022b10862f64d4e145db0f514f8.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-05",
+          "sourceId": "lesson-05",
+          "number": 5,
+          "title": "遅刻",
+          "path": "lessons/38a623f1a6a70865e3e950d23857124f77c45867c249ac7fa1125b76f9b10f31.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-06",
+          "sourceId": "lesson-06",
+          "number": 6,
+          "title": "交通機関",
+          "path": "lessons/f744dc94791a1c5f19f975aabbdd22a17a91881af78319b25bccbc3426c6b9f9.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-07",
+          "sourceId": "lesson-07",
+          "number": 7,
+          "title": "昼ご飯",
+          "path": "lessons/6675b45c39cf794f3ad7e4e3f4d1388df7015e1575f805f67e4205bdf5994cbf.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-08",
+          "sourceId": "lesson-08",
+          "number": 8,
+          "title": "スケジュール表",
+          "path": "lessons/d3fb7b753b59779b2d35973645b03a97b758958415c5824c651c60b80a79bf07.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-09",
+          "sourceId": "lesson-09",
+          "number": 9,
+          "title": "温泉",
+          "path": "lessons/72674c499d60ab18d480801d8f965fbc15746227d50385487beb40529e554763.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-10",
+          "sourceId": "lesson-10",
+          "number": 10,
+          "title": "美術館",
+          "path": "lessons/af232f52655e9b129a9464db9afbd7642bb294d4eaa123d20389b0f72f3b5dec.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-11",
+          "sourceId": "lesson-11",
+          "number": 11,
+          "title": "お土産",
+          "path": "lessons/14d2b54dfa9ceb9c67029acfef1aad7e2c8062127a3e33618a9be5da21c7b069.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-12",
+          "sourceId": "lesson-12",
+          "number": 12,
+          "title": "お酒とお茶",
+          "path": "lessons/8f3f3485e283890a54e9ad18ed7aaa4feef0ac01cd381d6effe58efd7f4cc266.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-13",
+          "sourceId": "lesson-13",
+          "number": 13,
+          "title": "居酒屋",
+          "path": "lessons/70ef853e332b2984e87e3c9e91c61105a6cc8fe44996df9dfc70407bef417158.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-14",
+          "sourceId": "lesson-14",
+          "number": 14,
+          "title": "原稿",
+          "path": "lessons/763827b699868d61335c2fc56b730c22921f156196d866f69267eb1b25da89c8.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-15",
+          "sourceId": "lesson-15",
+          "number": 15,
+          "title": "風邪",
+          "path": "lessons/2573cd878cfa6955b375ccfaa930bbb7898a155cf54a210f38a088613afe9831.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-16",
+          "sourceId": "lesson-16",
+          "number": 16,
+          "title": "展示場",
+          "path": "lessons/4c9ea08dcc02d7d32917d3897da4bcc8f6773b6ba7212d1ea8f1bccdab344750.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-17",
+          "sourceId": "lesson-17",
+          "number": 17,
+          "title": "初詣",
+          "path": "lessons/7263ca76b9063536a9015c322e6570afad4861e0aec701565f5faf36b051d1e6.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-18",
+          "sourceId": "lesson-18",
+          "number": 18,
+          "title": "新春セール",
+          "path": "lessons/3a8a833f25bda5679e836bad8f5e9b3f70efc5a2665d4a19479faab2eb1d7ac8.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-19",
+          "sourceId": "lesson-19",
+          "number": 19,
+          "title": "スキー",
+          "path": "lessons/eefb4d3d2baa7191d493dc7337a070c721b26c6193986e11a1258dc27e408d8b.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-20",
+          "sourceId": "lesson-20",
+          "number": 20,
+          "title": "春節",
+          "path": "lessons/903bb408d638186e9e563217599f060b2de9a6c0f4559a1d0860b01ddf50f6a0.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-21",
+          "sourceId": "lesson-21",
+          "number": 21,
+          "title": "歌舞伎",
+          "path": "lessons/7fcba65ea3b863baabaf1d984535fc8181e91202fe8716842ba36df67356ad5d.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-22",
+          "sourceId": "lesson-22",
+          "number": 22,
+          "title": "友達",
+          "path": "lessons/033a76ba4c79a0f665e46208965cc26929743c003baf4d5542d66b3263513545.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-23",
+          "sourceId": "lesson-23",
+          "number": 23,
+          "title": "送別会",
+          "path": "lessons/75deb043c00ccbb76401be56237eeea376a4c8a619fed9a8c80a3138889e39bc.json"
+        },
+        {
+          "id": "standard-shokyu-1:lesson-24",
+          "sourceId": "lesson-24",
+          "number": 24,
+          "title": "見送り",
+          "path": "lessons/9fbb47abc054dc888541124d432e3c7e7ba008f46d3552d33445c91bfff72fa4.json"
+        }
+      ]
+    },
+    {
+      "id": "standard-shokyu-2",
+      "title": "新标准日本语 初级下",
+      "lessonRange": [
+        25,
+        48
+      ],
+      "lessons": [
+        {
+          "id": "standard-shokyu-2:lesson-25",
+          "sourceId": "lesson-25",
+          "number": 25,
+          "title": "北京市街へ",
+          "path": "lessons/2dbdbf3f9f0b4ad7ae7eda4f394085068ce2388118a42fbadbeeab19d42b0ad6.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-26",
+          "sourceId": "lesson-26",
+          "number": 26,
+          "title": "握手とお辞儀",
+          "path": "lessons/fce8fbb1c7c61dda6800efe15901b324044d7c5bc964bdd5d761d095c1f02327.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-27",
+          "sourceId": "lesson-27",
+          "number": 27,
+          "title": "朝の公園",
+          "path": "lessons/0a26edca134a0bbbb5fe67077da51ef9350227fdd9061b3c27ed518b51e3e88c.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-28",
+          "sourceId": "lesson-28",
+          "number": 28,
+          "title": "森さんの新居",
+          "path": "lessons/a0afabebc3545609556479807c8debcca5a1a89104d3e982c554ab803f6d5356.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-29",
+          "sourceId": "lesson-29",
+          "number": 29,
+          "title": "カラオケ",
+          "path": "lessons/1a6555611fa404025794834b4626e7821f5481e9f79a6df41f2161032a2bfbac.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-30",
+          "sourceId": "lesson-30",
+          "number": 30,
+          "title": "春のピクニック",
+          "path": "lessons/2cd43f71c85d6df4b981e72d2d51887ba8db42c2c870bfcb3a8415b49292de02.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-31",
+          "sourceId": "lesson-31",
+          "number": 31,
+          "title": "散歩",
+          "path": "lessons/1f0d17dd0b969d31af3cee0cf6e02709bf50bd5f7f005135c1ebdf3c49393757.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-32",
+          "sourceId": "lesson-32",
+          "number": 32,
+          "title": "連休",
+          "path": "lessons/e3358ad5efa65635de0de8ace3d3c31db473ecf2ac845751828a9b792acccba0.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-33",
+          "sourceId": "lesson-33",
+          "number": 33,
+          "title": "再会",
+          "path": "lessons/4430fca34305fb7b409554cfa773b2e70774f4d448feed76df17686f37d5d6ef.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-34",
+          "sourceId": "lesson-34",
+          "number": 34,
+          "title": "北京ダック",
+          "path": "lessons/b42eff9ec1402827289c043622f5c20cd04ad38a0e5a069643c63da581b8ec44.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-35",
+          "sourceId": "lesson-35",
+          "number": 35,
+          "title": "ホームパーティー",
+          "path": "lessons/4854fcb0739a4479392edeeda747577b7ce9256a0fff2f4efc8c3abdd6cc7804.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-36",
+          "sourceId": "lesson-36",
+          "number": 36,
+          "title": "北京の生活",
+          "path": "lessons/59f57ac369973e210d2316581fc912218495d131c39bdf6546ff251e6bf2b25b.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-37",
+          "sourceId": "lesson-37",
+          "number": 37,
+          "title": "万里の長城",
+          "path": "lessons/59b80e9e23ab491c8212f32a532956ff53bab69a9c2830a500dff0c697edaa77.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-38",
+          "sourceId": "lesson-38",
+          "number": 38,
+          "title": "胡同",
+          "path": "lessons/6e21028043725a7c8b97c6a24b00f53a68a241bcf1d04784c3f31747b990bbb2.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-39",
+          "sourceId": "lesson-39",
+          "number": 39,
+          "title": "故宮",
+          "path": "lessons/4c99b0d37c8b4484e9b67b83d8e84951348bd363e2d31f801f54deeb29b84985.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-40",
+          "sourceId": "lesson-40",
+          "number": 40,
+          "title": "京劇",
+          "path": "lessons/f5616bd8d06e7ca2dccbef03b135dce06b0ba968dd8ed86c5c9890750742bfbf.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-41",
+          "sourceId": "lesson-41",
+          "number": 41,
+          "title": "市場調査",
+          "path": "lessons/e85bb27278c5f8dd2cdb8ba549e1223a2eb76661d28e6ef5e83b0febdd995726.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-42",
+          "sourceId": "lesson-42",
+          "number": 42,
+          "title": "企画案",
+          "path": "lessons/33a4cb0dcb9f2a5e2c7d83f87ef72b3d442ff7d02f5d5f29ebfff9d40ee92874.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-43",
+          "sourceId": "lesson-43",
+          "number": 43,
+          "title": "プレゼンテーション",
+          "path": "lessons/141e535b97e647e6793c7f18fdece5c9372bcafcf16ae4efc14469f817b57e9b.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-44",
+          "sourceId": "lesson-44",
+          "number": 44,
+          "title": "売れ行き",
+          "path": "lessons/7314bc61dd3bfd29c480db8de73da4b946a08e0e6e19b068b8c73b504bc9d83a.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-45",
+          "sourceId": "lesson-45",
+          "number": 45,
+          "title": "上海",
+          "path": "lessons/af38a6ea5c7ce8a475138a1ceb662df08fdb977327f534da9e90ccb744beb70b.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-46",
+          "sourceId": "lesson-46",
+          "number": 46,
+          "title": "事務所探し",
+          "path": "lessons/3740e4d49ac53a841eb30e2267056e4d49e5a3d69642af3f9b000dc538a3009c.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-47",
+          "sourceId": "lesson-47",
+          "number": 47,
+          "title": "社長の下見",
+          "path": "lessons/29966beb047315ac755fee358ce9253168b3719f99277bf278903555f981d496.json"
+        },
+        {
+          "id": "standard-shokyu-2:lesson-48",
+          "sourceId": "lesson-48",
+          "number": 48,
+          "title": "上海事務所",
+          "path": "lessons/9fff2eef305ee8232ed79030909b3588a7becbafa8bc765952e19394e9622db3.json"
+        }
+      ]
+    },
+    {
+      "id": "standard-chukyu-1",
+      "title": "新标准日本语 中级上",
+      "lessonRange": [
+        1,
+        16
+      ],
+      "lessons": [
+        {
+          "id": "standard-chukyu-1:lesson-01",
+          "sourceId": "lesson-01",
+          "number": 1,
+          "title": "出会い_日本の鉄道",
+          "path": "lessons/21ef758e024ad8bfe75cd407462849764a4c5a97ebf6654e7b475ee22dca8345.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-02",
+          "sourceId": "lesson-02",
+          "number": 2,
+          "title": "あいさつ_あいさつの時の礼儀",
+          "path": "lessons/2e98c3832d5f6ecb1ffc270ebf9abbf232748b748e370e2579da7e4e756cb767.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-03",
+          "sourceId": "lesson-03",
+          "number": 3,
+          "title": "顔合わせ_名字",
+          "path": "lessons/aac580c450915d3ec40904ead95a0caf282843ef83ddee179eea9b23a8c5c3d8.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-04",
+          "sourceId": "lesson-04",
+          "number": 4,
+          "title": "東京本社_近年サラリーマン事情",
+          "path": "lessons/5561cdc15dcaabeb82cb0046ec3ce563d0671e4f615fe8fc64ae8cd5d922c893.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-05",
+          "sourceId": "lesson-05",
+          "number": 5,
+          "title": "商品紹介_日本語の語彙",
+          "path": "lessons/242e0604bb2e7f59361cca3294a86aa81a32f8f7e3a4722243c66be156fe4af0.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-06",
+          "sourceId": "lesson-06",
+          "number": 6,
+          "title": "先輩_「はしの文化」さまざま",
+          "path": "lessons/533cf881ddc7476efaeaa183b9249687c646134a1326d751d43bf97e5c14eb93.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-07",
+          "sourceId": "lesson-07",
+          "number": 7,
+          "title": "打ち合わせ_電子メールの作法",
+          "path": "lessons/123a2d7ccde98d359f2e5c8d6838082b296d31758b41c335b71a39ad67250d2b.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-08",
+          "sourceId": "lesson-08",
+          "number": 8,
+          "title": "企画書_カップラーメン",
+          "path": "lessons/898875c24aff865026dfa0cbf05c135e7f95a9c97abf955d5168651169341994.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-09",
+          "sourceId": "lesson-09",
+          "number": 9,
+          "title": "トラブル_イタリア旅行",
+          "path": "lessons/75b87c1750428eeda11d63b28f0f7532180456a0ed3551ed1afe57df58608fa2.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-10",
+          "sourceId": "lesson-10",
+          "number": 10,
+          "title": "スケジュール_温泉大国、日本",
+          "path": "lessons/30d5b18dad5e5d546ced7c6310a0db6d532f47e13cd4b1590a2e9f160c946eb7.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-11",
+          "sourceId": "lesson-11",
+          "number": 11,
+          "title": "若者の意識_漫画とアニメ",
+          "path": "lessons/426e6dac7d3b4fa1e954d292e485617aa702b4e2f2faf0a184427f466f3608c6.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-12",
+          "sourceId": "lesson-12",
+          "number": 12,
+          "title": "最終日_方言と共通語",
+          "path": "lessons/13aeec7ffcd45e59812f03d3c0c970acc0cdd7abb639a56443411cb70ecc48b8.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-13",
+          "sourceId": "lesson-13",
+          "number": 13,
+          "title": "スピーチの依頼_日本の人口が減っている",
+          "path": "lessons/70086c10b0fdbbccfa8bab313ef2be15e6939adfe4207e733b34bd4099c30107.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-14",
+          "sourceId": "lesson-14",
+          "number": 14,
+          "title": "恩師_日本の就職活動",
+          "path": "lessons/ae0bc213db98355782c4d414496dd75e1b282e3d5b244ac44db80f34af4c17da.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-15",
+          "sourceId": "lesson-15",
+          "number": 15,
+          "title": "同級生_日本レストラン事情",
+          "path": "lessons/cd9a7dbd642bf2719743e918e677a11d4e1bc6c2501e39983254a7a2ac2ffbf8.json"
+        },
+        {
+          "id": "standard-chukyu-1:lesson-16",
+          "sourceId": "lesson-16",
+          "number": 16,
+          "title": "結婚披露宴_変わる結婚式",
+          "path": "lessons/b78dccafe128211f487861f17bbf6b8500d75f3cb258bb61a15220179ad4cfaf.json"
+        }
+      ]
+    },
+    {
+      "id": "standard-chukyu-2",
+      "title": "新标准日本语 中级下",
+      "lessonRange": [
+        17,
+        32
+      ],
+      "lessons": [
+        {
+          "id": "standard-chukyu-2:lesson-17",
+          "sourceId": "lesson-17",
+          "number": 17,
+          "title": "日本取材の成果_北京の顔",
+          "path": "lessons/a323fe37eeeee11f2ed9030dd2fc6fafebaea1dbaac30398c6db7787c0c4e3c4.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-18",
+          "sourceId": "lesson-18",
+          "number": 18,
+          "title": "売り込み_手紙",
+          "path": "lessons/a5f60801a7475a58e13746294253f6b90cf43201ac4f8ca323080328fddbc86a.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-19",
+          "sourceId": "lesson-19",
+          "number": 19,
+          "title": "クレーム_「水道水」の話",
+          "path": "lessons/fdc9c8f0c379f4536eb9dacb1e1c0ffc22066e7c92b291e325463a37ff53d9b5.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-20",
+          "sourceId": "lesson-20",
+          "number": 20,
+          "title": "希望の灯_太極拳で広がる交流",
+          "path": "lessons/cd02f827db603e79a09bd5f7a630154afbfe84af47116ab05122d8c768a4da31.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-21",
+          "sourceId": "lesson-21",
+          "number": 21,
+          "title": "広州で_中国茶の歴史",
+          "path": "lessons/21776861d5dbb54e3d76c7f2bd2eb6d1dbb975b9f594f3019078539be492229a.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-22",
+          "sourceId": "lesson-22",
+          "number": 22,
+          "title": "電話_デジタルカメラ新製品紹介",
+          "path": "lessons/4cb77fcc07773f9b5cabfae5e60d29baf098d6316bebbf56992cf4573eda713d.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-23",
+          "sourceId": "lesson-23",
+          "number": 23,
+          "title": "紹興を訪ねる_水郷の町",
+          "path": "lessons/249914651afad47115cf3c7a49e569b8cabbcd77f90508babcf02425d62c7891.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-24",
+          "sourceId": "lesson-24",
+          "number": 24,
+          "title": "香港—CM撮影の下見_CM",
+          "path": "lessons/2a22bbccfd50d4cda6fc4e221d843524f8c7579579e37b9e203a100d28fe2694.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-25",
+          "sourceId": "lesson-25",
+          "number": 25,
+          "title": "創作中華料理コンテストの実現_日本の寿司から世界のSUSHIへ",
+          "path": "lessons/b822f072e365869b3eeac45df99a212620d61e30f92f81348d3df609fe6471be.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-26",
+          "sourceId": "lesson-26",
+          "number": 26,
+          "title": "イベント前夜_地球温暖化",
+          "path": "lessons/977281dac1c84b6aaecc7de0d7a335cc829cbb25e92ab2b00abb03f4c38a68c2.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-27",
+          "sourceId": "lesson-27",
+          "number": 27,
+          "title": "イベント当日_桜",
+          "path": "lessons/ed17d7afa24bfb942f9844c1bb945270ef3986dd0852de199d7a7b308d8e3527.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-28",
+          "sourceId": "lesson-28",
+          "number": 28,
+          "title": "病院_ロボット",
+          "path": "lessons/337bf0223ccd1673a853047bcc8ab0620141d17b7e264d55682aec7de74d417b.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-29",
+          "sourceId": "lesson-29",
+          "number": 29,
+          "title": "イベント打ち上げ_宇宙食",
+          "path": "lessons/6aa084746b11047649ef905c2e3f488106c61f3d7a01226f82d43765b8f43f5a.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-30",
+          "sourceId": "lesson-30",
+          "number": 30,
+          "title": "本社での報告_地震",
+          "path": "lessons/dfca480d8052ea6b6e53fab751928ee453bfee3146954d87724e7d60cf3e60a5.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-31",
+          "sourceId": "lesson-31",
+          "number": 31,
+          "title": "栄転の話_クモの糸",
+          "path": "lessons/2ea7545205658a61f3a59fa26764567bff61be1bf26832ce16095de5285e2b2a.json"
+        },
+        {
+          "id": "standard-chukyu-2:lesson-32",
+          "sourceId": "lesson-32",
+          "number": 32,
+          "title": "思い出の場所_トキ",
+          "path": "lessons/5aebc7d5539fa8355f49303d8c650258fafa8eb84526530c6292100008a166f7.json"
+        }
+      ]
+    },
+    {
+      "id": "standard-jokyu-1",
+      "title": "新标准日本语 高级上",
+      "lessonRange": [
+        1,
+        12
+      ],
+      "lessons": [
+        {
+          "id": "standard-jokyu-1:lesson-01",
+          "sourceId": "lesson-01",
+          "number": 1,
+          "title": "食",
+          "path": "lessons/cfae3f6299efe8393ad5cfdc8dcf35bf5298fd2a0cfe195325ae873adf17bf5e.json"
+        },
+        {
+          "id": "standard-jokyu-1:lesson-02",
+          "sourceId": "lesson-02",
+          "number": 2,
+          "title": "習慣",
+          "path": "lessons/da0fe44f44ea2b3f2840f8b9b2f4016f111f6703a1fb386be5c4e4641ac2179b.json"
+        },
+        {
+          "id": "standard-jokyu-1:lesson-03",
+          "sourceId": "lesson-03",
+          "number": 3,
+          "title": "衣服",
+          "path": "lessons/4263e5b2efa90a54e9896d2b3486aa548929cf24a1de95bdc5c8ef9ce96eeb2f.json"
+        },
+        {
+          "id": "standard-jokyu-1:lesson-04",
+          "sourceId": "lesson-04",
+          "number": 4,
+          "title": "営業",
+          "path": "lessons/cbbf7bec62a4efa87fd1bd67e64e56b246cc461bcf278f3991ed55ae7789b5dc.json"
+        },
+        {
+          "id": "standard-jokyu-1:lesson-05",
+          "sourceId": "lesson-05",
+          "number": 5,
+          "title": "芸術",
+          "path": "lessons/8bbbf560e80ff1881e99e6d01eeab5e88e13aa12b6b92326aa0b66da8850d62a.json"
+        },
+        {
+          "id": "standard-jokyu-1:lesson-06",
+          "sourceId": "lesson-06",
+          "number": 6,
+          "title": "音楽",
+          "path": "lessons/fc11b386d77552d3b03fe88f5d264014e8c1abfbfa4d398a11032204dbc9c1bd.json"
+        },
+        {
+          "id": "standard-jokyu-1:lesson-07",
+          "sourceId": "lesson-07",
+          "number": 7,
+          "title": "スポーツ",
+          "path": "lessons/092ba225170de978b811afe95b17202d72d148aaa40c21333ae7308342250b92.json"
+        },
+        {
+          "id": "standard-jokyu-1:lesson-08",
+          "sourceId": "lesson-08",
+          "number": 8,
+          "title": "メセナ",
+          "path": "lessons/5d0420d87a310b7dc1410d2042f3e12b7cdc0ed77dd30bcde2bbe71504a89608.json"
+        },
+        {
+          "id": "standard-jokyu-1:lesson-09",
+          "sourceId": "lesson-09",
+          "number": 9,
+          "title": "自然災害",
+          "path": "lessons/6df17257d34772a1e13fab4f8f7873e3f39f74e547e4232795a106f82673efe4.json"
+        },
+        {
+          "id": "standard-jokyu-1:lesson-10",
+          "sourceId": "lesson-10",
+          "number": 10,
+          "title": "資源",
+          "path": "lessons/a159457b5b6aa6c809bdba4025dcdb2801c21eac59474734bb5d3d1cdfa84048.json"
+        },
+        {
+          "id": "standard-jokyu-1:lesson-11",
+          "sourceId": "lesson-11",
+          "number": 11,
+          "title": "エネルギー",
+          "path": "lessons/19cff0ca5a0dadae6068b4349a48b185095768ec22dc2d8f220ed43366e5dd5d.json"
+        },
+        {
+          "id": "standard-jokyu-1:lesson-12",
+          "sourceId": "lesson-12",
+          "number": 12,
+          "title": "CSR",
+          "path": "lessons/93ee925a07237141b3fb4e43634e013dc37d004b6963f2096d3a945024029a32.json"
+        }
+      ]
+    },
+    {
+      "id": "standard-jokyu-2",
+      "title": "新标准日本语 高级下",
+      "lessonRange": [
+        13,
+        24
+      ],
+      "lessons": [
+        {
+          "id": "standard-jokyu-2:lesson-13",
+          "sourceId": "lesson-13",
+          "number": 13,
+          "title": "高齢化",
+          "path": "lessons/e5528a1bdc96a64dff09187311a4aec2730a3feafdf70893c6bb07db4909f21c.json"
+        },
+        {
+          "id": "standard-jokyu-2:lesson-14",
+          "sourceId": "lesson-14",
+          "number": 14,
+          "title": "政治",
+          "path": "lessons/707c37e7a5bc267a541a064d488177147dba7b5205befb35f4ecea045c3431d7.json"
+        },
+        {
+          "id": "standard-jokyu-2:lesson-15",
+          "sourceId": "lesson-15",
+          "number": 15,
+          "title": "家事",
+          "path": "lessons/f73262875865b95c2d854eabf5b6115a8012a4cd6a2d6869a8d700f0bc6464eb.json"
+        },
+        {
+          "id": "standard-jokyu-2:lesson-16",
+          "sourceId": "lesson-16",
+          "number": 16,
+          "title": "雇用",
+          "path": "lessons/7279339daa5fb18492d5a5d3ec01770f2b1c44cc9643a4de15bb518973c2d12c.json"
+        },
+        {
+          "id": "standard-jokyu-2:lesson-17",
+          "sourceId": "lesson-17",
+          "number": 17,
+          "title": "技術",
+          "path": "lessons/2f6bb186ddc71aae7a58e4cff5770567a2bc35a3524299f5d550a500e27c5208.json"
+        },
+        {
+          "id": "standard-jokyu-2:lesson-18",
+          "sourceId": "lesson-18",
+          "number": 18,
+          "title": "医療",
+          "path": "lessons/08197fe8fb4fe1396fdccba9e4690b1dc44c74475e7e76099e19d6a6e51b57d9.json"
+        },
+        {
+          "id": "standard-jokyu-2:lesson-19",
+          "sourceId": "lesson-19",
+          "number": 19,
+          "title": "科学",
+          "path": "lessons/eeb70cd9a5c605c7713d58376c759f84e1e1988161f334645bbabf078263f5c0.json"
+        },
+        {
+          "id": "standard-jokyu-2:lesson-20",
+          "sourceId": "lesson-20",
+          "number": 20,
+          "title": "開発",
+          "path": "lessons/a182a41a0461126b1cb8bb6e1546260fc19666376d25f50f1e22a2658b8047c2.json"
+        },
+        {
+          "id": "standard-jokyu-2:lesson-21",
+          "sourceId": "lesson-21",
+          "number": 21,
+          "title": "歴史的交流",
+          "path": "lessons/4192296c7c4507bbd24a9c44fb25e304c3e46b8e19379b641ccccb54f146544a.json"
+        },
+        {
+          "id": "standard-jokyu-2:lesson-22",
+          "sourceId": "lesson-22",
+          "number": 22,
+          "title": "自然保護",
+          "path": "lessons/7338545536f6e9625c580fae361ececb41af8a9eb315a37603696a3ec1b327a4.json"
+        },
+        {
+          "id": "standard-jokyu-2:lesson-23",
+          "sourceId": "lesson-23",
+          "number": 23,
+          "title": "国際性",
+          "path": "lessons/58044f9037de9ca5348815aa997355678867bffbb7372b6652881d87000879f5.json"
+        },
+        {
+          "id": "standard-jokyu-2:lesson-24",
+          "sourceId": "lesson-24",
+          "number": 24,
+          "title": "フィランソロピー",
+          "path": "lessons/ff2d126bb1c072a20741511e0d84d01f80e3c6af484427d96b2033794960857d.json"
+        }
+      ]
+    },
+    {
+      "id": "minna-shokyu-1",
+      "title": "大家的日语 初级1",
+      "lessonRange": [
+        1,
+        25
+      ],
+      "lessons": [
+        {
+          "id": "minna-shokyu-1:lesson-01",
+          "sourceId": "lesson-01",
+          "number": 1,
+          "title": "初めまして",
+          "path": "lessons/665a80629aa9fb47ac869e837dff82e77fc8160f3afb86404e6b2199e4a2f7b4.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-02",
+          "sourceId": "lesson-02",
+          "number": 2,
+          "title": "これからお世話になります",
+          "path": "lessons/9c1cda5fffaaad40d4044b83119a1a0a74d1f735624fd10d50b0ca9b459a31a0.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-03",
+          "sourceId": "lesson-03",
+          "number": 3,
+          "title": "これをください",
+          "path": "lessons/d1f9e4729f06eb62f5d71bb9a4f746e5b459b3ae93a69792caa16b4e37fffb05.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-04",
+          "sourceId": "lesson-04",
+          "number": 4,
+          "title": "そちらは何時までですか",
+          "path": "lessons/9d2e251a38239974154b842d6eee735d3a2a9bdfc7e36299cd052d937f2e9329.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-05",
+          "sourceId": "lesson-05",
+          "number": 5,
+          "title": "この電車は甲子園へ行きますか",
+          "path": "lessons/51d4792f513be4184f7a925871ab3838f3327b4b28a7cc3bc2bae6db7ec8053d.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-06",
+          "sourceId": "lesson-06",
+          "number": 6,
+          "title": "いっしょに行きませんか",
+          "path": "lessons/9b9bc453892ba82138fffb768d07a42fce62d8987994ecabb1c19ff26e1b1d9f.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-07",
+          "sourceId": "lesson-07",
+          "number": 7,
+          "title": "いらっしゃい",
+          "path": "lessons/040f60ee6c10167d9f2868c84d5ce86c50f2c9396826733d98e463e144e283b3.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-08",
+          "sourceId": "lesson-08",
+          "number": 8,
+          "title": "そろそろ失礼します",
+          "path": "lessons/e551339541d33b6f9c47e7e43a2d5bb615c00c8e7b8d3af61db3d27f2aa89a72.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-09",
+          "sourceId": "lesson-09",
+          "number": 9,
+          "title": "残念ですが",
+          "path": "lessons/f94db79007e5eb77dccce116278e29935dcb41b0120f49b66e7b6d6b48a881a3.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-10",
+          "sourceId": "lesson-10",
+          "number": 10,
+          "title": "ナンプラー、ありますか",
+          "path": "lessons/10a8c6ff7e878365c81263b14cf0087871743582a527684025815ba08ef96cb4.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-11",
+          "sourceId": "lesson-11",
+          "number": 11,
+          "title": "これ、お願いします",
+          "path": "lessons/6e3cf3387ce19cb044eb2567afed55ff757699d29e1ce13bf7d178af7b3407c8.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-12",
+          "sourceId": "lesson-12",
+          "number": 12,
+          "title": "祇園祭はどうでしたか",
+          "path": "lessons/900d55ff66628586a9dfca6c469fed6ea78e6ebf4a42e6ee45f7b7f55a21797e.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-13",
+          "sourceId": "lesson-13",
+          "number": 13,
+          "title": "別々にお願いします",
+          "path": "lessons/5e18bc59d1bbe0fc7eec2e2f16c3d44eb2e6aeefe24b4c44563062b71a1242b1.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-14",
+          "sourceId": "lesson-14",
+          "number": 14,
+          "title": "みどり町までお願いします",
+          "path": "lessons/ae2945ba7181146061392763a8804956567d4dac85379bf58138ce967d9611ff.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-15",
+          "sourceId": "lesson-15",
+          "number": 15,
+          "title": "ご家族は？",
+          "path": "lessons/ad960560165fcc266056d32db2ef05f8f478f318f55589603b260a4873f874eb.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-16",
+          "sourceId": "lesson-16",
+          "number": 16,
+          "title": "使い方を教えてください",
+          "path": "lessons/c04ef9a839c19bb96b54c6bd4a2320754f1a291ada51176536a97828147095fa.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-17",
+          "sourceId": "lesson-17",
+          "number": 17,
+          "title": "どうしましたか",
+          "path": "lessons/4df19267c504284accfe8581c6de293ede06e89cbc9d5ec5e9aa6a4c1566b97f.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-18",
+          "sourceId": "lesson-18",
+          "number": 18,
+          "title": "趣味は何ですか",
+          "path": "lessons/006d769cf460656b89645d142f70dfb1bdd4446ea5f45348412e70e797a17e61.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-19",
+          "sourceId": "lesson-19",
+          "number": 19,
+          "title": "ダイエットはあしたからします",
+          "path": "lessons/659144ddb9dca6d2c874aaa163f474aa7cbe4a45f4ded50f1acc65064c742bf1.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-20",
+          "sourceId": "lesson-20",
+          "number": 20,
+          "title": "いっしょに行かない？",
+          "path": "lessons/ea5db14dd712398eba31dcb73b2637be173f74739a8bdcc0bd1589a5d59fd6fa.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-21",
+          "sourceId": "lesson-21",
+          "number": 21,
+          "title": "わたしもそう思います",
+          "path": "lessons/e35c4f90a1a7c634483f5c441b3fb3d7dd4a111f3ec2ef17a082a0c3f311c6bc.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-22",
+          "sourceId": "lesson-22",
+          "number": 22,
+          "title": "どんな部屋をお探しですか",
+          "path": "lessons/d0fdac5909175b961cc218873514a07a073eafa81c92c308fd68427e4a44bc5e.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-23",
+          "sourceId": "lesson-23",
+          "number": 23,
+          "title": "どうやって行きますか",
+          "path": "lessons/06fb77392a12c5f0e57379df9073994d03929cff11d1c4610331f6527d03d4dd.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-24",
+          "sourceId": "lesson-24",
+          "number": 24,
+          "title": "手伝いに行きましょうか",
+          "path": "lessons/c41bba7a342649e5c04432d5fde32c9020d3479f20c5ee548d90ff71690d8c79.json"
+        },
+        {
+          "id": "minna-shokyu-1:lesson-25",
+          "sourceId": "lesson-25",
+          "number": 25,
+          "title": "いろいろお世話になりました",
+          "path": "lessons/5c14e620c0c5466f20a1e1067da7c5d038b5df9e6ee2bb9263afd9ad6d6a949d.json"
+        }
+      ]
+    },
+    {
+      "id": "minna-shokyu-2",
+      "title": "大家的日语 初级2",
+      "lessonRange": [
+        26,
+        50
+      ],
+      "lessons": [
+        {
+          "id": "minna-shokyu-2:lesson-26",
+          "sourceId": "lesson-26",
+          "number": 26,
+          "title": "ごみはどこに出したらいいですか",
+          "path": "lessons/38cbc2402074cd64f8838c3fd7532aa1bf92faec9ae3d6a2fcfdbf8da69c5aef.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-27",
+          "sourceId": "lesson-27",
+          "number": 27,
+          "title": "何でも作れるんですね",
+          "path": "lessons/2e2f5e582cceb0e9b32be031f8f663e5b26b0e7c9d1a12a0ea897e02a11fc676.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-28",
+          "sourceId": "lesson-28",
+          "number": 28,
+          "title": "出張も多いし、試験もあるし……",
+          "path": "lessons/0dcc2d18fde0d0943e659ee325df440bd1ee476d929dc30aeb067ee5c337524e.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-29",
+          "sourceId": "lesson-29",
+          "number": 29,
+          "title": "忘れ物をしてしまったんです",
+          "path": "lessons/93eff7a562ff287e4c83bfacc7226c428d5c9c7b12d23ad37bc57ba232a527b3.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-30",
+          "sourceId": "lesson-30",
+          "number": 30,
+          "title": "非常袋を準備しておかないと",
+          "path": "lessons/617c6722c979cac14d33b2c984cc4645b4a081928e4b9592af7617d42e50c0fe.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-31",
+          "sourceId": "lesson-31",
+          "number": 31,
+          "title": "料理を習おうと思っています",
+          "path": "lessons/fe78b1afc35ef0dec1ff6be23830f756387ee00f5fbd47ae553130a5136d2ded.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-32",
+          "sourceId": "lesson-32",
+          "number": 32,
+          "title": "無理をしないほうがいいですよ",
+          "path": "lessons/7a271f83477ca9491523d0f714deb104fca77f6fa5b78af062aa7c5d85b54dda.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-33",
+          "sourceId": "lesson-33",
+          "number": 33,
+          "title": "これはどういう意味ですか",
+          "path": "lessons/4d2d53866643a0bd5be374b383d5e37d17bfb80d1928d88cc353672d9e431f34.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-34",
+          "sourceId": "lesson-34",
+          "number": 34,
+          "title": "わたしがしたとおりにしてください",
+          "path": "lessons/0276c0eb40a77a659344e1d32afd2f68a3ade75157412627c8fe000f3654bd7d.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-35",
+          "sourceId": "lesson-35",
+          "number": 35,
+          "title": "どこかいい所、ありませんか",
+          "path": "lessons/e455ff4ede1ed911fca1a3989d2ec1b34c8f80f98da4792c9f639f32b20cbad1.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-36",
+          "sourceId": "lesson-36",
+          "number": 36,
+          "title": "毎日運動するようにしています",
+          "path": "lessons/32ba738000f6abbae4694ed06d901d0b7af7c044f46b014e32e055cf0c45424d.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-37",
+          "sourceId": "lesson-37",
+          "number": 37,
+          "title": "金閣寺は14世紀に建てられました",
+          "path": "lessons/4e4e594d6a8e351b1ff756fae1fd67408be923618cf1dfc5cb5ef312bcc0d82f.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-38",
+          "sourceId": "lesson-38",
+          "number": 38,
+          "title": "片づけるのが好きなんです",
+          "path": "lessons/40cfd72298c23dd0f772e10a8339b9088ebfaa9ddef56961859fb065c41f7e0c.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-39",
+          "sourceId": "lesson-39",
+          "number": 39,
+          "title": "遅れて、すみません",
+          "path": "lessons/ead1be08606a4fac8daac715faed5ec25f45075fe068c79f3deda08d886896fe.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-40",
+          "sourceId": "lesson-40",
+          "number": 40,
+          "title": "友達ができたかどうか、心配です",
+          "path": "lessons/813b16614b5b415d4a180359f54516eb432b2afcd5dc2844460f53efba473ca9.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-41",
+          "sourceId": "lesson-41",
+          "number": 41,
+          "title": "ご結婚おめでとうございます",
+          "path": "lessons/d3641f7135551b6ed91950dbcce57201283631b568cb91d99acf7329478cb1bb.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-42",
+          "sourceId": "lesson-42",
+          "number": 42,
+          "title": "ボーナスは何に使いますか",
+          "path": "lessons/7ab286f13d82d0ae9997f7f7566c341b917337c3dfb52ec0d80b83521d026a09.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-43",
+          "sourceId": "lesson-43",
+          "number": 43,
+          "title": "毎日楽しそうです",
+          "path": "lessons/631252c146b23dff4b931a44881eb35b7494fe232d439cf5b7abf9cf803adc59.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-44",
+          "sourceId": "lesson-44",
+          "number": 44,
+          "title": "この写真みたいにしてください",
+          "path": "lessons/e827293e79dd808105cccac6d24cfeb228a3dfdedaa11874036d5a0c2fe5d5c0.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-45",
+          "sourceId": "lesson-45",
+          "number": 45,
+          "title": "コースをまちがえた場合は、どうしたらいいですか",
+          "path": "lessons/ace9184350c302623feddeb7a5c395da26f05d201fc5c23c6edbf3f7adcc65f1.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-46",
+          "sourceId": "lesson-46",
+          "number": 46,
+          "title": "先週直してもらったばかりなのに、また……",
+          "path": "lessons/21dfe918bf98d14be84ef3eaae67d90abb323b97cdf7c1db5a01a801b959fc72.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-47",
+          "sourceId": "lesson-47",
+          "number": 47,
+          "title": "婚約したそうです",
+          "path": "lessons/6d54cf09f107ebf9621cde258c81c4262bce3db037b8965e5f8664068c3de43e.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-48",
+          "sourceId": "lesson-48",
+          "number": 48,
+          "title": "休ませていただけませんか",
+          "path": "lessons/f34ee881a60446e7b2c816e6352f70727ce25fc7aee0bda90e2d1545b76a1d72.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-49",
+          "sourceId": "lesson-49",
+          "number": 49,
+          "title": "よろしくお伝えください",
+          "path": "lessons/239d16977e14d9edad9f0de9d16aee27a0b07f08b44cb2aca016f3b20d8e4a33.json"
+        },
+        {
+          "id": "minna-shokyu-2:lesson-50",
+          "sourceId": "lesson-50",
+          "number": 50,
+          "title": "心から感謝いたします",
+          "path": "lessons/51b6f657a8b88e590827485a302ed66348225ab62e24357aab30c773599d58c9.json"
+        }
+      ]
+    },
+    {
+      "id": "minna-chukyu-1",
+      "title": "大家的日语 中级1",
+      "lessonRange": [
+        1,
+        12
+      ],
+      "lessons": [
+        {
+          "id": "minna-chukyu-1:lesson-01",
+          "sourceId": "lesson-01",
+          "number": 1,
+          "title": "お願いがあるんですが",
+          "path": "lessons/9d0e002e7d0dbc16332c2558daa817dbe529a27ab12cbea9ff3fd9c7b97c3e3d.json"
+        },
+        {
+          "id": "minna-chukyu-1:lesson-02",
+          "sourceId": "lesson-02",
+          "number": 2,
+          "title": "何のことですか",
+          "path": "lessons/c4083f8250807b04f61a62aad658679d25bac6f5c43eb09f108deab29c24fd4e.json"
+        },
+        {
+          "id": "minna-chukyu-1:lesson-03",
+          "sourceId": "lesson-03",
+          "number": 3,
+          "title": "遅れそうなんです",
+          "path": "lessons/3643ebc10830095a935042307b8eb93d1b8657445a0dd411ffc00699fb54bf52.json"
+        },
+        {
+          "id": "minna-chukyu-1:lesson-04",
+          "sourceId": "lesson-04",
+          "number": 4,
+          "title": "伝言、お願いできますか",
+          "path": "lessons/693184226ffac278affb4923674bb1b247b63180331d9fbff5a124505f998600.json"
+        },
+        {
+          "id": "minna-chukyu-1:lesson-05",
+          "sourceId": "lesson-05",
+          "number": 5,
+          "title": "どう行ったらいいでしょうか",
+          "path": "lessons/2927c82c86539e9376b569b2b0eb9e7500804d4d17ee9450887345d3db3f6b4a.json"
+        },
+        {
+          "id": "minna-chukyu-1:lesson-06",
+          "sourceId": "lesson-06",
+          "number": 6,
+          "title": "行かせていただきたいんですが",
+          "path": "lessons/2d47cf508dc25dddc823e3c93c4d081061b2165a0abd09eb4a72c3ae84478b73.json"
+        },
+        {
+          "id": "minna-chukyu-1:lesson-07",
+          "sourceId": "lesson-07",
+          "number": 7,
+          "title": "楽しみにしてます・遠慮させてください",
+          "path": "lessons/5b0fdf88af395d944457b524d57b889ab29b08bf60aca0cbae4ee9df393dca33.json"
+        },
+        {
+          "id": "minna-chukyu-1:lesson-08",
+          "sourceId": "lesson-08",
+          "number": 8,
+          "title": "迷子になっちゃったんです",
+          "path": "lessons/60fe049ca46358bfa97cbd91a272f9df517577b6cdac4b25c0042e04e40bd093.json"
+        },
+        {
+          "id": "minna-chukyu-1:lesson-09",
+          "sourceId": "lesson-09",
+          "number": 9,
+          "title": "どこが違うんですか",
+          "path": "lessons/ecc0af0aee7f4a30e5de9a04e88c55d5b0fb40922e5df0bd239eeaeb5e5689ff.json"
+        },
+        {
+          "id": "minna-chukyu-1:lesson-10",
+          "sourceId": "lesson-10",
+          "number": 10,
+          "title": "そんなはずはありません",
+          "path": "lessons/d27b62778c723fdb0ef64f3ed3228d8403d75e97b5c95085b981373481bf6aa3.json"
+        },
+        {
+          "id": "minna-chukyu-1:lesson-11",
+          "sourceId": "lesson-11",
+          "number": 11,
+          "title": "お勧めのところ、ありませんか",
+          "path": "lessons/ff1b1b7306f02e507177b68cd12daec782a2227e27202fbb4f1c65f84a9de44e.json"
+        },
+        {
+          "id": "minna-chukyu-1:lesson-12",
+          "sourceId": "lesson-12",
+          "number": 12,
+          "title": "ご迷惑をかけてすみませんでした",
+          "path": "lessons/129887a664b364f29fe917a924ce304c73089293054f32991eb7a1ad9dbe439e.json"
+        }
+      ]
+    },
+    {
+      "id": "minna-chukyu-2",
+      "title": "大家的日语 中级2",
+      "lessonRange": [
+        13,
+        24
+      ],
+      "lessons": [
+        {
+          "id": "minna-chukyu-2:lesson-13",
+          "sourceId": "lesson-13",
+          "number": 13,
+          "title": "勘違いしてることってよくありますよね",
+          "path": "lessons/0e248626a453fe13414c0ebee0a618033bf28aac4440fe107ac027eae30ae53a.json"
+        },
+        {
+          "id": "minna-chukyu-2:lesson-14",
+          "sourceId": "lesson-14",
+          "number": 14,
+          "title": "謎の美女と宇宙の旅に出るっていう話",
+          "path": "lessons/0d2dc137cc574441a4cb1d45217ec8b82fbac0ecaa39ba60c3eb04ecfa56266a.json"
+        },
+        {
+          "id": "minna-chukyu-2:lesson-15",
+          "sourceId": "lesson-15",
+          "number": 15,
+          "title": "イルワンさんの右に出る人はいないということです",
+          "path": "lessons/9fbe7a8182e89c861ba0a65ac755417857a4cc27fa5ef75c94aa45a4e70f6694.json"
+        },
+        {
+          "id": "minna-chukyu-2:lesson-16",
+          "sourceId": "lesson-16",
+          "number": 16,
+          "title": "不幸中の幸いだよ",
+          "path": "lessons/cc2fba451cb6bd796f347cf1a7e26ff503c65f5113aa4687e8c39e5d8bb55925.json"
+        },
+        {
+          "id": "minna-chukyu-2:lesson-17",
+          "sourceId": "lesson-17",
+          "number": 17,
+          "title": "もうお兄ちゃんだね",
+          "path": "lessons/248be57d2d4f8e723f5b95287f21e5279b2a5d5415f54fb256ec3bf50cb3f006.json"
+        },
+        {
+          "id": "minna-chukyu-2:lesson-18",
+          "sourceId": "lesson-18",
+          "number": 18,
+          "title": "あなたこそ、あの本の山はいったい何なの！",
+          "path": "lessons/b066506a654a999df437a0a4e924551a340928c0946b230d9de39f35771ef7b8.json"
+        },
+        {
+          "id": "minna-chukyu-2:lesson-19",
+          "sourceId": "lesson-19",
+          "number": 19,
+          "title": "ちょっと自慢話になりますが",
+          "path": "lessons/a85d97ca016f120067c7236aa482114456afaa39f8e1d72671b9149ec16f3fde.json"
+        },
+        {
+          "id": "minna-chukyu-2:lesson-20",
+          "sourceId": "lesson-20",
+          "number": 20,
+          "title": "なぜ、日本で相撲を取ろうと思われたのですか",
+          "path": "lessons/c07bb45edd06a92bef0980fa4a81923cbead7b1fb6a133ecfae18a48bd02d0a1.json"
+        },
+        {
+          "id": "minna-chukyu-2:lesson-21",
+          "sourceId": "lesson-21",
+          "number": 21,
+          "title": "データに基づいてお話ししたいと思います",
+          "path": "lessons/b266e64bfe2ac99460406597e02443e3d98b8b31674e1dbd0f392a5ed2d506b6.json"
+        },
+        {
+          "id": "minna-chukyu-2:lesson-22",
+          "sourceId": "lesson-22",
+          "number": 22,
+          "title": "賛成！",
+          "path": "lessons/022e691266219a37662b27b0543fac570ce65f1dec3db38e188d5d9ea21cced1.json"
+        },
+        {
+          "id": "minna-chukyu-2:lesson-23",
+          "sourceId": "lesson-23",
+          "number": 23,
+          "title": "一人の地球市民として",
+          "path": "lessons/97599f72811c9bf4c9c0ef604f784029f10f31616a56a46ceb394d1be4b76802.json"
+        },
+        {
+          "id": "minna-chukyu-2:lesson-24",
+          "sourceId": "lesson-24",
+          "number": 24,
+          "title": "好奇心と忍耐力はだれにも負けないつもりです",
+          "path": "lessons/a9bdcb32824cef4a321fc48250dd3c19abf12b1bf432ede577a7e79fbccf3d35.json"
+        }
+      ]
+    }
+  ]
+}

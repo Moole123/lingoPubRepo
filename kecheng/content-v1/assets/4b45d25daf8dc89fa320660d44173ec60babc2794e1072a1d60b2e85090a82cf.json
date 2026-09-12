@@ -1,0 +1,798 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-16T13:03:29.188Z",
+  "source": {
+    "apkg": "书籍原文/皆の日本語中級 1/__1_.apkg",
+    "sha256": "fdbe2b358c0f3b4b63bb808d892505d7808591d039bfd552eb8ca44f552d24e3",
+    "deck": "大家的日语 中级1 词汇::12",
+    "noteType": "大家的日语 词汇"
+  },
+  "lesson": {
+    "id": "lesson-12",
+    "number": 12,
+    "title": "ご迷惑をかけてすみませんでした"
+  },
+  "count": 78,
+  "items": [
+    {
+      "index": 1,
+      "noteId": "1688126948077",
+      "japanese": "ぐっすり［〜眠る］",
+      "reading": "［〜ねむる］",
+      "meaning": "睡得香甜状［酣睡、熟睡］",
+      "meaningSource": "睡得香甜状［酣睡、熟睡］",
+      "audio": "音频/001_ぐっすり［〜眠る］.mp3",
+      "sourceAudio": "hypertts-a9dd3d3f88838c22975fc705b4b2965cf83a4ca662cc76033d672779.mp3"
+    },
+    {
+      "index": 2,
+      "noteId": "1688126948076",
+      "japanese": "家事",
+      "reading": "かじ",
+      "meaning": "家务活",
+      "meaningSource": "家务活",
+      "audio": "音频/002_家事.mp3",
+      "sourceAudio": "hypertts-72cdcd8bbdb6b5ba64166276a7f9941f18dfad5b908f01f943735a7b.mp3"
+    },
+    {
+      "index": 3,
+      "noteId": "1688126948075",
+      "japanese": "温暖［な］",
+      "reading": "おんだん［な］",
+      "meaning": "温暖［的］",
+      "meaningSource": "温暖［的］",
+      "audio": "音频/003_温暖［な］.mp3",
+      "sourceAudio": "hypertts-d801959b1c1cd5cd6f832597f06b97de00153895b86048f2c42aaad6.mp3"
+    },
+    {
+      "index": 4,
+      "noteId": "1688126948122",
+      "japanese": "気がつきませんでした。",
+      "reading": "",
+      "meaning": "（抱歉）我没注意到。",
+      "meaningSource": "（抱歉）我没注意到。",
+      "audio": "音频/004_気がつきませんでした。.mp3",
+      "sourceAudio": "hypertts-e6c518f7236b61984fe5a95f18cf679dbdbd62f35a1945370dfeccb7.mp3"
+    },
+    {
+      "index": 5,
+      "noteId": "1688126948065",
+      "japanese": "夜中",
+      "reading": "よなか",
+      "meaning": "半夜",
+      "meaningSource": "半夜",
+      "audio": "音频/005_夜中.mp3",
+      "sourceAudio": "hypertts-9dc2615c78a4d731d86888e099dc528b69a65b53ffd8b34490469d9a.mp3"
+    },
+    {
+      "index": 6,
+      "noteId": "1688126948118",
+      "japanese": "発車ベル",
+      "reading": "はっしゃベル",
+      "meaning": "发车铃",
+      "meaningSource": "发车铃",
+      "audio": "音频/006_発車ベル.mp3",
+      "sourceAudio": "hypertts-eb59899a4bcd821e06ccc20b379d39a20c3c352e84543d147d3b179f.mp3"
+    },
+    {
+      "index": 7,
+      "noteId": "1688126948086",
+      "japanese": "どうしても",
+      "reading": "",
+      "meaning": "怎么也……",
+      "meaningSource": "怎么也……",
+      "audio": "音频/007_どうしても.mp3",
+      "sourceAudio": "hypertts-8547a87069027dac479b0ce55f775bf03a9d5dbd571afba65277e81e.mp3"
+    },
+    {
+      "index": 8,
+      "noteId": "1688126948057",
+      "japanese": "犯人",
+      "reading": "はんにん",
+      "meaning": "犯人",
+      "meaningSource": "犯人",
+      "audio": "音频/008_犯人.mp3",
+      "sourceAudio": "hypertts-375314ed2dba593c624dc105446dbf0d3d0d117b4667c0268c1f1cf8.mp3"
+    },
+    {
+      "index": 9,
+      "noteId": "1688126948082",
+      "japanese": "苦情",
+      "reading": "くじょう",
+      "meaning": "意见、抱怨、不满",
+      "meaningSource": "意见、抱怨、不满",
+      "audio": "音频/009_苦情.mp3",
+      "sourceAudio": "hypertts-6cfedc69d5213daad39a46eabc90ffad3580df26a378b7c0c633ac7d.mp3"
+    },
+    {
+      "index": 10,
+      "noteId": "1688126948068",
+      "japanese": "暮らす",
+      "reading": "くらす",
+      "meaning": "过日子、生活",
+      "meaningSource": "过日子、生活",
+      "audio": "音频/010_暮らす.mp3",
+      "sourceAudio": "hypertts-85b90915d181d756455a8f5aa6a0fefc7fc553ea2335621b12cb9ef2.mp3"
+    },
+    {
+      "index": 11,
+      "noteId": "1688126948107",
+      "japanese": "虫",
+      "reading": "むし",
+      "meaning": "虫",
+      "meaningSource": "虫",
+      "audio": "音频/011_虫.mp3",
+      "sourceAudio": "hypertts-7c7927590a120bc4494534e3cb8076963b04556c70aee95785c87558.mp3"
+    },
+    {
+      "index": 12,
+      "noteId": "1688126948083",
+      "japanese": "遅く",
+      "reading": "おそく",
+      "meaning": "晚、迟",
+      "meaningSource": "晚、迟",
+      "audio": "音频/012_遅く.mp3",
+      "sourceAudio": "hypertts-27ef63fcb076560a25afe3eff69e58a332de8f86b1e4b7f2de91241c.mp3"
+    },
+    {
+      "index": 13,
+      "noteId": "1688126948087",
+      "japanese": "自治会",
+      "reading": "じちかい",
+      "meaning": "自治会（街道办事处）",
+      "meaningSource": "自治会（街道办事处）",
+      "audio": "音频/013_自治会.mp3",
+      "sourceAudio": "hypertts-fdfbff7b24668259fa809092bcb5271b1b87ae053c852f1a9cbeaf89.mp3"
+    },
+    {
+      "index": 14,
+      "noteId": "1688126948060",
+      "japanese": "スープ",
+      "reading": "",
+      "meaning": "汤",
+      "meaningSource": "汤",
+      "audio": "音频/014_スープ.mp3",
+      "sourceAudio": "hypertts-efb6166e72b7eb17cb21d13c17a9f62579e9e993a2d70d0aa1a40d54.mp3"
+    },
+    {
+      "index": 15,
+      "noteId": "1688126948085",
+      "japanese": "あまり",
+      "reading": "",
+      "meaning": "过分、太……\n（〜遅い時間になると迷惑です。/太晚的话就添麻烦了。）",
+      "meaningSource": "过分、太……<br>（〜遅い時間になると迷惑です。/太晚的话就添麻烦了。）",
+      "audio": "音频/015_あまり.mp3",
+      "sourceAudio": "hypertts-693b49e1e514d6fa5546a4cc702747e61e821e962afa359f578de5dc.mp3"
+    },
+    {
+      "index": 16,
+      "noteId": "1688126948096",
+      "japanese": "分かれる",
+      "reading": "わかれる",
+      "meaning": "分歧\n［意見が〜］\n［いけんが〜］\n［意见分歧］",
+      "meaningSource": "分歧<br>［意見が〜］<br>［いけんが〜］<br>［意见分歧］",
+      "audio": "音频/016_分かれる.mp3",
+      "sourceAudio": "hypertts-25b5231e4077edfaaab371c54cb98ebf338f6b3eea3addf779a6a684.mp3"
+    },
+    {
+      "index": 17,
+      "noteId": "1688126948095",
+      "japanese": "アナウンス",
+      "reading": "",
+      "meaning": "播音、广播",
+      "meaningSource": "播音、广播",
+      "audio": "音频/017_アナウンス.mp3",
+      "sourceAudio": "hypertts-dd5ca620074e74105e47bcf4779db47ed2c0ac2b5f254c54ad208840.mp3"
+    },
+    {
+      "index": 18,
+      "noteId": "1688126948121",
+      "japanese": "コマーシャル",
+      "reading": "",
+      "meaning": "（电视、广播电台的）广告",
+      "meaningSource": "（电视、广播电台的）广告",
+      "audio": "音频/018_コマーシャル.mp3",
+      "sourceAudio": "hypertts-b20f08f1b1d5361793ac0d83de6ac59cead60bd232b108d186f419cb.mp3"
+    },
+    {
+      "index": 19,
+      "noteId": "1688126948074",
+      "japanese": "鳴る",
+      "reading": "なる",
+      "meaning": "响（時計が〜/钟表响）",
+      "meaningSource": "响（時計が〜/钟表响）",
+      "audio": "音频/019_鳴る.mp3",
+      "sourceAudio": "hypertts-b215e50e7d78592e9975b92d77a20ed7b6c876574c7f79fabb204297.mp3"
+    },
+    {
+      "index": 20,
+      "noteId": "1688126948088",
+      "japanese": "役員",
+      "reading": "やくいん",
+      "meaning": "负责人",
+      "meaningSource": "负责人",
+      "audio": "音频/020_役員.mp3",
+      "sourceAudio": "hypertts-b00438aad63cb6a3ec28382b462b5b35339bd6edfc719f852bfa7f2e.mp3"
+    },
+    {
+      "index": 21,
+      "noteId": "1688126948081",
+      "japanese": "乗り遅れる",
+      "reading": "のりおくれる",
+      "meaning": "赶不上（電車に〜/赶不上电车）",
+      "meaningSource": "赶不上（電車に〜/赶不上电车）",
+      "audio": "音频/021_乗り遅れる.mp3",
+      "sourceAudio": "hypertts-3165933736675dda158cb668be8d4f258b10b2c57f3fa408c3e3efad.mp3"
+    },
+    {
+      "index": 22,
+      "noteId": "1688126948054",
+      "japanese": "演奏会",
+      "reading": "えんそうかい",
+      "meaning": "演奏会",
+      "meaningSource": "演奏会",
+      "audio": "音频/022_演奏会.mp3",
+      "sourceAudio": "hypertts-ae845645a14f37c965c836da307b0ea2edf7c5619357fa2d64c19a7c.mp3"
+    },
+    {
+      "index": 23,
+      "noteId": "1688126948080",
+      "japanese": "風邪薬",
+      "reading": "かぜぐすり",
+      "meaning": "感冒药",
+      "meaningSource": "感冒药",
+      "audio": "音频/023_風邪薬.mp3",
+      "sourceAudio": "hypertts-32e6edab5c6814f33f5578d570725a204c30c8f99da7eb8858185ae3.mp3"
+    },
+    {
+      "index": 24,
+      "noteId": "1688126948066",
+      "japanese": "日",
+      "reading": "ひ",
+      "meaning": "太阳光、阳光",
+      "meaningSource": "太阳光、阳光",
+      "audio": "音频/024_日.mp3",
+      "sourceAudio": "hypertts-ebaf02c5c624e3abc9516c6ff69fa0200d491d77afc0bb9934c929bf.mp3"
+    },
+    {
+      "index": 25,
+      "noteId": "1688126948123",
+      "japanese": "どうしても……",
+      "reading": "",
+      "meaning": "无论如何……\n表示在充分讨论各种情况之后得出的判断，传达不可能、难以办到的心情。",
+      "meaningSource": "无论如何……<br>表示在充分讨论各种情况之后得出的判断，传达不可能、难以办到的心情。",
+      "audio": "音频/025_どうしても…….mp3",
+      "sourceAudio": "hypertts-1e9fc2635a7c13f4193d9977e7f8414c658c37aa2dc9e11dcddad055.mp3"
+    },
+    {
+      "index": 26,
+      "noteId": "1688126948055",
+      "japanese": "報告書",
+      "reading": "ほうこくしょ",
+      "meaning": "报告书",
+      "meaningSource": "报告书",
+      "audio": "音频/026_報告書.mp3",
+      "sourceAudio": "hypertts-746092b98c6d2e3179ae558270901fdc2fe504f3c8343e20aea6960f.mp3"
+    },
+    {
+      "index": 27,
+      "noteId": "1688126948056",
+      "japanese": "あくび",
+      "reading": "",
+      "meaning": "哈欠",
+      "meaningSource": "哈欠",
+      "audio": "音频/027_あくび.mp3",
+      "sourceAudio": "hypertts-5218b9104ea185deaa2138298698d1302e35fd820b0414acb7a2da05.mp3"
+    },
+    {
+      "index": 28,
+      "noteId": "1688126948058",
+      "japanese": "追いかける",
+      "reading": "おいかける",
+      "meaning": "追赶",
+      "meaningSource": "追赶",
+      "audio": "音频/028_追いかける.mp3",
+      "sourceAudio": "hypertts-a2831b832de2b0f4d65d3373ded9de01198ad57ab481920ba7b1a2f2.mp3"
+    },
+    {
+      "index": 29,
+      "noteId": "1688126948059",
+      "japanese": "作業",
+      "reading": "さぎょう",
+      "meaning": "工作、作业",
+      "meaningSource": "工作、作业",
+      "audio": "音频/029_作業.mp3",
+      "sourceAudio": "hypertts-512c76bc3f231e5c560dbf91af4d7ae516e8a6a81543e03f4c22c1c8.mp3"
+    },
+    {
+      "index": 30,
+      "noteId": "1688126948061",
+      "japanese": "こばす",
+      "reading": "",
+      "meaning": "撒、洒落、洒",
+      "meaningSource": "撒、洒落、洒",
+      "audio": "音频/030_こばす.mp3",
+      "sourceAudio": "hypertts-d601f726b8185a31bbc525f102ed8dd3319f2272ab0026ab4a17c7f5.mp3"
+    },
+    {
+      "index": 31,
+      "noteId": "1688126948062",
+      "japanese": "シャッター",
+      "reading": "",
+      "meaning": "金属卷帘门",
+      "meaningSource": "金属卷帘门",
+      "audio": "音频/031_シャッター.mp3",
+      "sourceAudio": "hypertts-8f0a6353b2aaab01f987bfb28018bec24b7c3f87b78da6bdb5baeaa4.mp3"
+    },
+    {
+      "index": 32,
+      "noteId": "1688126948063",
+      "japanese": "スプレー",
+      "reading": "",
+      "meaning": "颜料等的喷雾器",
+      "meaningSource": "颜料等的喷雾器",
+      "audio": "音频/032_スプレー.mp3",
+      "sourceAudio": "hypertts-94dedfc361e96cbaf34493e38500cb4ec3660f53f7a80d2fceb48b0e.mp3"
+    },
+    {
+      "index": 33,
+      "noteId": "1688126948064",
+      "japanese": "落書きする",
+      "reading": "らくがきする",
+      "meaning": "乱涂乱画、涂鸦",
+      "meaningSource": "乱涂乱画、涂鸦",
+      "audio": "音频/033_落書きする.mp3",
+      "sourceAudio": "hypertts-9c08add347c3b6122bdf6d3eecef494e50bc910239fdb6498a890bb1.mp3"
+    },
+    {
+      "index": 34,
+      "noteId": "1688126948067",
+      "japanese": "当たる［日が〜］",
+      "reading": "あたる［ひが〜］",
+      "meaning": "照［照到太阳］",
+      "meaningSource": "照［照到太阳］",
+      "audio": "音频/034_当たる［日が〜］.mp3",
+      "sourceAudio": "hypertts-8ae2a5386df6d552bdf0229aa4568af31e271244a67b20145e549817.mp3"
+    },
+    {
+      "index": 35,
+      "noteId": "1688126948069",
+      "japanese": "書道",
+      "reading": "しょどう",
+      "meaning": "书法",
+      "meaningSource": "书法",
+      "audio": "音频/035_書道.mp3",
+      "sourceAudio": "hypertts-1f9c05e1643bb360bedd96822d2c7e46b2ec5ae74537568b44fddd38.mp3"
+    },
+    {
+      "index": 36,
+      "noteId": "1688126948070",
+      "japanese": "蛍光灯",
+      "reading": "けいこうとう",
+      "meaning": "日光灯",
+      "meaningSource": "日光灯",
+      "audio": "音频/036_蛍光灯.mp3",
+      "sourceAudio": "hypertts-2d1b8a1785c79761b072ed5db2e5e854d2b0863335bd5a2c4fc017f6.mp3"
+    },
+    {
+      "index": 37,
+      "noteId": "1688126948071",
+      "japanese": "メニュー",
+      "reading": "",
+      "meaning": "菜单",
+      "meaningSource": "菜单",
+      "audio": "音频/037_メニュー.mp3",
+      "sourceAudio": "hypertts-c27432a74e24b78b493333c4e60967d85be0bb251d5c0da81f4c599f.mp3"
+    },
+    {
+      "index": 38,
+      "noteId": "1688126948072",
+      "japanese": "バイク",
+      "reading": "",
+      "meaning": "摩托车",
+      "meaningSource": "摩托车",
+      "audio": "音频/038_バイク.mp3",
+      "sourceAudio": "hypertts-547e3b7b105087089c943f5860025e2195238b50400f22ef3b669bf7.mp3"
+    },
+    {
+      "index": 39,
+      "noteId": "1688126948073",
+      "japanese": "目覚まし時計",
+      "reading": "めざましどけい",
+      "meaning": "闹钟",
+      "meaningSource": "闹钟",
+      "audio": "音频/039_目覚まし時計.mp3",
+      "sourceAudio": "hypertts-0de9750e8cbe341d93527bc5722ff5450b5f41d48d812f0bed2dab2d.mp3"
+    },
+    {
+      "index": 40,
+      "noteId": "1688126948078",
+      "japanese": "迷惑",
+      "reading": "めいわく",
+      "meaning": "麻烦、烦忧、打扰",
+      "meaningSource": "麻烦、烦忧、打扰",
+      "audio": "音频/040_迷惑.mp3",
+      "sourceAudio": "hypertts-3376ad7a5ed80dc8de3d13cacd50cf3d40bf97ffce66c75b33d55d3e.mp3"
+    },
+    {
+      "index": 41,
+      "noteId": "1688126948079",
+      "japanese": "かける［迷惑を〜］",
+      "reading": "［めいわくを〜］",
+      "meaning": "添加［添麻烦］",
+      "meaningSource": "添加［添麻烦］",
+      "audio": "音频/041_かける［迷惑を〜］.mp3",
+      "sourceAudio": "hypertts-a2e2a38920904c345eb9e731b97624fcb17b6aa1da277ef0fa268c20.mp3"
+    },
+    {
+      "index": 42,
+      "noteId": "1688126948084",
+      "japanese": "［お］帰り",
+      "reading": "［お］かえり",
+      "meaning": "回家、回来（的时间）",
+      "meaningSource": "回家、回来（的时间）",
+      "audio": "音频/042_［お］帰り.mp3",
+      "sourceAudio": "hypertts-1b4d22f6c824fba345bc85a049d1caf0a0bcdb8a1cb64a0db9b561b4.mp3"
+    },
+    {
+      "index": 43,
+      "noteId": "1688126948089",
+      "japanese": "DVD",
+      "reading": "ディーブイディー",
+      "meaning": "DVD",
+      "meaningSource": "DVD",
+      "audio": "音频/043_DVD.mp3",
+      "sourceAudio": "hypertts-b31ccf79aaede4b64bfb7c9969fac76f92bbd4bb7fc03d99add96e00.mp3"
+    },
+    {
+      "index": 44,
+      "noteId": "1688126948090",
+      "japanese": "座談会",
+      "reading": "ざだんかい",
+      "meaning": "座谈会",
+      "meaningSource": "座谈会",
+      "audio": "音频/044_座談会.mp3",
+      "sourceAudio": "hypertts-c2582632e44fb61fb834678fde6995a00e95221fe6676afd93cd2071.mp3"
+    },
+    {
+      "index": 45,
+      "noteId": "1688126948091",
+      "japanese": "カルチャーショック",
+      "reading": "",
+      "meaning": "文化冲击",
+      "meaningSource": "文化冲击",
+      "audio": "音频/045_カルチャーショック.mp3",
+      "sourceAudio": "hypertts-a6f5abb41f24f5bc0b2c2ade86bca28d83cd5afa9807633366894f07.mp3"
+    },
+    {
+      "index": 46,
+      "noteId": "1688126948092",
+      "japanese": "受ける",
+      "reading": "うける",
+      "meaning": "受、受到\n［ショックを〜］\n［受到冲击］",
+      "meaningSource": "受、受到<br>［ショックを〜］<br>［受到冲击］",
+      "audio": "音频/046_受ける.mp3",
+      "sourceAudio": "hypertts-903a543aef0d081789813b036cce1dc751aa21fdfdc10e32818eb980.mp3"
+    },
+    {
+      "index": 47,
+      "noteId": "1688126948093",
+      "japanese": "それまで",
+      "reading": "",
+      "meaning": "直到那时",
+      "meaningSource": "直到那时",
+      "audio": "音频/047_それまで.mp3",
+      "sourceAudio": "hypertts-1f875ae36ecfba6af9405db5348405e9d4739d808bfe7b4f6d8bcdf0.mp3"
+    },
+    {
+      "index": 48,
+      "noteId": "1688126948094",
+      "japanese": "騒々しい",
+      "reading": "そうぞうしい",
+      "meaning": "嘈杂、吵闹",
+      "meaningSource": "嘈杂、吵闹",
+      "audio": "音频/048_騒々しい.mp3",
+      "sourceAudio": "hypertts-6df5d066362521b56d3e8a32009193ac9cfa2d97359b7227fbf19aee.mp3"
+    },
+    {
+      "index": 49,
+      "noteId": "1688126948097",
+      "japanese": "奥様",
+      "reading": "おくさま",
+      "meaning": "夫人",
+      "meaningSource": "夫人",
+      "audio": "音频/049_奥様.mp3",
+      "sourceAudio": "hypertts-71be7ac27984dc012d023d222de114f4e97ce1b80ff44f7915b6c569.mp3"
+    },
+    {
+      "index": 50,
+      "noteId": "1688126948098",
+      "japanese": "おいでいただく",
+      "reading": "",
+      "meaning": "光临",
+      "meaningSource": "光临",
+      "audio": "音频/050_おいでいただく.mp3",
+      "sourceAudio": "hypertts-0111ddd81706dc1a030ea55a58de90331fa801ec726558f58a3f1388.mp3"
+    },
+    {
+      "index": 51,
+      "noteId": "1688126948099",
+      "japanese": "苦労",
+      "reading": "くろう",
+      "meaning": "辛苦",
+      "meaningSource": "辛苦",
+      "audio": "音频/051_苦労.mp3",
+      "sourceAudio": "hypertts-58c62895eb4cba90380fe6b714041cb40f8f0bee621fcefb5bfe70c7.mp3"
+    },
+    {
+      "index": 52,
+      "noteId": "1688126948100",
+      "japanese": "中略",
+      "reading": "ちゅうりゃく",
+      "meaning": "中间省略",
+      "meaningSource": "中间省略",
+      "audio": "音频/052_中略.mp3",
+      "sourceAudio": "hypertts-dbe621e202a3ba48aed019428bba7ac03a31fa4b26cfe70e60b5f3b8.mp3"
+    },
+    {
+      "index": 53,
+      "noteId": "1688126948101",
+      "japanese": "おかしな",
+      "reading": "",
+      "meaning": "奇怪、滑稽、可笑",
+      "meaningSource": "奇怪、滑稽、可笑",
+      "audio": "音频/053_おかしな.mp3",
+      "sourceAudio": "hypertts-7f182092e51e128c764f7365b7e418278f067768a81dd5900708a336.mp3"
+    },
+    {
+      "index": 54,
+      "noteId": "1688126948102",
+      "japanese": "サンダル",
+      "reading": "",
+      "meaning": "凉鞋",
+      "meaningSource": "凉鞋",
+      "audio": "音频/054_サンダル.mp3",
+      "sourceAudio": "hypertts-fdf7eff187bf14660fe0f2a94f5e09be4d6d37a6fe58ff0b85364a9c.mp3"
+    },
+    {
+      "index": 55,
+      "noteId": "1688126948103",
+      "japanese": "ビービー",
+      "reading": "",
+      "meaning": "水烧开时水壶的哨音",
+      "meaningSource": "水烧开时水壶的哨音",
+      "audio": "音频/055_ビービー.mp3",
+      "sourceAudio": "hypertts-4e8658cbbcf64641691ee48be15edd22f1562c539d81f32980d6918f.mp3"
+    },
+    {
+      "index": 56,
+      "noteId": "1688126948104",
+      "japanese": "たまらない",
+      "reading": "",
+      "meaning": "〜得不得了（以「て〜」的形式来使用）",
+      "meaningSource": "〜得不得了（以「て〜」的形式来使用）",
+      "audio": "音频/056_たまらない.mp3",
+      "sourceAudio": "hypertts-4af4760be4cfbe7a95213f451126f56de9e3422afae67b0591b1d45c.mp3"
+    },
+    {
+      "index": 57,
+      "noteId": "1688126948105",
+      "japanese": "都会",
+      "reading": "とかい",
+      "meaning": "都市",
+      "meaningSource": "都市",
+      "audio": "音频/057_都会.mp3",
+      "sourceAudio": "hypertts-ab009ca0b0b5aa14487e19258fecc045d4f572fb1e89094a56cd734d.mp3"
+    },
+    {
+      "index": 58,
+      "noteId": "1688126948106",
+      "japanese": "住宅地",
+      "reading": "じゅうたくち",
+      "meaning": "住宅区",
+      "meaningSource": "住宅区",
+      "audio": "音频/058_住宅地.mp3",
+      "sourceAudio": "hypertts-0eda8a286479ef25b484e132d15863c45b680a00ef868878785319d8.mp3"
+    },
+    {
+      "index": 59,
+      "noteId": "1688126948108",
+      "japanese": "虫の音",
+      "reading": "むしのね",
+      "meaning": "虫鸣声",
+      "meaningSource": "虫鸣声",
+      "audio": "音频/059_虫の音.mp3",
+      "sourceAudio": "hypertts-1197e03cb74c380c8f600bc5dea8e516ab5e6616b1f6e5c09c37554b.mp3"
+    },
+    {
+      "index": 60,
+      "noteId": "1688126948109",
+      "japanese": "車内",
+      "reading": "しゃない",
+      "meaning": "电车里",
+      "meaningSource": "电车里",
+      "audio": "音频/060_車内.mp3",
+      "sourceAudio": "hypertts-9b2b5b2de692fb15ba4925f0ed85e959a61e538e1ee02a0645189a44.mp3"
+    },
+    {
+      "index": 61,
+      "noteId": "1688126948110",
+      "japanese": "ホーム",
+      "reading": "",
+      "meaning": "站台（駅の〜/车站的站台）",
+      "meaningSource": "站台（駅の〜/车站的站台）",
+      "audio": "音频/061_ホーム.mp3",
+      "sourceAudio": "hypertts-a1fa4fe3d33d614ceb458db7b98bc621b3c8f31f8c3249efafe1327e.mp3"
+    },
+    {
+      "index": 62,
+      "noteId": "1688126948111",
+      "japanese": "加える",
+      "reading": "くわえる",
+      "meaning": "附加、追加",
+      "meaningSource": "附加、追加",
+      "audio": "音频/062_加える.mp3",
+      "sourceAudio": "hypertts-24c652c5ba3d1d568a43deae911dded5a18d2dca63c8277d34ff1b88.mp3"
+    },
+    {
+      "index": 63,
+      "noteId": "1688126948112",
+      "japanese": "さっぱり［〜ない］",
+      "reading": "",
+      "meaning": "一点、完全、丝毫［不〜］（跟否定句一起相呼应使用）",
+      "meaningSource": "一点、完全、丝毫［不〜］（跟否定句一起相呼应使用）",
+      "audio": "音频/063_さっぱり［〜ない］.mp3",
+      "sourceAudio": "hypertts-69603db035c5c91ae94fe4af136e47455a1385250c2ee4afcfbb8ab6.mp3"
+    },
+    {
+      "index": 64,
+      "noteId": "1688126948113",
+      "japanese": "乗客",
+      "reading": "じょうきゃく",
+      "meaning": "乘客、旅客",
+      "meaningSource": "乘客、旅客",
+      "audio": "音频/064_乗客.mp3",
+      "sourceAudio": "hypertts-a3bca4282f0933d5598276fcf8082b769acde2b6edeb9f8322898aaf.mp3"
+    },
+    {
+      "index": 65,
+      "noteId": "1688126948114",
+      "japanese": "安全性",
+      "reading": "あんぜんせい",
+      "meaning": "安全性",
+      "meaningSource": "安全性",
+      "audio": "音频/065_安全性.mp3",
+      "sourceAudio": "hypertts-58564e982d1043e66df914c6126979c18a42e41bffd1557f5b8ec5c7.mp3"
+    },
+    {
+      "index": 66,
+      "noteId": "1688126948115",
+      "japanese": "配慮する",
+      "reading": "はいりょする",
+      "meaning": "考虑（安全性に〜/从安全上考虑）",
+      "meaningSource": "考虑（安全性に〜/从安全上考虑）",
+      "audio": "音频/066_配慮する.mp3",
+      "sourceAudio": "hypertts-ce32a839439f4df55652e283dbf3031a12ac282d484f2aca0570c9c6.mp3"
+    },
+    {
+      "index": 67,
+      "noteId": "1688126948116",
+      "japanese": "含む",
+      "reading": "ふくむ",
+      "meaning": "包含、包括",
+      "meaningSource": "包含、包括",
+      "audio": "音频/067_含む.mp3",
+      "sourceAudio": "hypertts-fdfc405f34089cbca8e02b34b8b78af8d93fd46bb889506925579e00.mp3"
+    },
+    {
+      "index": 68,
+      "noteId": "1688126948117",
+      "japanese": "チャイム",
+      "reading": "",
+      "meaning": "音乐铃声",
+      "meaningSource": "音乐铃声",
+      "audio": "音频/068_チャイム.mp3",
+      "sourceAudio": "hypertts-eb41d79761c079c57433836e2d9143d03f576bf426ad7218d0f5dd1e.mp3"
+    },
+    {
+      "index": 69,
+      "noteId": "1688126948119",
+      "japanese": "必ずしも［〜ない］",
+      "reading": "かならずしも［〜ない］",
+      "meaning": "未必、不一定（跟否定句一起相呼应使用）",
+      "meaningSource": "未必、不一定（跟否定句一起相呼应使用）",
+      "audio": "音频/069_必ずしも［〜ない］.mp3",
+      "sourceAudio": "hypertts-efd526a64a26fae93ceca5e95f306a9fbdf4d461d1d50deb5de92cae.mp3"
+    },
+    {
+      "index": 70,
+      "noteId": "1688126948120",
+      "japanese": "近所づきあい",
+      "reading": "きんじょづきあい",
+      "meaning": "邻居相处、邻里关系",
+      "meaningSource": "邻居相处、邻里关系",
+      "audio": "音频/070_近所づきあい.mp3",
+      "sourceAudio": "hypertts-bbf5a469f6931e30434dcf687cf6927f433a365391c0bc24d579bdae.mp3"
+    },
+    {
+      "index": 71,
+      "noteId": "1688126948124",
+      "japanese": "それはわかりますけど、……",
+      "reading": "",
+      "meaning": "这点我了解（清楚），可……\n表示理解对方的处境，但仍然感到难办。",
+      "meaningSource": "这点我了解（清楚），可……<br>表示理解对方的处境，但仍然感到难办。",
+      "audio": "音频/071_それはわかりますけど、…….mp3",
+      "sourceAudio": "hypertts-e8999c77ac424434ce6d0a00da9991c28baf1899e12a4f79f48f9beb.mp3"
+    },
+    {
+      "index": 72,
+      "noteId": "1688126948125",
+      "japanese": "どちらかと言えば……",
+      "reading": "",
+      "meaning": "让我来比较的话……",
+      "meaningSource": "让我来比较的话……",
+      "audio": "音频/072_どちらかと言えば…….mp3",
+      "sourceAudio": "hypertts-3294745bc8c92d102d57fba2ef3bdc718f34024bf0e5177a4f9e9de5.mp3"
+    },
+    {
+      "index": 73,
+      "noteId": "1688126948126",
+      "japanese": "いい勉強になる",
+      "reading": "",
+      "meaning": "学到不少、受益匪浅",
+      "meaningSource": "学到不少、受益匪浅",
+      "audio": "音频/073_いい勉強になる.mp3",
+      "sourceAudio": "hypertts-e3bbfbcf13fd52985c189e4772fa7dcb44c0328a9487189defbbe2e2.mp3"
+    },
+    {
+      "index": 74,
+      "noteId": "1688126948127",
+      "japanese": "ハンガリー",
+      "reading": "",
+      "meaning": "匈牙利",
+      "meaningSource": "匈牙利",
+      "audio": "音频/074_ハンガリー.mp3",
+      "sourceAudio": "hypertts-cb74aa45b3151e3dbdfd40a02dd6f66d92871ae0d93c9d20adaced18.mp3"
+    },
+    {
+      "index": 75,
+      "noteId": "1688126948128",
+      "japanese": "ブダペスト",
+      "reading": "",
+      "meaning": "布达佩斯",
+      "meaningSource": "布达佩斯",
+      "audio": "音频/075_ブダペスト.mp3",
+      "sourceAudio": "hypertts-c7bb5c3e9b231a755a5783ab53e6551c78b7dc6118f8f4e3658c5b47.mp3"
+    },
+    {
+      "index": 76,
+      "noteId": "1688126948129",
+      "japanese": "パンコク",
+      "reading": "",
+      "meaning": "曼谷",
+      "meaningSource": "曼谷",
+      "audio": "音频/076_パンコク.mp3",
+      "sourceAudio": "hypertts-5e4d9701b92d2d97d16a0704bbda43f9c7f9b42c5a43532ec63d2a5c.mp3"
+    },
+    {
+      "index": 77,
+      "noteId": "1688126948130",
+      "japanese": "宇都宮",
+      "reading": "うつのみや",
+      "meaning": "宇都宫：位于日本的中部栃木县。是栃木县政厅所在地。",
+      "meaningSource": "宇都宫：位于日本的中部栃木县。是栃木县政厅所在地。",
+      "audio": "音频/077_宇都宮.mp3",
+      "sourceAudio": "hypertts-f9cac237f0438e7ec942b632c71fdc4cef2c646ba79ee2c3b373a232.mp3"
+    },
+    {
+      "index": 78,
+      "noteId": "1688126948131",
+      "japanese": "浦安",
+      "reading": "うらやす",
+      "meaning": "浦安：在千叶县西北部，面临东京湾，是东京的卫星城市。东京迪斯尼乐园在此。",
+      "meaningSource": "浦安：在千叶县西北部，面临东京湾，是东京的卫星城市。东京迪斯尼乐园在此。",
+      "audio": "音频/078_浦安.mp3",
+      "sourceAudio": "hypertts-f66fe6405aaa603c8671e058c5caaf2c1baf86a1c7cd38fc3154b9d8.mp3"
+    }
+  ]
+}

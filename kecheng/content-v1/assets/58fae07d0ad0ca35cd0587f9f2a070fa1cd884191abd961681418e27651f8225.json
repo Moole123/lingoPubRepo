@@ -1,0 +1,718 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-16T13:03:28.075Z",
+  "source": {
+    "apkg": "书籍原文/皆の日本語中級 1/__1_.apkg",
+    "sha256": "fdbe2b358c0f3b4b63bb808d892505d7808591d039bfd552eb8ca44f552d24e3",
+    "deck": "大家的日语 中级1 词汇::05",
+    "noteType": "大家的日语 词汇"
+  },
+  "lesson": {
+    "id": "lesson-05",
+    "number": 5,
+    "title": "どう行ったらいいでしょうか"
+  },
+  "count": 70,
+  "items": [
+    {
+      "index": 1,
+      "noteId": "1685067495363",
+      "japanese": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "教材、教科书",
+      "meaningSource": "教材、教科书",
+      "audio": "音频/001_教科書.mp3",
+      "sourceAudio": "hypertts-9c831891121e13c53ffcf12de80959609de3d3429b0c695faf56f792.mp3"
+    },
+    {
+      "index": 2,
+      "noteId": "1685067495364",
+      "japanese": "居酒屋",
+      "reading": "いざかや",
+      "meaning": "小酒馆",
+      "meaningSource": "小酒馆",
+      "audio": "音频/002_居酒屋.mp3",
+      "sourceAudio": "hypertts-3e2f7bc9bec501ade5a431034245a74c01b3f7201017137419264e22.mp3"
+    },
+    {
+      "index": 3,
+      "noteId": "1685067495365",
+      "japanese": "やきとり",
+      "reading": "",
+      "meaning": "烤鸡串、串烧",
+      "meaningSource": "烤鸡串、串烧",
+      "audio": "音频/003_やきとり.mp3",
+      "sourceAudio": "hypertts-a16ee4c22621d80a6011ee6f245198d663a3dfdde5af91f5ae15a41b.mp3"
+    },
+    {
+      "index": 4,
+      "noteId": "1685067495366",
+      "japanese": "画面",
+      "reading": "がめん",
+      "meaning": "画面",
+      "meaningSource": "画面",
+      "audio": "音频/004_画面.mp3",
+      "sourceAudio": "hypertts-8a828b7dd1debecbfd4d2706467d69f6b6c2aa001ccdbb08f544dd5d.mp3"
+    },
+    {
+      "index": 5,
+      "noteId": "1685067495373",
+      "japanese": "俳優",
+      "reading": "はいゆう",
+      "meaning": "演员",
+      "meaningSource": "演员",
+      "audio": "音频/005_俳優.mp3",
+      "sourceAudio": "hypertts-c4c030a21bdce7c5c5597f14c296be68147a1bb26707c46827075a29.mp3"
+    },
+    {
+      "index": 6,
+      "noteId": "1685067495374",
+      "japanese": "そっくり",
+      "reading": "",
+      "meaning": "像、一个样\n（A は B に～だ/A 像 B）\n（A と B は～だ/A 和 B 一个样）",
+      "meaningSource": "像、一个样<br>（A は B に～だ/A 像 B）<br>（A と B は～だ/A 和 B 一个样）",
+      "audio": "音频/006_そっくり.mp3",
+      "sourceAudio": "hypertts-ea0230f6474a50290ba9ed4eec66c2fc0bdb33a8d3073395ebf2b413.mp3"
+    },
+    {
+      "index": 7,
+      "noteId": "1685067495375",
+      "japanese": "コンビニ",
+      "reading": "",
+      "meaning": "便利店",
+      "meaningSource": "便利店",
+      "audio": "音频/007_コンビニ.mp3",
+      "sourceAudio": "hypertts-80dfb942d71b01caafd06103e7b63d412be919d5e6f0c1b64362a304.mp3"
+    },
+    {
+      "index": 8,
+      "noteId": "1685067495376",
+      "japanese": "改札［～口］",
+      "reading": "かいさつ［～ぐち］",
+      "meaning": "检票［检票口］",
+      "meaningSource": "检票［检票口］",
+      "audio": "音频/008_改札［～口］.mp3",
+      "sourceAudio": "hypertts-3e5f6ddde57466773528945331012a7ac81ef3737d6bccb084aec263.mp3"
+    },
+    {
+      "index": 9,
+      "noteId": "1685067495377",
+      "japanese": "運転手",
+      "reading": "うんてんしゅ",
+      "meaning": "司机",
+      "meaningSource": "司机",
+      "audio": "音频/009_運転手.mp3",
+      "sourceAudio": "hypertts-140e252b3fd4234eccf79dba377bd6ae3a0db23ae97a0bf8546a5fd5.mp3"
+    },
+    {
+      "index": 10,
+      "noteId": "1685067495378",
+      "japanese": "かかってくる",
+      "reading": "",
+      "meaning": "打来\n［電話が～］\n［でんわが～］\n［打来电话］",
+      "meaningSource": "打来<br>［電話が～］<br>［でんわが～］<br>［打来电话］",
+      "audio": "音频/010_かかってくる.mp3",
+      "sourceAudio": "hypertts-202f7feae076d2f261625749070fcff97bbad6405cfd38846cad3881.mp3"
+    },
+    {
+      "index": 11,
+      "noteId": "1685067495379",
+      "japanese": "切れる［電話が～］",
+      "reading": "きれる［でんわが～］",
+      "meaning": "断、断掉［电话断了］",
+      "meaningSource": "断、断掉［电话断了］",
+      "audio": "音频/011_切れる［電話が～］.mp3",
+      "sourceAudio": "hypertts-c142017ede6ef5e26a9fd276dd002c9b05748e3de8dafc1dedc0ca59.mp3"
+    },
+    {
+      "index": 12,
+      "noteId": "1685067495380",
+      "japanese": "挙げる［例を～］",
+      "reading": "あげる［れいを～］",
+      "meaning": "举、列举［举例］",
+      "meaningSource": "举、列举［举例］",
+      "audio": "音频/012_挙げる［例を～］.mp3",
+      "sourceAudio": "hypertts-dde936b01eb57ca4ae4fc8b09bdb095ec892b98c24662574bac1e1ee.mp3"
+    },
+    {
+      "index": 13,
+      "noteId": "1685067495381",
+      "japanese": "未来",
+      "reading": "みらい",
+      "meaning": "未来",
+      "meaningSource": "未来",
+      "audio": "音频/013_未来.mp3",
+      "sourceAudio": "hypertts-2aae6f7fb64fc7bf9b3af458bea36717a86d4dbd92bfad190706c5f9.mp3"
+    },
+    {
+      "index": 14,
+      "noteId": "1685067495382",
+      "japanese": "なくす［戦争を～］",
+      "reading": "［せんそうを～］",
+      "meaning": "消灭、消除［消除战争］",
+      "meaningSource": "消灭、消除［消除战争］",
+      "audio": "音频/014_なくす［戦争を～］.mp3",
+      "sourceAudio": "hypertts-c301f26d1d616892d6efa26210c973ac00325fc416c3233285bf0f62.mp3"
+    },
+    {
+      "index": 15,
+      "noteId": "1685067495383",
+      "japanese": "不思議［な］",
+      "reading": "ふしぎ［な］",
+      "meaning": "奇怪［的］",
+      "meaningSource": "奇怪［的］",
+      "audio": "音频/015_不思議［な］.mp3",
+      "sourceAudio": "hypertts-7a8dd7e0d26ec500e5d726102a30b2e8e4ae257015f8cb65ec1b7fd2.mp3"
+    },
+    {
+      "index": 16,
+      "noteId": "1685067495384",
+      "japanese": "増やす",
+      "reading": "ふやす",
+      "meaning": "增加",
+      "meaningSource": "增加",
+      "audio": "音频/016_増やす.mp3",
+      "sourceAudio": "hypertts-3f6fbe4e18948b52b09dcac005b6715c51cb3d759ed558656c31ca1c.mp3"
+    },
+    {
+      "index": 17,
+      "noteId": "1685067495385",
+      "japanese": "今ごろ",
+      "reading": "いまごろ",
+      "meaning": "现在、目前",
+      "meaningSource": "现在、目前",
+      "audio": "音频/017_今ごろ.mp3",
+      "sourceAudio": "hypertts-32f281482a3a6a54976c1513e547fbec809ad4bd929cf223be9cf410.mp3"
+    },
+    {
+      "index": 18,
+      "noteId": "1685067495386",
+      "japanese": "観光客",
+      "reading": "かんこうきゃく",
+      "meaning": "游客、观光客",
+      "meaningSource": "游客、观光客",
+      "audio": "音频/018_観光客.mp3",
+      "sourceAudio": "hypertts-36baee4598115e6b0b66bc75dea086f78babbb92de49cabd34b490ce.mp3"
+    },
+    {
+      "index": 19,
+      "noteId": "1685067495387",
+      "japanese": "沿う［川に～］",
+      "reading": "そう［かわに～］",
+      "meaning": "沿着［沿河］",
+      "meaningSource": "沿着［沿河］",
+      "audio": "音频/019_沿う［川に～］.mp3",
+      "sourceAudio": "hypertts-0e82f28690d171f208d5cfd85b1e4876b8ca03df5ad596f58100c343.mp3"
+    },
+    {
+      "index": 20,
+      "noteId": "1685067495388",
+      "japanese": "大通り",
+      "reading": "おおどおり",
+      "meaning": "大道、大路",
+      "meaningSource": "大道、大路",
+      "audio": "音频/020_大通り.mp3",
+      "sourceAudio": "hypertts-7a5c65872d95c4db23ea2b1b0d1ec9511954240593899a825c78802c.mp3"
+    },
+    {
+      "index": 21,
+      "noteId": "1685067495389",
+      "japanese": "出る［大通りに～］",
+      "reading": "でる［おおどおりに～］",
+      "meaning": "来到、出来［来到大路上］",
+      "meaningSource": "来到、出来［来到大路上］",
+      "audio": "音频/021_出る［大通りに～］.mp3",
+      "sourceAudio": "hypertts-0573d396bd76b69c6e7c4340da58065962df659edf99ad0c53671e5c.mp3"
+    },
+    {
+      "index": 22,
+      "noteId": "1685067495390",
+      "japanese": "横断歩道",
+      "reading": "おうだんほどう",
+      "meaning": "人行横道",
+      "meaningSource": "人行横道",
+      "audio": "音频/022_横断歩道.mp3",
+      "sourceAudio": "hypertts-1904021d8b514f29fef4b9b53cace0135aace7fbf0bd2c4760aca8a5.mp3"
+    },
+    {
+      "index": 23,
+      "noteId": "1685067495391",
+      "japanese": "突き当たり",
+      "reading": "つきあたり",
+      "meaning": "（道路的）尽头",
+      "meaningSource": "（道路的）尽头",
+      "audio": "音频/023_突き当たり.mp3",
+      "sourceAudio": "hypertts-6f7f7cdb079a6965658758d31f1f1a0649eb166d3210880de4b692b3.mp3"
+    },
+    {
+      "index": 24,
+      "noteId": "1685067495392",
+      "japanese": "線路",
+      "reading": "せんろ",
+      "meaning": "铁路",
+      "meaningSource": "铁路",
+      "audio": "音频/024_線路.mp3",
+      "sourceAudio": "hypertts-87966562c77bd0694abc4bb578331b04afdc9e2cbbecb0487e5b676b.mp3"
+    },
+    {
+      "index": 25,
+      "noteId": "1685067495393",
+      "japanese": "向こう側",
+      "reading": "むこうがわ",
+      "meaning": "对面（線路の～/铁路对面）",
+      "meaningSource": "对面（線路の～/铁路对面）",
+      "audio": "音频/025_向こう側.mp3",
+      "sourceAudio": "hypertts-b969abb97cf2778963aa57ffbf7e82c2db74309b30da52f8a61d9f4b.mp3"
+    },
+    {
+      "index": 26,
+      "noteId": "1685067495394",
+      "japanese": "踏切",
+      "reading": "ふみきり",
+      "meaning": "铁路道口",
+      "meaningSource": "铁路道口",
+      "audio": "音频/026_踏切.mp3",
+      "sourceAudio": "hypertts-20c106b495437d35236000211fe44c7633aa30d475ab15377aa0656c.mp3"
+    },
+    {
+      "index": 27,
+      "noteId": "1685067495395",
+      "japanese": "分かれる",
+      "reading": "わかれる",
+      "meaning": "分开\n［道が～］\n［みちが～］\n［路分开］",
+      "meaningSource": "分开<br>［道が～］<br>［みちが～］<br>［路分开］",
+      "audio": "音频/027_分かれる.mp3",
+      "sourceAudio": "hypertts-25b5231e4077edfaaab371c54cb98ebf338f6b3eea3addf779a6a684.mp3"
+    },
+    {
+      "index": 28,
+      "noteId": "1685067495396",
+      "japanese": "芸術",
+      "reading": "げいじゅつ",
+      "meaning": "艺术",
+      "meaningSource": "艺术",
+      "audio": "音频/028_芸術.mp3",
+      "sourceAudio": "hypertts-9137726b0d595ddc4d4fd0a57b5c3ef02e1d40038fe94372533f1614.mp3"
+    },
+    {
+      "index": 29,
+      "noteId": "1685067495397",
+      "japanese": "道順",
+      "reading": "みちじゅん",
+      "meaning": "路线",
+      "meaningSource": "路线",
+      "audio": "音频/029_道順.mp3",
+      "sourceAudio": "hypertts-88973e21801c5d98201590f6f1975f6b1dcfc5688c3189e220fd2065.mp3"
+    },
+    {
+      "index": 30,
+      "noteId": "1685067495398",
+      "japanese": "通行人",
+      "reading": "つうこうにん",
+      "meaning": "过路人",
+      "meaningSource": "过路人",
+      "audio": "音频/030_通行人.mp3",
+      "sourceAudio": "hypertts-fa53a17ec00c2a09d79583ef3809b1bed5d6bf9a4cd85ac52a8f9123.mp3"
+    },
+    {
+      "index": 31,
+      "noteId": "1685067495399",
+      "japanese": "通り",
+      "reading": "とおり",
+      "meaning": "街道",
+      "meaningSource": "街道",
+      "audio": "音频/031_通り.mp3",
+      "sourceAudio": "hypertts-625e620518b580981e4820411d3e8694a0858f3b332c330433df38f6.mp3"
+    },
+    {
+      "index": 32,
+      "noteId": "1685067495400",
+      "japanese": "川沿い",
+      "reading": "かわぞい",
+      "meaning": "沿河",
+      "meaningSource": "沿河",
+      "audio": "音频/032_川沿い.mp3",
+      "sourceAudio": "hypertts-4a0af3ccb96833660a8701a6cf032176651faafb722cbd635eea2ac9.mp3"
+    },
+    {
+      "index": 33,
+      "noteId": "1685067495401",
+      "japanese": "～沿い",
+      "reading": "～ぞい",
+      "meaning": "沿着～",
+      "meaningSource": "沿着～",
+      "audio": "音频/033_～沿い.mp3",
+      "sourceAudio": "hypertts-0a130ad88c0f22c04ad75aad25c40f4a06a287413c58709a2b5924af.mp3"
+    },
+    {
+      "index": 34,
+      "noteId": "1685067495402",
+      "japanese": "流れる",
+      "reading": "ながれる",
+      "meaning": "流淌",
+      "meaningSource": "流淌",
+      "audio": "音频/034_流れる.mp3",
+      "sourceAudio": "hypertts-559c7b57ad8e8c91b957452b42d68e538fda750ca9d26456af6cb5f1.mp3"
+    },
+    {
+      "index": 35,
+      "noteId": "1685067495403",
+      "japanese": "～方［右の～］",
+      "reading": "ほう［みぎの～］",
+      "meaning": "～方、～边［右边］",
+      "meaningSource": "～方、～边［右边］",
+      "audio": "音频/035_～方［右の～］.mp3",
+      "sourceAudio": "hypertts-cd62b3a0415d022fadadf465291ef040e2366c2bbdb7fbcd8373f323.mp3"
+    },
+    {
+      "index": 36,
+      "noteId": "1685067495404",
+      "japanese": "南北",
+      "reading": "なんぼく",
+      "meaning": "南北",
+      "meaningSource": "南北",
+      "audio": "音频/036_南北.mp3",
+      "sourceAudio": "hypertts-db7da08a033b0134abb30b9b1a752bccc913a72e1981fea21bb08778.mp3"
+    },
+    {
+      "index": 37,
+      "noteId": "1685067495405",
+      "japanese": "逆",
+      "reading": "ぎゃく",
+      "meaning": "相反",
+      "meaningSource": "相反",
+      "audio": "音频/037_逆.mp3",
+      "sourceAudio": "hypertts-081a62d3e32d9b20d594a820104bf8b974ef1e53ed92952848b2d77b.mp3"
+    },
+    {
+      "index": 38,
+      "noteId": "1685067495406",
+      "japanese": "南半球",
+      "reading": "みなみはんきゅう",
+      "meaning": "南半球",
+      "meaningSource": "南半球",
+      "audio": "音频/038_南半球.mp3",
+      "sourceAudio": "hypertts-dfc3067d279910af808541025f49c8530f4ded25a9c243c88f0c9e58.mp3"
+    },
+    {
+      "index": 39,
+      "noteId": "1685067495407",
+      "japanese": "北半球",
+      "reading": "きたはんきゅう",
+      "meaning": "北半球",
+      "meaningSource": "北半球",
+      "audio": "音频/039_北半球.mp3",
+      "sourceAudio": "hypertts-3c30015cf178a0c12667f1dba3d50fbb23a296cc185da099c58687b2.mp3"
+    },
+    {
+      "index": 40,
+      "noteId": "1685067495408",
+      "japanese": "常識",
+      "reading": "じょうしき",
+      "meaning": "常识",
+      "meaningSource": "常识",
+      "audio": "音频/040_常識.mp3",
+      "sourceAudio": "hypertts-e60b1d1828e1bc32588d2fb875d5eb367e7ee5aa98348726a54daa0d.mp3"
+    },
+    {
+      "index": 41,
+      "noteId": "1685067495409",
+      "japanese": "差別",
+      "reading": "さべつ",
+      "meaning": "差别",
+      "meaningSource": "差别",
+      "audio": "音频/041_差別.mp3",
+      "sourceAudio": "hypertts-9376670330978402893032e3f3f37cfbe39e5ea96d2af2562ca74f36.mp3"
+    },
+    {
+      "index": 42,
+      "noteId": "1685067495410",
+      "japanese": "平等［な］",
+      "reading": "びょうどう［な］",
+      "meaning": "平等［的］",
+      "meaningSource": "平等［的］",
+      "audio": "音频/042_平等［な］.mp3",
+      "sourceAudio": "hypertts-80c71d2a8b4959bb6fe02347249628b093b5f036e3137d71a6fd3d3f.mp3"
+    },
+    {
+      "index": 43,
+      "noteId": "1685067495411",
+      "japanese": "位置",
+      "reading": "いち",
+      "meaning": "位置",
+      "meaningSource": "位置",
+      "audio": "音频/043_位置.mp3",
+      "sourceAudio": "hypertts-f231d138a37c2fc4bc2872be413922d6ff4696c2d956d5cfb3439543.mp3"
+    },
+    {
+      "index": 44,
+      "noteId": "1685067495412",
+      "japanese": "人間",
+      "reading": "にんげん",
+      "meaning": "人、人类",
+      "meaningSource": "人、人类",
+      "audio": "音频/044_人間.mp3",
+      "sourceAudio": "hypertts-1a3af7ff08c858efe3e7b2831b148e941d7c6a543939e68755c3cc0e.mp3"
+    },
+    {
+      "index": 45,
+      "noteId": "1685067495413",
+      "japanese": "観察する",
+      "reading": "かんさつする",
+      "meaning": "观察",
+      "meaningSource": "观察",
+      "audio": "音频/045_観察する.mp3",
+      "sourceAudio": "hypertts-59985dd97eeb27299f2c454e3dbf7ae7ec417771c412edc20352e3e9.mp3"
+    },
+    {
+      "index": 46,
+      "noteId": "1685067495414",
+      "japanese": "面",
+      "reading": "めん",
+      "meaning": "面、平面、方面",
+      "meaningSource": "面、平面、方面",
+      "audio": "音频/046_面.mp3",
+      "sourceAudio": "hypertts-9a2a32bdcb3a0a60b671a14e1092924305bcfc408fe6ebe7950884a4.mp3"
+    },
+    {
+      "index": 47,
+      "noteId": "1685067495415",
+      "japanese": "中央",
+      "reading": "ちゅうおう",
+      "meaning": "中央",
+      "meaningSource": "中央",
+      "audio": "音频/047_中央.mp3",
+      "sourceAudio": "hypertts-374f62e54f4e3434c85e022db32c6a47cb994be90b9d50a715504456.mp3"
+    },
+    {
+      "index": 48,
+      "noteId": "1685067495416",
+      "japanese": "自然に",
+      "reading": "しぜんに",
+      "meaning": "自然地",
+      "meaningSource": "自然地",
+      "audio": "音频/048_自然に.mp3",
+      "sourceAudio": "hypertts-ed8d14b5af47bc4ee220223f74e7b13a70eb9e9aff772b1610d91da1.mp3"
+    },
+    {
+      "index": 49,
+      "noteId": "1685067495417",
+      "japanese": "努力する",
+      "reading": "どりょくする",
+      "meaning": "努力",
+      "meaningSource": "努力",
+      "audio": "音频/049_努力する.mp3",
+      "sourceAudio": "hypertts-cfccce6419122a4bb242450ca50c29089f2d403efd86be8914572827.mp3"
+    },
+    {
+      "index": 50,
+      "noteId": "1685067495418",
+      "japanese": "そこで",
+      "reading": "",
+      "meaning": "因此",
+      "meaningSource": "因此",
+      "audio": "音频/050_そこで.mp3",
+      "sourceAudio": "hypertts-55d6b833494e0eb2f0fd63982c1d2d55333edd823d34bcf05fa8a31d.mp3"
+    },
+    {
+      "index": 51,
+      "noteId": "1685067495419",
+      "japanese": "普通",
+      "reading": "ふつう",
+      "meaning": "普通",
+      "meaningSource": "普通",
+      "audio": "音频/051_普通.mp3",
+      "sourceAudio": "hypertts-167164579e7e8157b2778b1adb70b357ca6d606ceb9c041b5cfd293d.mp3"
+    },
+    {
+      "index": 52,
+      "noteId": "1685067495420",
+      "japanese": "経緯度",
+      "reading": "けいいど",
+      "meaning": "经纬度",
+      "meaningSource": "经纬度",
+      "audio": "音频/052_経緯度.mp3",
+      "sourceAudio": "hypertts-158609b514fd4f4143252b65806b4efee20478f59b9ea99fef3c5a72.mp3"
+    },
+    {
+      "index": 53,
+      "noteId": "1685067495421",
+      "japanese": "無意識に",
+      "reading": "むいしきに",
+      "meaning": "无意、不知不觉",
+      "meaningSource": "无意、不知不觉",
+      "audio": "音频/053_無意識に.mp3",
+      "sourceAudio": "hypertts-0f3f0ed619d03ef77af774ec032ed893f89ef2be49fd9fa418b1fdb4.mp3"
+    },
+    {
+      "index": 54,
+      "noteId": "1685067495422",
+      "japanese": "表れ",
+      "reading": "あらわれ",
+      "meaning": "流露（自己没有意识到的、自然流露出来的感情和认识)",
+      "meaningSource": "流露（自己没有意识到的、自然流露出来的感情和认识)",
+      "audio": "音频/054_表れ.mp3",
+      "sourceAudio": "hypertts-8a72b6ca9ca0f454bf08c116bae161632302f707a485ec7a20fbdcdd.mp3"
+    },
+    {
+      "index": 55,
+      "noteId": "1685067495423",
+      "japanese": "上下",
+      "reading": "じょうげ",
+      "meaning": "上下",
+      "meaningSource": "上下",
+      "audio": "音频/055_上下.mp3",
+      "sourceAudio": "hypertts-acd1257ea19bd74ef2aa81d585b6b52d449f958e7ae85227c6ad5cd8.mp3"
+    },
+    {
+      "index": 56,
+      "noteId": "1685067495424",
+      "japanese": "左右",
+      "reading": "さゆう",
+      "meaning": "左右",
+      "meaningSource": "左右",
+      "audio": "音频/056_左右.mp3",
+      "sourceAudio": "hypertts-b59be0a3b12b10f2d65dc897199feea79eee38ff6c8200227f4948ab.mp3"
+    },
+    {
+      "index": 57,
+      "noteId": "1685067495425",
+      "japanese": "少なくとも",
+      "reading": "すくなくとも",
+      "meaning": "至少",
+      "meaningSource": "至少",
+      "audio": "音频/057_少なくとも.mp3",
+      "sourceAudio": "hypertts-416c51aafc5376a10206b5135946615e700dfcc72c37bd539ceb4857.mp3"
+    },
+    {
+      "index": 58,
+      "noteId": "1685067495426",
+      "japanese": "文句",
+      "reading": "もんく",
+      "meaning": "牢骚、抱怨（～を言う/发牢骚）",
+      "meaningSource": "牢骚、抱怨（～を言う/发牢骚）",
+      "audio": "音频/058_文句.mp3",
+      "sourceAudio": "hypertts-03c154f756bff86d6a682ef20aabcb91c57ef31997c25b61afd4223f.mp3"
+    },
+    {
+      "index": 59,
+      "noteId": "1685067495427",
+      "japanese": "わざと",
+      "reading": "",
+      "meaning": "故意（地）",
+      "meaningSource": "故意（地）",
+      "audio": "音频/059_わざと.mp3",
+      "sourceAudio": "hypertts-48fed4d97558c278c95b8959f1b37632bb6da7ef1f906fb037d93db8.mp3"
+    },
+    {
+      "index": 60,
+      "noteId": "1685067495428",
+      "japanese": "経度",
+      "reading": "けいど",
+      "meaning": "经度",
+      "meaningSource": "经度",
+      "audio": "音频/060_経度.mp3",
+      "sourceAudio": "hypertts-508f4c236a7625ff22b1049e8b8799cca8191f53a542dd1d35fa29bc.mp3"
+    },
+    {
+      "index": 61,
+      "noteId": "1685067495429",
+      "japanese": "緯度",
+      "reading": "いど",
+      "meaning": "纬度",
+      "meaningSource": "纬度",
+      "audio": "音频/061_緯度.mp3",
+      "sourceAudio": "hypertts-868c61d2c3ac0b03a5a022aff90e00726c2a42101f79595c6981debd.mp3"
+    },
+    {
+      "index": 62,
+      "noteId": "1685067495430",
+      "japanese": "使用する",
+      "reading": "しようする",
+      "meaning": "使用",
+      "meaningSource": "使用",
+      "audio": "音频/062_使用する.mp3",
+      "sourceAudio": "hypertts-8716ac653a5c03e183199d8d632661f803b637b8054686300447351d.mp3"
+    },
+    {
+      "index": 63,
+      "noteId": "1685067495431",
+      "japanese": "東西",
+      "reading": "とうざい",
+      "meaning": "东西（方）",
+      "meaningSource": "东西（方）",
+      "audio": "音频/063_東西.mp3",
+      "sourceAudio": "hypertts-4e491d2d18924d535a6a49c1ee3173ad754cbf7a8488d561c2608e98.mp3"
+    },
+    {
+      "index": 64,
+      "noteId": "1685067495432",
+      "japanese": "～から、～てください。",
+      "reading": "",
+      "meaning": "请你先～然后～。\n为了让对方明白，利用地标物来说明路线。",
+      "meaningSource": "请你先～然后～。<br>为了让对方明白，利用地标物来说明路线。",
+      "audio": "音频/064_～から、～てください。.mp3",
+      "sourceAudio": "hypertts-66a7a124c14189c4327e74e3b9a22fefad240bca53904dc9c36d14ab.mp3"
+    },
+    {
+      "index": 65,
+      "noteId": "1685067495433",
+      "japanese": "函館",
+      "reading": "はこだて",
+      "meaning": "函馆：北海道南部的海港城市。",
+      "meaningSource": "函馆：北海道南部的海港城市。",
+      "audio": "音频/065_函館.mp3",
+      "sourceAudio": "hypertts-63f7afb5de9d2518062fe481e1017d14656c7eef1f9b867fffe69840.mp3"
+    },
+    {
+      "index": 66,
+      "noteId": "1685067495434",
+      "japanese": "東京タワー",
+      "reading": "",
+      "meaning": "东京塔：1958 年建造的、位于东京港区的电视塔。",
+      "meaningSource": "东京塔：1958 年建造的、位于东京港区的电视塔。",
+      "audio": "音频/066_東京タワー.mp3",
+      "sourceAudio": "hypertts-ac2fa4e75d631ce0d37ecbf6704bb18d38bb8415f287c38763f627c7.mp3"
+    },
+    {
+      "index": 67,
+      "noteId": "1685067495435",
+      "japanese": "アラビア語",
+      "reading": "",
+      "meaning": "阿拉伯语",
+      "meaningSource": "阿拉伯语",
+      "audio": "音频/067_アラビア語.mp3",
+      "sourceAudio": "hypertts-00fb56c77266bb3eb042521007a771d179219e31ac645f9dc3d0ff35.mp3"
+    },
+    {
+      "index": 68,
+      "noteId": "1685067495436",
+      "japanese": "マッカーサー",
+      "reading": "",
+      "meaning": "麦克阿瑟：Stuart McArthur 澳大利亚人，高中教师。",
+      "meaningSource": "麦克阿瑟：Stuart McArthur 澳大利亚人，高中教师。",
+      "audio": "音频/068_マッカーサー.mp3",
+      "sourceAudio": "hypertts-20fc7cc58602eb94310b836a7bedc728dbbd54c32b1492713d4ae12d.mp3"
+    },
+    {
+      "index": 69,
+      "noteId": "1685067495437",
+      "japanese": "アフリカ",
+      "reading": "",
+      "meaning": "非洲",
+      "meaningSource": "非洲",
+      "audio": "音频/069_アフリカ.mp3",
+      "sourceAudio": "hypertts-c62252ad6570e081d7c7250771b9e5f2108675da58672bdc5c070afd.mp3"
+    },
+    {
+      "index": 70,
+      "noteId": "1685067495438",
+      "japanese": "南アメリカ",
+      "reading": "",
+      "meaning": "南美",
+      "meaningSource": "南美",
+      "audio": "音频/070_南アメリカ.mp3",
+      "sourceAudio": "hypertts-e4693b6b38e898af71ff7b3183f946decac542b47f43af66515b9865.mp3"
+    }
+  ]
+}
